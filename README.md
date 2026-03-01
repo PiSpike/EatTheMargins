@@ -1,4 +1,5 @@
 # 🥗 Eat The Margins
+![App Screenshot](assets/eatthemargins.png)
 **The SFU Dining Hall Value & Nutrition Tracker.**
 
 Eat The Margins is a web application designed for students at Simon Fraser University to maximize the value of their meal plan. By scraping daily menu data and applying wholesale cost estimations, it identifies which meals provide the best "ROI" (Return on Investment) in terms of cost and nutrition.
