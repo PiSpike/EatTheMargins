@@ -11,32 +11,72 @@
             --sfu-gold: #F1BE48;
             --dark-bg: #121212;
             --card-bg: #1e1e1e;
-            /* Improved visibility: Changed from gray to a bright off-white */
             --text-high-contrast: #ffffff; 
             --text-muted-bright: #e0e0e0; 
         }
 
         body { background: var(--dark-bg); color: white; font-family: 'Inter', system-ui, -apple-system, sans-serif; }
         
+        .live-status-bar {
+            background: #000;
+            color: var(--sfu-gold);
+            font-size: 0.75rem;
+            font-weight: bold;
+            letter-spacing: 1.5px;
+            padding: 6px 0;
+            border-bottom: 1px solid #333;
+        }
+
+        /* ENHANCED HERO CARD */
         .hero-card {
-            background: linear-gradient(135deg, var(--sfu-red) 0%, #7d1222 100%);
+            background: linear-gradient(145deg, #2a2a2a 0%, #121212 100%);
             border: 2px solid var(--sfu-gold);
             border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 25px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 0 20px rgba(241, 190, 72, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-card::before {
+            content: "TOP VALUE";
+            position: absolute;
+            top: 10px;
+            right: -25px;
+            background: var(--sfu-gold);
+            color: black;
+            font-size: 0.6rem;
+            font-weight: 900;
+            padding: 2px 30px;
+            transform: rotate(45deg);
+        }
+
+        .hero-price {
+            font-size: 2.5rem;
+            font-weight: 900;
+            color: var(--sfu-gold);
+            line-height: 1;
         }
 
         .sticky-summary {
             position: sticky; top: 10px; z-index: 1050;
-            background: rgba(166, 25, 46, 0.95);
-            backdrop-filter: blur(10px);
+            background: rgba(166, 25, 46, 0.98);
+            backdrop-filter: blur(12px);
             border-radius: 12px; padding: 15px;
-            border: 1px solid var(--sfu-gold);
-            box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+            border: 1px solid rgba(255,255,255,0.2);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
 
-        /* Accordion Styling */
+        .macro-pill {
+            background: rgba(0,0,0,0.4);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            font-weight: 600;
+        }
+
         .accordion-item { background: var(--card-bg); border: 1px solid #333; margin-bottom: 8px; border-radius: 8px !important; overflow: hidden; }
         .accordion-button { 
             background: #252525 !important; 
@@ -44,21 +84,15 @@
             font-weight: bold; 
             box-shadow: none !important;
         }
-        .accordion-button:not(.collapsed) { border-bottom: 1px solid var(--sfu-red); }
         
-        /* Item Rows */
-        .item-row { border-bottom: 1px solid #333; padding: 15px; transition: background 0.2s; }
-        .item-row:hover { background: rgba(255,255,255,0.02); }
-        
-        /* Text Visibility Fixes */
+        .item-row { border-bottom: 1px solid #333; padding: 15px; }
         .fw-bold { color: var(--text-high-contrast) !important; }
         .item-detail-text { color: var(--text-muted-bright) !important; font-size: 0.9rem; }
         
-        /* Counter Controls */
         .counter-btn { 
             width: 38px; height: 38px; border: 1px solid var(--sfu-red); 
             background: transparent; color: white; border-radius: 8px; 
-            font-size: 1.2rem; transition: 0.2s;
+            font-size: 1.2rem;
         }
         .counter-btn:hover { background: var(--sfu-red); }
         .qty-input { 
@@ -69,7 +103,7 @@
 
         .protein-badge { 
             background: var(--sfu-gold); color: black; 
-            font-size: 0.7rem; font-weight: bold; 
+            font-size: 0.65rem; font-weight: bold; 
             padding: 2px 6px; border-radius: 4px; margin-left: 8px;
         }
 
@@ -78,20 +112,29 @@
 </head>
 <body>
 
+<div class="live-status-bar text-center">
+    ● <span id="currentDate"></span> | <span id="currentTime"></span>
+</div>
+
 <div class="container py-4">
     <div class="text-center mb-4">
         <h1 class="display-5 fw-bold" style="color: var(--sfu-red); text-shadow: 2px 2px #000;">EAT THE MARGINS</h1>
-        <p class="text-muted-bright">Dining Commons Value Tracker</p>
+        <p class="text-muted-bright opacity-75">SFU Dining Commons Value Tracker</p>
     </div>
 
     <div id="max-value-hero"></div>
 
-    <div class="sticky-summary d-flex justify-content-between align-items-center mb-4">
-        <div>
-            <small class="text-uppercase fw-bold opacity-75" style="font-size: 0.7rem; color: white;">Session Value</small>
-            <h2 class="mb-0" id="grandTotal" style="color: white;">$0.00</h2>
+    <div class="sticky-summary mb-4">
+        <div class="d-flex justify-content-between align-items-center">
+            <h2 class="mb-0 fw-black" id="grandTotal" style="font-weight: 900; letter-spacing: -1px;">$0.00</h2>
+            <div class="d-flex gap-2">
+                <div class="macro-pill"><span id="totalProtein">0</span>g Protein</div>
+                <button class="btn btn-outline-light btn-sm px-3" onclick="resetCart()" style="border-radius: 20px; font-size: 0.7rem;">RESET</button>
+            </div>
         </div>
-        <button class="btn btn-outline-light btn-sm" onclick="resetCart()">Clear All</button>
+        <div class="mt-2 opacity-75" style="font-size: 0.75rem;">
+            Total Calories: <span id="totalCals">0</span> kcal
+        </div>
     </div>
 
     <div class="row g-2 mb-4">
@@ -118,6 +161,14 @@
     const today = "{{ today }}";
     let cart = {};
 
+    function updateClock() {
+        const now = new Date();
+        document.getElementById('currentDate').innerText = now.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' }).toUpperCase();
+        document.getElementById('currentTime').innerText = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+
     function updateView() {
         const searchVal = document.getElementById('search').value.toLowerCase();
         const activePeriods = ['BREAKFAST', 'LUNCH', 'DINNER', 'DAILY'].filter(p => document.getElementById('f-'+p).checked);
@@ -128,11 +179,8 @@
         activePeriods.forEach(p => {
             if (history[today] && history[today][p]) {
                 history[today][p].forEach(id => {
-                    if (inventory[id]) {
-                        // Avoid duplicates if item is in multiple periods
-                        if (!visibleItems.find(i => i.id === id)) {
-                            visibleItems.push({...inventory[id], id: id, period: p});
-                        }
+                    if (inventory[id] && !visibleItems.find(i => i.id === id)) {
+                        visibleItems.push({...inventory[id], id: id, period: p});
                     }
                 });
             }
@@ -140,14 +188,22 @@
 
         if (searchVal) visibleItems = visibleItems.filter(i => i.name.toLowerCase().includes(searchVal));
 
-        // Update Hero (Max Price)
+        // UPDATED HERO LOGIC
         if (visibleItems.length > 0) {
             const top = visibleItems.reduce((prev, current) => (prev.estimated_cost_cents > current.estimated_cost_cents) ? prev : current);
             heroContainer.innerHTML = `
-                <div class="hero-card text-center">
-                    <h6 class="text-uppercase fw-bold" style="color: var(--sfu-gold)">💎 Highest Value Option</h6>
-                    <h2 class="mb-1">${top.name}</h2>
-                    <p class="mb-0">Wholesale Estimate: <span class="fw-bold" style="color: var(--sfu-gold)">$${(top.estimated_cost_cents/100).toFixed(2)}</span></p>
+                <div class="hero-card">
+                    <div class="row align-items-center">
+                        <div class="col-7">
+                            <h6 class="text-uppercase mb-1" style="color: var(--sfu-gold); font-weight: 800; font-size: 0.7rem;">Most Valuable Right Now</h6>
+                            <h3 class="mb-0 fw-bold" style="letter-spacing: -0.5px;">${top.name}</h3>
+                            <p class="mb-0 mt-2 opacity-75 small">${top.category} | ${top.portion}</p>
+                        </div>
+                        <div class="col-5 text-end">
+                            <div class="hero-price">$${(top.estimated_cost_cents/100).toFixed(2)}</div>
+                            <div class="small opacity-50">EST. WHOLESALE</div>
+                        </div>
+                    </div>
                 </div>`;
         } else { heroContainer.innerHTML = ''; }
 
@@ -193,7 +249,7 @@
                 </div>
             </div>`;
         });
-        container.innerHTML = html || '<div class="text-center p-5 opacity-50">No items found for this selection.</div>';
+        container.innerHTML = html || '<div class="text-center p-5 opacity-50">No items found.</div>';
         calcTotal();
     }
 
@@ -211,15 +267,21 @@
         calcTotal();
     }
 
-    function resetCart() {
-        cart = {};
-        updateView();
-    }
+    function resetCart() { cart = {}; updateView(); }
 
     function calcTotal() {
-        let t = 0;
-        for (let id in cart) if (inventory[id]) t += (cart[id] * (inventory[id].estimated_cost_cents || 0));
-        document.getElementById('grandTotal').innerText = `$${(t/100).toFixed(2)}`;
+        let money = 0, cals = 0, protein = 0;
+        for (let id in cart) {
+            if (inventory[id]) {
+                const count = cart[id];
+                money += (count * (inventory[id].estimated_cost_cents || 0));
+                cals += (count * (parseFloat(inventory[id].nutrients.calories) || 0));
+                protein += (count * (parseFloat(inventory[id].nutrients.protein) || 0));
+            }
+        }
+        document.getElementById('grandTotal').innerText = `$${(money/100).toFixed(2)}`;
+        document.getElementById('totalCals').innerText = Math.round(cals);
+        document.getElementById('totalProtein').innerText = Math.round(protein);
     }
 
     document.addEventListener('DOMContentLoaded', updateView);

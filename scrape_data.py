@@ -174,5 +174,5 @@ def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory
     print(f"Success! Your database has been exported to: {output_csv}")
 
 #scrape_menu(DATE)
-update_database('sfu_menu.csv', DATE)
+# update_database('sfu_menu.csv', DATE)
 #export_json_to_csv()

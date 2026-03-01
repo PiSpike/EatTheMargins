@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
 
@@ -18,8 +18,12 @@ def load_data():
 def home():
     try:
         inventory, history = load_data()
-        today = datetime.now().strftime('%Y-%m-%d')
-        
+        #today = datetime.now().strftime('%Y-%m-%d')
+        now = datetime.now()
+        if now.hour < 6:
+            today = (now - timedelta(days=1)).strftime('%Y-%m-%d')
+        else:
+            today = now.strftime('%Y-%m-%d')
         # Determine the current meal period based on hour
         hour = datetime.now().hour
         if 6 <= hour < 10:
