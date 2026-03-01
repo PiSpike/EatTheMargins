@@ -78,6 +78,7 @@ def update_database(scrape_csv_path, date_string):
     inventory_path = 'inventory.json'
     history_path = 'menu_history.json'
     
+    # Load existing data
     inventory = json.load(open(inventory_path)) if os.path.exists(inventory_path) else {}
     history = json.load(open(history_path)) if os.path.exists(history_path) else {}
 
@@ -89,33 +90,42 @@ def update_database(scrape_csv_path, date_string):
     for _, row in df.iterrows():
         item_id = str(row['ID'])
         meal_period = str(row['Meal']).upper()
+        # Clean up category name (e.g., "Rise and Dine" or "The Sprout")
+        category_name = str(row['Category']).strip() if pd.notna(row['Category']) else 'General'
 
+        # Update or Create Inventory Entry
         if item_id not in inventory:
             inventory[item_id] = {
                 "name": row['Item'],
-                "ingredients": row['Ingredients'],
+                "category": category_name,  # <--- THIS IS THE FIX
+                "ingredients": row['Ingredients'] if pd.notna(row['Ingredients']) else "No ingredients listed",
                 "nutrients": {
-                    "protein": row['Protein'],
-                    "fat": row['Fat'],
-                    "carbs": row['Carbs'],
-                    "calories": row['Calories']
+                    "protein": str(row['Protein']),
+                    "fat": str(row['Fat']),
+                    "carbs": str(row['Carbs']),
+                    "calories": str(row['Calories'])
                 },
-                "portion": row['Portion'] if pd.notna(row['Portion']) else '1 serving', # SAVING PORTION
+                "portion": row['Portion'] if pd.notna(row['Portion']) else '1 serving',
                 "estimated_cost_cents": None 
             }
+        else:
+            # Optional: Update the category if it changed but item ID stayed the same
+            inventory[item_id]["category"] = category_name
         
+        # Sync History (The "Daily Menu")
         if meal_period not in history[date_string]:
             history[date_string][meal_period] = []
         
         if item_id not in history[date_string][meal_period]:
             history[date_string][meal_period].append(item_id)
 
+    # Save files
     with open(inventory_path, 'w') as f:
         json.dump(inventory, f, indent=2)
     with open(history_path, 'w') as f:
         json.dump(history, f, indent=2)
 
-    print(f"Database synced. Inventory size: {len(inventory)} items.")
+    print(f"Database synced. Items grouped by station labels.")
 
 
 def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory_export.csv'):
@@ -163,6 +173,6 @@ def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory
 
     print(f"Success! Your database has been exported to: {output_csv}")
 
-scrape_menu(DATE)
+#scrape_menu(DATE)
 update_database('sfu_menu.csv', DATE)
 #export_json_to_csv()

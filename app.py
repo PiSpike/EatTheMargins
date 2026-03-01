@@ -1,42 +1,44 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import json
+import os
 from datetime import datetime
 
 app = Flask(__name__)
 
-def get_todays_menu():
-    # Load your files
-    with open('inventory.json', 'r') as f:
+def load_data():
+    # Use absolute paths to avoid issues on the server
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(base_dir, 'inventory.json'), 'r') as f:
         inventory = json.load(f)
-    with open('menu_history.json', 'r') as f:
+    with open(os.path.join(base_dir, 'menu_history.json'), 'r') as f:
         history = json.load(f)
-
-    today = datetime.now().strftime('%Y-%m-%d')
-    # history[today] might look like {"LUNCH": ["id1", "id2"], "DINNER": [...]}
-    
-    day_data = history.get(today, {})
-    all_items = []
-
-    for period, ids in day_data.items():
-        for iid in ids:
-            item = inventory.get(iid)
-            if item:
-                item['period'] = period
-                # Ensure there's a cost; default to 0 if Gemma hasn't tagged it yet
-                item['cost'] = item.get('estimated_cost_cents', 0) / 100 
-                all_items.append(item)
-
-    # Sort by cost descending
-    sorted_items = sorted(all_items, key=lambda x: x['cost'], reverse=True)
-    return sorted_items
+    return inventory, history
 
 @app.route('/')
 def home():
-    menu = get_todays_menu()
-    top_item = menu[0] if menu else None
-    rest_of_menu = menu[1:] if len(menu) > 1 else []
-    
-    return render_template('index.html', top_item=top_item, menu=rest_of_menu)
+    try:
+        inventory, history = load_data()
+        today = datetime.now().strftime('%Y-%m-%d')
+        
+        # Determine the current meal period based on hour
+        hour = datetime.now().hour
+        if 6 <= hour < 10:
+            current_period = "BREAKFAST"
+        elif 10 <= hour < 17:
+            current_period = "LUNCH"
+        elif 17 <= hour < 22:
+            current_period = "DINNER"
+        else:
+            current_period = "DAILY"
+
+            
+        return render_template('index.html', 
+                               inventory_json=json.dumps(inventory), 
+                               history_json=json.dumps(history),
+                               today=today,
+                               current_period=current_period)
+    except Exception as e:
+        return f"<h1>Error</h1><p>{str(e)}</p>"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000, debug=True)
