@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>SFU Value Tracker</title>
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">💎 SFU Dining Value Tracker</h1>
+
+        {% if top_item %}
+        <div class="card border-warning shadow-lg mb-5 text-center">
+            <div class="card-header bg-warning text-dark"><strong>🔥 MAXIMUM VALUE RIGHT NOW</strong></div>
+            <div class="card-body">
+                <h2 class="display-4">{{ top_item.name }}</h2>
+                <p class="lead">Estimated Cost to Commons: <strong>${{ "%.2f"|format(top_item.cost) }}</strong></p>
+                <span class="badge bg-secondary">{{ top_item.period }}</span>
+            </div>
+        </div>
+        {% endif %}
+
+        <h3>Full Menu Today</h3>
+        <table class="table table-hover bg-white shadow-sm">
+            <thead class="table-dark">
+                <tr>
+                    <th>Item</th>
+                    <th>Period</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in menu %}
+                <tr>
+                    <td>{{ item.name }}</td>
+                    <td>{{ item.period }}</td>
+                    <td class="text-success font-monospace">${{ "%.2f"|format(item.cost) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
