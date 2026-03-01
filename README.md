@@ -35,9 +35,6 @@ To prevent "false positives" (like mushrooms or celery appearing as high protein
 ### Cost Estimation
 Prices are derived from average wholesale bulk data. While actual University costs vary, this provides a consistent baseline for comparing the relative value of a "McFraser Sandwich" vs. a bowl of cereal.
 
-## 📦 Installation & Deployment
-To run this project locally:
-
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/pispike/eatthemargins.git](https://github.com/pispike/eatthemargins.git)
