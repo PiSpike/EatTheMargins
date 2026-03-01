@@ -1,4 +1,5 @@
 __pycache__/
 *.json
-*.csv
+sfu_menu.csv
 .env
+*.ctl

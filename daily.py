@@ -18,7 +18,7 @@ def run_daily_update():
     print(f"--- Starting Update for {date_str} ---")
     
     # 1. Scrape the CSV
-    csv_path = f"scraped_menu_{date_str}.csv"
+    csv_path = f"sfu_menu.csv"
     scrape_menu(date_str) # Your function that saves the CSV
     
     # 2. Update the local JSON database and History
@@ -28,8 +28,8 @@ def run_daily_update():
     # 3. Enrich with Gemini
     # We only send items where estimated_cost_cents is None
     print("Enriching new items with Gemini...")
-    enrich_databse_batched()
-    enrich_databse_batched()
+    enrich_database_batched()
+    enrich_database_batched()
     
     print(f"--- Update Complete for {date_str} ---")
 

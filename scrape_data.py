@@ -2,11 +2,20 @@ import requests
 import csv
 import json
 import pandas as pd
+from datetime import datetime, timedelta
 import os
 
 LOCATION_ID = "63fd054f92d6b41e84b6c30e"
-DATE = "2026-02-28"
+#DATE = "2026-02-28"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+def get_dining_date():
+    """Returns the date string. If before 6 AM, returns yesterday."""
+    now = datetime.now()
+    if now.hour < 6:
+        now = now - timedelta(days=1)
+    return now.strftime('%Y-%m-%d')
+
 
 def scrape_menu(date_string):
     # This is the "Master Key" URL that finds the IDs for us
@@ -78,26 +87,33 @@ def update_database(scrape_csv_path, date_string):
     inventory_path = 'inventory.json'
     history_path = 'menu_history.json'
     
-    # Load existing data
-    inventory = json.load(open(inventory_path)) if os.path.exists(inventory_path) else {}
-    history = json.load(open(history_path)) if os.path.exists(history_path) else {}
+    # 1. Load existing inventory (we want to keep this to save Gemini costs!)
+    if os.path.exists(inventory_path):
+        with open(inventory_path, 'r') as f:
+            inventory = json.load(f)
+    else:
+        inventory = {}
+
+    # 2. START FRESH for history (This is the change you wanted)
+    # We do NOT load history from file. We start with an empty dict.
+    history = {} 
 
     df = pd.read_csv(scrape_csv_path)
     
+    # Initialize the date key in our fresh history object
     if date_string not in history:
         history[date_string] = {}
 
     for _, row in df.iterrows():
         item_id = str(row['ID'])
         meal_period = str(row['Meal']).upper()
-        # Clean up category name (e.g., "Rise and Dine" or "The Sprout")
         category_name = str(row['Category']).strip() if pd.notna(row['Category']) else 'General'
 
         # Update or Create Inventory Entry
         if item_id not in inventory:
             inventory[item_id] = {
                 "name": row['Item'],
-                "category": category_name,  # <--- THIS IS THE FIX
+                "category": category_name, 
                 "ingredients": row['Ingredients'] if pd.notna(row['Ingredients']) else "No ingredients listed",
                 "nutrients": {
                     "protein": str(row['Protein']),
@@ -109,7 +125,7 @@ def update_database(scrape_csv_path, date_string):
                 "estimated_cost_cents": None 
             }
         else:
-            # Optional: Update the category if it changed but item ID stayed the same
+            # Update the category/ingredients if they changed, but keep the cost!
             inventory[item_id]["category"] = category_name
         
         # Sync History (The "Daily Menu")
@@ -119,14 +135,15 @@ def update_database(scrape_csv_path, date_string):
         if item_id not in history[date_string][meal_period]:
             history[date_string][meal_period].append(item_id)
 
-    # Save files
+    # Save Inventory (Persistent data)
     with open(inventory_path, 'w') as f:
         json.dump(inventory, f, indent=2)
+
+    # Save History (ONLY today's data)
     with open(history_path, 'w') as f:
         json.dump(history, f, indent=2)
 
-    print(f"Database synced. Items grouped by station labels.")
-
+    print(f"Database synced. History cleared and updated for {date_string}.")
 
 def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory_export.csv'):
     if not os.path.exists(input_json):
@@ -174,5 +191,5 @@ def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory
     print(f"Success! Your database has been exported to: {output_csv}")
 
 #scrape_menu(DATE)
-# update_database('sfu_menu.csv', DATE)
-#export_json_to_csv()
+#update_database('sfu_menu.csv', get_dining_date())
+export_json_to_csv()
