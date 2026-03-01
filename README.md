@@ -1,5 +1,5 @@
 # 🥗 Eat The Margins
-![App Screenshot](assets/app-preview.png)
+![App Screenshot](assets/eatthemargins.png)
 
 **The SFU Dining Hall Value & Nutrition Tracker.**
 
