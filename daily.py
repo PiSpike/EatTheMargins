@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 import time
 # Import your existing scripts/functions
-from scrape_data import scrape_menu, update_database
+from scrape_data import scrape_menu, update_database, export_json_to_csv
 from gemini import enrich_database_batched # Assume this is your Gemini function
 
 def get_dining_date():
@@ -30,7 +30,10 @@ def run_daily_update():
     print("Enriching new items with Gemini...")
     enrich_database_batched()
     enrich_database_batched()
-    
+
+    print("Exporting csv")
+    export_json_to_csv()
+
     print(f"--- Update Complete for {date_str} ---")
 
 if __name__ == "__main__":
