@@ -192,4 +192,4 @@ def export_json_to_csv(input_json='inventory.json', output_csv='master_inventory
 
 #scrape_menu(DATE)
 #update_database('sfu_menu.csv', get_dining_date())
-export_json_to_csv()
+#export_json_to_csv()

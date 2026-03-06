@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import time
 # Import your existing scripts/functions
 from scrape_data import scrape_menu, update_database, export_json_to_csv
-from gemini import enrich_database_batched # Assume this is your Gemini function
+from gemini import enrich_database_batched 
 
 def get_dining_date():
     """Returns the date string. If before 6 AM, returns yesterday."""
