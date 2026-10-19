@@ -70,7 +70,7 @@ def enrich_database_batched():
 
             try:
                 response = client.models.generate_content(
-                    model="gemma-3-12b-it", 
+                    model="gemini-3.5-flash-lite", 
                     contents=prompt
                 )
                 
