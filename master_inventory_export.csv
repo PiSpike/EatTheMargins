@@ -14045,3 +14045,773 @@ May Contain: Peanuts, Soy, Oats",Pre-wrapped 50g commercial bran muffin at whole
 6ad8b77b89b03e7af76200ca,Showtime Smoothie Station with Yogurt,95,$0.95,80,2,0.5,18,120 mL,"Apple Juice, Vanilla Yogurt, Mango, Blueberries, Honey","Blended mix of juice, yogurt, frozen mango, blueberries, and honey for 250ml portion"
 6ad8b77a89b03e7af761e67b,Assorted Dry Spices,5,$0.05,0,0.2,0.1,1,3 mL,"Garlic, Chili Powder, Onion, Cumin, Thyme",Amortized cost of bulk dry spices per buffet serving (5g)
 6ad8b77b89b03e7af76200ee,Assorted Dry Spices,5,$0.05,0,0.2,0.1,1,3 mL,"Garlic, Chili Powder, Onion, Cumin, Thyme",Amortized cost of bulk dry spices per buffet serving (5g)
+6ada090289b03e7af7b7e7ae,Fresh Cooked Eggs,45,$0.45,70,6,4.5,0,1 each,Egg,2 bulk large eggs @ $0.225/ea wholesale
+6ada090289b03e7af7b7ea45,Fresh Cooked Eggs,45,$0.45,70,6,4.5,0,1 each,Egg,2 bulk large eggs @ $0.225/ea wholesale
+6ada090289b03e7af7b7ea85,Scrambled Eggs,50,$0.50,120,10,8.0,3,80 mL,"Egg, 2% Milk, Salt",2 eggs plus splash of bulk 2% milk and salt
+6ada090289b03e7af7b7e7fc,Scrambled Eggs,50,$0.50,120,10,8.0,3,80 mL,"Egg, 2% Milk, Salt",2 eggs plus splash of bulk 2% milk and salt
+6ada090289b03e7af7b7eaeb,Raspberry Danish,65,$0.65,330,5,9.0,57,1 each,"Danish, Raspberry Pie Filling, Powdered Sugar, Water, Corn Syrup",Commercial frozen danish dough and raspberry filling portion
+6ada090289b03e7af7b7e87a,Raspberry Danish,65,$0.65,330,5,9.0,57,1 each,"Danish, Raspberry Pie Filling, Powdered Sugar, Water, Corn Syrup",Commercial frozen danish dough and raspberry filling portion
+6ada090289b03e7af7b7e8a7,Blueberry Muffins,55,$0.55,180,3,6.0,29,1 each,"All Purpose Flour, Soy Milk, Blueberries, Sugar, Canola Oil, Baking Powder, Salt, Vanilla Extract","Bulk scratch muffin ingredients (flour, soy milk, frozen blueberries, oil)"
+6ada090289b03e7af7b7eb0e,Blueberry Muffins,55,$0.55,180,3,6.0,29,1 each,"All Purpose Flour, Soy Milk, Blueberries, Sugar, Canola Oil, Baking Powder, Salt, Vanilla Extract","Bulk scratch muffin ingredients (flour, soy milk, frozen blueberries, oil)"
+6ada090289b03e7af7b7eb64,Plant Based Sausage Patty,60,$0.60,120,9,8.0,3,1 each,Vegan Sausage Patty,1 commercial plant-based breakfast sausage patty wholesale
+6ada090289b03e7af7b7e92c,Plant Based Sausage Patty,60,$0.60,120,9,8.0,3,1 each,Vegan Sausage Patty,1 commercial plant-based breakfast sausage patty wholesale
+6ada090289b03e7af7b7ec52,Turkey Breakfast Sausage,50,$0.50,100,8,6.0,2,56 g,Turkey Sausage,1 frozen turkey breakfast sausage link/patty wholesale
+6ada090289b03e7af7b7ea77,Turkey Breakfast Sausage,50,$0.50,100,8,6.0,2,56 g,Turkey Sausage,1 frozen turkey breakfast sausage link/patty wholesale
+6ada090289b03e7af7b7ec79,Pork Sausage Patty,40,$0.40,160,7,12.0,5,1 each,Pork Sausage,1 commercial bulk pork sausage patty
+6ada090289b03e7af7b7eaa3,Pork Sausage Patty,40,$0.40,160,7,12.0,5,1 each,Pork Sausage,1 commercial bulk pork sausage patty
+6ada090289b03e7af7b7eca9,McFraser Breakfast Sandwich,115,$1.15,320,18,14.0,27,1 each,"English Muffin, Egg, Cheddar Cheese, Bacon","English muffin, 1 egg, slice of cheddar, and 1 slice of bacon wholesale"
+6ada090289b03e7af7b7eae0,McFraser Breakfast Sandwich,115,$1.15,320,18,14.0,27,1 each,"English Muffin, Egg, Cheddar Cheese, Bacon","English muffin, 1 egg, slice of cheddar, and 1 slice of bacon wholesale"
+6ada090289b03e7af7b7eb07,French Toast,45,$0.45,200,7,3.0,35,2 slice,French Toast,Bulk frozen or house-made dipped sliced bread portion
+6ada090289b03e7af7b7ecca,French Toast,45,$0.45,200,7,3.0,35,2 slice,French Toast,Bulk frozen or house-made dipped sliced bread portion
+6ada090289b03e7af7b7eb1e,Country Style Breakfast Potatoes,35,$0.35,270,3,15.0,31,180 mL,"Home Fries, Salt",100g bulk frozen commercial home fries/potatoes
+6ada090289b03e7af7b7ecda,Country Style Breakfast Potatoes,35,$0.35,270,3,15.0,31,180 mL,"Home Fries, Salt",100g bulk frozen commercial home fries/potatoes
+6ada090289b03e7af7b7eb32,Enchilada Breakfast Casserole,145,$1.45,370,14,23.0,26,1 serving(s),"Chorizo Sausage, Flour Tortilla, Egg, Yellow Onions, Red Bell Peppers, Crushed Tomatoes, Light Sour Cream, Kalamata Olives, 2% Milk, Green Onions, Canola Oil, Garlic, Chili Powder, Cumin, Jalapeno, Salt, Bay Leaf","Bulk institutional pricing for eggs, chorizo, tortillas, and produce for a 250g breakfast casserole portion."
+6ada090289b03e7af7b7ecea,Enchilada Breakfast Casserole,145,$1.45,370,14,23.0,26,1 serving(s),"Chorizo Sausage, Flour Tortilla, Egg, Yellow Onions, Red Bell Peppers, Crushed Tomatoes, Light Sour Cream, Kalamata Olives, 2% Milk, Green Onions, Canola Oil, Garlic, Chili Powder, Cumin, Jalapeno, Salt, Bay Leaf","Bulk institutional pricing for eggs, chorizo, tortillas, and produce for a 250g breakfast casserole portion."
+6ada090289b03e7af7b7eb48,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water from tap/filtration system has negligible wholesale cost per portion.
+6ada090289b03e7af7b7ecfb,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water from tap/filtration system has negligible wholesale cost per portion.
+6ada090289b03e7af7b7e7c6,Omelette Station,185,$1.85,230,15,17.0,6,1 each,"Egg, 2% Milk, Cheddar Cheese, Green Bell Peppers, Mushrooms, Spanish Onions, Tomatoes, Smoked Ham, Canola Oil, Salt, Black Pepper","Standard 3-egg omelette portion with cheese, ham, and fresh vegetables at bulk BC wholesale rates."
+6ada090289b03e7af7b7ea5b,Omelette Station,185,$1.85,230,15,17.0,6,1 each,"Egg, 2% Milk, Cheddar Cheese, Green Bell Peppers, Mushrooms, Spanish Onions, Tomatoes, Smoked Ham, Canola Oil, Salt, Black Pepper","Standard 3-egg omelette portion with cheese, ham, and fresh vegetables at bulk BC wholesale rates."
+6ada090289b03e7af7b7ea9a,Southwestern Tofu Scramble ,110,$1.10,80,6,4.5,6,120 mL,"Tofu, Salsa, Carrots, Red Bell Peppers, Green Onions, Canola Oil, Frank's Red Hot Sriracha, Garlic, Cilantro, Cumin, Turmeric",Bulk tofu and vegetable ingredients for a standard 180g scramble portion.
+6ada090289b03e7af7b7e817,Southwestern Tofu Scramble ,110,$1.10,80,6,4.5,6,120 mL,"Tofu, Salsa, Carrots, Red Bell Peppers, Green Onions, Canola Oil, Frank's Red Hot Sriracha, Garlic, Cilantro, Cumin, Turmeric",Bulk tofu and vegetable ingredients for a standard 180g scramble portion.
+6ada090289b03e7af7b7eac3,Diced Chicken,130,$1.30,45,8,1.0,0,60 mL,Chicken Breast,Wholesale raw chicken breast at roughly $10/kg for a 130g portion.
+6ada090289b03e7af7b7e848,Diced Chicken,130,$1.30,45,8,1.0,0,60 mL,Chicken Breast,Wholesale raw chicken breast at roughly $10/kg for a 130g portion.
+6ada090289b03e7af7b7eb20,Breakfast Ham,95,$0.95,35,6,1.0,1,42 g,Smoked Ham,Bulk institutional smoked ham for a standard 100g breakfast portion.
+6ada090289b03e7af7b7e8be,Breakfast Ham,95,$0.95,35,6,1.0,1,42 g,Smoked Ham,Bulk institutional smoked ham for a standard 100g breakfast portion.
+6ada090289b03e7af7b7e8f8,Turkey Sausage,115,$1.15,150,12,10.0,4,85 g,Turkey Sausage,Bulk wholesale turkey sausage links (approx. 2 links / 90g).
+6ada090289b03e7af7b7eb41,Turkey Sausage,115,$1.15,150,12,10.0,4,85 g,Turkey Sausage,Bulk wholesale turkey sausage links (approx. 2 links / 90g).
+6ada090289b03e7af7b7e947,Sliced Fresh Mushrooms,45,$0.45,0,0.5,0.1,0,16 g,Mushrooms,Bulk wholesale fresh sliced mushrooms for a 60g station portion.
+6ada090289b03e7af7b7eb78,Sliced Fresh Mushrooms,45,$0.45,0,0.5,0.1,0,16 g,Mushrooms,Bulk wholesale fresh sliced mushrooms for a 60g station portion.
+6ada090289b03e7af7b7e964,Diced Red Peppers,50,$0.50,0,0.1,0.0,1,15 mL,Red Bell Peppers,Wholesale bulk red bell peppers for a 50g station portion.
+6ada090289b03e7af7b7eb8a,Diced Red Peppers,50,$0.50,0,0.1,0.0,1,15 mL,Red Bell Peppers,Wholesale bulk red bell peppers for a 50g station portion.
+6ada090289b03e7af7b7e99d,Diced Fresh Red Onions,20,$0.20,0,0.1,0.0,1,15 mL,Red Onions,Wholesale bulk red onions for a 40g station portion.
+6ada090289b03e7af7b7ebac,Diced Fresh Red Onions,20,$0.20,0,0.1,0.0,1,15 mL,Red Onions,Wholesale bulk red onions for a 40g station portion.
+6ada090289b03e7af7b7ebd0,Baby Spinach,35,$0.35,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $7/kg for 50g salad bar portion
+6ada090289b03e7af7b7e9ce,Baby Spinach,35,$0.35,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $7/kg for 50g salad bar portion
+6ada090289b03e7af7b7ec0b,Fresh Chopped Parsley,15,$0.15,0,0.1,0.0,0,2 g,Parsley,Bulk fresh parsley @ $12/kg for 15g garnish portion
+6ada090289b03e7af7b7ea1d,Fresh Chopped Parsley,15,$0.15,0,0.1,0.0,0,2 g,Parsley,Bulk fresh parsley @ $12/kg for 15g garnish portion
+6ada090289b03e7af7b7ec2e,Diced Tomatoes,30,$0.30,0,0.1,0.0,0,15 mL,Tomatoes,Bulk diced tomatoes @ $4/kg for 75g portion
+6ada090289b03e7af7b7ea4d,Diced Tomatoes,30,$0.30,0,0.1,0.0,0,15 mL,Tomatoes,Bulk diced tomatoes @ $4/kg for 75g portion
+6ada090289b03e7af7b7ec41,Shredded Cheddar Cheese,65,$0.65,60,3,5.0,1,15 g,Cheddar Cheese,Bulk shredded cheddar @ $11/kg for 60g portion
+6ada090289b03e7af7b7ea62,Shredded Cheddar Cheese,65,$0.65,60,3,5.0,1,15 g,Cheddar Cheese,Bulk shredded cheddar @ $11/kg for 60g portion
+6ada090289b03e7af7b7ec99,Shredded Mozzarella Cheese,60,$0.60,20,2,1.0,0,15 mL,Mozzarella Cheese,Bulk shredded mozzarella @ $10/kg for 60g portion
+6ada090289b03e7af7b7eacc,Shredded Mozzarella Cheese,60,$0.60,20,2,1.0,0,15 mL,Mozzarella Cheese,Bulk shredded mozzarella @ $10/kg for 60g portion
+6ada090289b03e7af7b7e7e1,Fresh Banana,25,$0.25,110,1,0.4,27,1 each,Banana,Wholesale bulk banana case @ $2.00/kg for 120g fruit item
+6ada090289b03e7af7b7ea72,Fresh Banana,25,$0.25,110,1,0.4,27,1 each,Banana,Wholesale bulk banana case @ $2.00/kg for 120g fruit item
+6ada090289b03e7af7b7eab0,Fresh Apple,35,$0.35,80,0.4,0.2,20,1 each,Red Delicious Apple,Wholesale Red Delicious apple case @ $3.00/kg for 120g fruit item
+6ada090289b03e7af7b7e830,Fresh Apple,35,$0.35,80,0.4,0.2,20,1 each,Red Delicious Apple,Wholesale Red Delicious apple case @ $3.00/kg for 120g fruit item
+6ada090289b03e7af7b7ead9,Fresh Orange,40,$0.40,60,1,0.1,14,1 each,Orange,Wholesale orange case @ $3.00/kg for 130g fruit item
+6ada090289b03e7af7b7e862,Fresh Orange,40,$0.40,60,1,0.1,14,1 each,Orange,Wholesale orange case @ $3.00/kg for 130g fruit item
+6ada090289b03e7af7b7eafe,Fresh Cubed Honeydew,50,$0.50,15,0.2,0.1,4,60 mL,Honeydew Melon,Bulk honeydew melon @ $5/kg for 100g portion
+6ada090289b03e7af7b7e890,Fresh Cubed Honeydew,50,$0.50,15,0.2,0.1,4,60 mL,Honeydew Melon,Bulk honeydew melon @ $5/kg for 100g portion
+6ada090289b03e7af7b7e8db,Fresh Cubed Cantaloupe,45,$0.45,15,0.3,0.1,3,60 mL,Cantaloupe,Bulk cantaloupe @ $4.50/kg for 100g portion
+6ada090289b03e7af7b7eb2f,Fresh Cubed Cantaloupe,45,$0.45,15,0.3,0.1,3,60 mL,Cantaloupe,Bulk cantaloupe @ $4.50/kg for 100g portion
+6ada090289b03e7af7b7e913,Fresh Cubed Pineapple,65,$0.65,20,0.2,0.0,5,60 mL,Pineapple,Whole pineapple wholesale @ $2.50/kg with 50% yield for a 120g portion
+6ada090289b03e7af7b7eb54,Fresh Cubed Pineapple,65,$0.65,20,0.2,0.0,5,60 mL,Pineapple,Whole pineapple wholesale @ $2.50/kg with 50% yield for a 120g portion
+6ada090289b03e7af7b7e984,Fresh Cubed Watermelon,35,$0.35,10,0.2,0.1,3,60 mL,Watermelon,Whole watermelon wholesale @ $1.20/kg with 50% yield for a 150g portion
+6ada090289b03e7af7b7eb9c,Fresh Cubed Watermelon,35,$0.35,10,0.2,0.1,3,60 mL,Watermelon,Whole watermelon wholesale @ $1.20/kg with 50% yield for a 150g portion
+6ada090289b03e7af7b7e9b5,Vanilla Yogurt,45,$0.45,80,4,1.0,12,90 g,Creamy Vanilla Yogurt,Bulk institutional vanilla yogurt @ $3.50/kg for a 150g portion
+6ada090289b03e7af7b7ebbc,Vanilla Yogurt,45,$0.45,80,4,1.0,12,90 g,Creamy Vanilla Yogurt,Bulk institutional vanilla yogurt @ $3.50/kg for a 150g portion
+6ada090289b03e7af7b7ebe4,Strawberry Yogurt,48,$0.48,70,3,0.0,14,90 g,Strawberry Yogurt,Bulk institutional strawberry yogurt @ $3.80/kg for a 150g portion
+6ada090289b03e7af7b7e9e9,Strawberry Yogurt,48,$0.48,70,3,0.0,14,90 g,Strawberry Yogurt,Bulk institutional strawberry yogurt @ $3.80/kg for a 150g portion
+6ada090289b03e7af7b7ea08,Plain Granola,40,$0.40,240,8,9.0,34,60 mL,Granola,Bulk plain granola @ $6.00/kg for a 60g portion
+6ada090289b03e7af7b7ebf9,Plain Granola,40,$0.40,240,8,9.0,34,60 mL,Granola,Bulk plain granola @ $6.00/kg for a 60g portion
+6ada090289b03e7af7b7ec1b,"Honey, 14 g, CDN",12,$0.12,45,0,0.0,12,1 each,Honey,Canadian bulk honey portion packet (14g) @ $0.12 each
+6ada090289b03e7af7b7ea37,"Honey, 14 g, CDN",12,$0.12,45,0,0.0,12,1 each,Honey,Canadian bulk honey portion packet (14g) @ $0.12 each
+6ada090289b03e7af7b7ec65,Unsalted Sunflower Seeds,25,$0.25,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $8.00/kg for a 30g portion
+6ada090289b03e7af7b7ea8e,Unsalted Sunflower Seeds,25,$0.25,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $8.00/kg for a 30g portion
+6ada090289b03e7af7b7ec8b,Cranberries,35,$0.35,10,0,0.0,3,15 mL,Cranberries,Bulk dried cranberries @ $9.00/kg for a 35g portion
+6ada090289b03e7af7b7eab7,Cranberries,35,$0.35,10,0,0.0,3,15 mL,Cranberries,Bulk dried cranberries @ $9.00/kg for a 35g portion
+6ada090289b03e7af7b7ecb9,Golden Raisins,30,$0.30,25,0.3,0.0,7,15 mL,Raisins,Bulk golden raisins @ $7.50/kg for a 35g portion
+6ada090289b03e7af7b7eaf2,Golden Raisins,30,$0.30,25,0.3,0.0,7,15 mL,Raisins,Bulk golden raisins @ $7.50/kg for a 35g portion
+6ada090289b03e7af7b7eb59,Mango Smoothie,75,$0.75,70,5,0.5,12,180 mL,"Skim Milk, Mango, Ice, Greek Yogurt","Mango smoothie (skim milk, frozen mango, Greek yogurt) for a 250ml portion"
+6ada090289b03e7af7b7ed0a,Mango Smoothie,75,$0.75,70,5,0.5,12,180 mL,"Skim Milk, Mango, Ice, Greek Yogurt","Mango smoothie (skim milk, frozen mango, Greek yogurt) for a 250ml portion"
+6ada090289b03e7af7b7eb6c,Mixed Berry Smoothie,145,$1.45,120,6,1.5,22,180 g,"4 Berry Blend, Greek Yogurt, Apple Juice, Banana, Ice, Maple Syrup, Chia Seeds","Bulk frozen berries, yogurt, and apple juice for a 350ml portion"
+6ada090289b03e7af7b7ed1c,Mixed Berry Smoothie,145,$1.45,120,6,1.5,22,180 g,"4 Berry Blend, Greek Yogurt, Apple Juice, Banana, Ice, Maple Syrup, Chia Seeds","Bulk frozen berries, yogurt, and apple juice for a 350ml portion"
+6ada090189b03e7af7b7d782,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is essentially free in a institutional setting
+6ada090189b03e7af7b7d77a,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is essentially free in a institutional setting
+6ada090189b03e7af7b7d8f2,Adobo Rubbed Pork Tenderloin,280,$2.80,140,21,5.0,1,85 g,"Pork, Canola Oil, Lime Juice, Chipotle Flavour Concentrate, Chili Powder, Cilantro, Garlic, Oregano, Thyme, Black Pepper",Bulk pork tenderloin @ $11/kg for a 170g portion plus seasonings
+6ada090189b03e7af7b7d90b,Adobo Rubbed Pork Tenderloin,280,$2.80,140,21,5.0,1,85 g,"Pork, Canola Oil, Lime Juice, Chipotle Flavour Concentrate, Chili Powder, Cilantro, Garlic, Oregano, Thyme, Black Pepper",Bulk pork tenderloin @ $11/kg for a 170g portion plus seasonings
+6ada090189b03e7af7b7da37,Filipino Inspired Garlic Fried Rice with Eggs,55,$0.55,260,5,13.0,29,120 mL,"Water, Long Grain White Rice, Egg, Unsalted Butter, Garlic, Salt, Black Pepper","Bulk rice, eggs, and butter for a 180g portion"
+6ada090189b03e7af7b7da41,Filipino Inspired Garlic Fried Rice with Eggs,55,$0.55,260,5,13.0,29,120 mL,"Water, Long Grain White Rice, Egg, Unsalted Butter, Garlic, Salt, Black Pepper","Bulk rice, eggs, and butter for a 180g portion"
+6ada090189b03e7af7b7dbf8,Sesame and Soy Roasted Potatoes,65,$0.65,160,4,5.0,27,90 mL,"Red Bliss Potatoes, Spanish Onions, Soy Sauce, Garlic, Canola Oil, Sesame Oil, Sesame Seeds, Black Pepper, Salt",Bulk red potatoes and aromatics @ $2.50/kg for a 150g portion
+6ada090189b03e7af7b7dbf1,Sesame and Soy Roasted Potatoes,65,$0.65,160,4,5.0,27,90 mL,"Red Bliss Potatoes, Spanish Onions, Soy Sauce, Garlic, Canola Oil, Sesame Oil, Sesame Seeds, Black Pepper, Salt",Bulk red potatoes and aromatics @ $2.50/kg for a 150g portion
+6ada090189b03e7af7b7dd61,Teriyaki Broccoli Florets,70,$0.70,35,1,0.1,8,80 mL,"Broccoli, Water, Soy Sauce, Brown Sugar, Honey, Cornstarch, Ginger, Garlic",Bulk broccoli florets and sauce ingredients for a 120g portion
+6ada090189b03e7af7b7dd58,Teriyaki Broccoli Florets,70,$0.70,35,1,0.1,8,80 mL,"Broccoli, Water, Soy Sauce, Brown Sugar, Honey, Cornstarch, Ginger, Garlic",Bulk broccoli florets and sauce ingredients for a 120g portion
+6ada090189b03e7af7b7de7e,Chili Garlic Bok Choy,60,$0.60,110,3,10.0,5,2 each,"Bok Choy, Sesame Oil, Garlic, Salt, Red Pepper",Bulk bok choy and sesame oil for a 120g portion
+6ada090189b03e7af7b7de75,Chili Garlic Bok Choy,60,$0.60,110,3,10.0,5,2 each,"Bok Choy, Sesame Oil, Garlic, Salt, Red Pepper",Bulk bok choy and sesame oil for a 120g portion
+6ada090189b03e7af7b7dfb1,Sesame Roasted Brussel Sprouts,95,$0.95,50,2,2.0,7,180 mL,"Brussels Sprouts, Honey, Ginger Root, Canola Oil, Sesame Seeds, Salt, Black Pepper",Bulk Brussels sprouts @ $5/kg for a 130g portion
+6ada090189b03e7af7b7df96,Sesame Roasted Brussel Sprouts,95,$0.95,50,2,2.0,7,180 mL,"Brussels Sprouts, Honey, Ginger Root, Canola Oil, Sesame Seeds, Salt, Black Pepper",Bulk Brussels sprouts @ $5/kg for a 130g portion
+6ada090189b03e7af7b7d73e,Tofu Sisig,110,$1.10,220,2,21.0,8,180 mL,"Mushrooms, Stir Fry Sauce, Canola Oil, Tofu, Red Onions, Soy Sauce, Green Bell Peppers, Green Onions, Red Bell Peppers, Light Mayonnaise, Maggi, Chili Peppers, Garlic, Black Pepper","Bulk tofu, mushrooms, and mixed vegetables for a 150g portion"
+6ada090189b03e7af7b7d735,Tofu Sisig,110,$1.10,220,2,21.0,8,180 mL,"Mushrooms, Stir Fry Sauce, Canola Oil, Tofu, Red Onions, Soy Sauce, Green Bell Peppers, Green Onions, Red Bell Peppers, Light Mayonnaise, Maggi, Chili Peppers, Garlic, Black Pepper","Bulk tofu, mushrooms, and mixed vegetables for a 150g portion"
+6ada090189b03e7af7b7d8cd,Panang Curry (Vegetable),135,$1.35,290,8,24.0,15,1 serving(s),"Coconut Milk, Tofu, Water, Broccoli, Carrots, Bok Choy, Green Bell Peppers, Red Bell Peppers, Red Onions, Smooth Peanut Butter, Red Curry Paste, Sugar, Canola Oil, Cornstarch, Salt, Turmeric","Bulk coconut milk, tofu, and assorted vegetables for a 200g portion"
+6ada090189b03e7af7b7d8b6,Panang Curry (Vegetable),135,$1.35,290,8,24.0,15,1 serving(s),"Coconut Milk, Tofu, Water, Broccoli, Carrots, Bok Choy, Green Bell Peppers, Red Bell Peppers, Red Onions, Smooth Peanut Butter, Red Curry Paste, Sugar, Canola Oil, Cornstarch, Salt, Turmeric","Bulk coconut milk, tofu, and assorted vegetables for a 200g portion"
+6ada090189b03e7af7b7da5b,Thai Rice Noodles,35,$0.35,120,2,1.5,25,180 mL,"Water, Rice Vermicelli Noodles, Fish Sauce, Garlic, Soy Sauce, Canola Oil, Chili Powder, Brown Sugar",Bulk rice noodles and sauce ingredients for a 150g portion
+6ada090189b03e7af7b7da67,Thai Rice Noodles,35,$0.35,120,2,1.5,25,180 mL,"Water, Rice Vermicelli Noodles, Fish Sauce, Garlic, Soy Sauce, Canola Oil, Chili Powder, Brown Sugar",Bulk rice noodles and sauce ingredients for a 150g portion
+6ada090189b03e7af7b7dc23,Mini Vegetable Spring Rolls with Thai Sauce,55,$0.55,130,2,2.5,23,2 piece,"Vegetable Spring Roll, Plum Sauce",3 mini frozen veg spring rolls plus plum sauce (25g portion each)
+6ada090189b03e7af7b7dc22,Mini Vegetable Spring Rolls with Thai Sauce,55,$0.55,130,2,2.5,23,2 piece,"Vegetable Spring Roll, Plum Sauce",3 mini frozen veg spring rolls plus plum sauce (25g portion each)
+6ada090189b03e7af7b7deb1,Kung Pao-Style Cauliflower and Beans,62,$0.62,180,8,2.5,35,120 mL,"Water, Cauliflower, No Salt Added Kidney Beans, Ketchup, Green Bell Peppers, Red Bell Peppers, Hoisin Sauce, Vegetable Base, GF Soy Sauce, Thai Sauce, Brown Sugar, Canola Oil, Garlic, Ginger Root, Black Pepper, Red Pepper","Bulk cauliflower, beans, and aromatics for a 180g buffet portion"
+6ada090189b03e7af7b7de97,Kung Pao-Style Cauliflower and Beans,62,$0.62,180,8,2.5,35,120 mL,"Water, Cauliflower, No Salt Added Kidney Beans, Ketchup, Green Bell Peppers, Red Bell Peppers, Hoisin Sauce, Vegetable Base, GF Soy Sauce, Thai Sauce, Brown Sugar, Canola Oil, Garlic, Ginger Root, Black Pepper, Red Pepper","Bulk cauliflower, beans, and aromatics for a 180g buffet portion"
+6ada090189b03e7af7b7d66d,Timberline Beef Chili,95,$0.95,180,12,8.0,15,160 mL,Beef Chili,Bulk institutional beef chili @ $8/kg for a 200g portion
+6ada090189b03e7af7b7d67c,Timberline Beef Chili,95,$0.95,180,12,8.0,15,160 mL,Beef Chili,Bulk institutional beef chili @ $8/kg for a 200g portion
+6ada090189b03e7af7b7d82c,Mushroom Bisque Soup,42,$0.42,120,5,5.0,14,180 mL,"Water, 2% Milk, Mushrooms, Onions, Cornstarch, Vegan Margarine, Vegetable Base, Garlic, Thyme, Salt, Black Pepper","Bulk mushrooms, milk, and vegetable stock for a 200ml soup portion"
+6ada090189b03e7af7b7d831,Mushroom Bisque Soup,42,$0.42,120,5,5.0,14,180 mL,"Water, 2% Milk, Mushrooms, Onions, Cornstarch, Vegan Margarine, Vegetable Base, Garlic, Thyme, Salt, Black Pepper","Bulk mushrooms, milk, and vegetable stock for a 200ml soup portion"
+6ada090189b03e7af7b7d718,Side of Sliced Tomato,25,$0.25,0,0.2,0.1,1,2 slice,Tomatoes,Wholesale tomatoes @ $3/kg for a 80g portion
+6ada090189b03e7af7b7d71d,Side of Sliced Tomato,25,$0.25,0,0.2,0.1,1,2 slice,Tomatoes,Wholesale tomatoes @ $3/kg for a 80g portion
+6ada090189b03e7af7b7d8ab,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4/kg for a 40g portion
+6ada090189b03e7af7b7d896,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4/kg for a 40g portion
+6ada090189b03e7af7b7da16,Sliced Red Onions,12,$0.12,10,0.3,0.0,3,30 g,Red Onions,Wholesale red onions @ $2/kg for a 30g portion
+6ada090189b03e7af7b7da22,Sliced Red Onions,12,$0.12,10,0.3,0.0,3,30 g,Red Onions,Wholesale red onions @ $2/kg for a 30g portion
+6ada090189b03e7af7b7dbd4,Sliced Fresh Cucumbers,18,$0.18,0,0.2,0.0,1,30 g,Cucumber,Wholesale cucumbers @ $2.50/kg for a 60g portion
+6ada090189b03e7af7b7dbd5,Sliced Fresh Cucumbers,18,$0.18,0,0.2,0.0,1,30 g,Cucumber,Wholesale cucumbers @ $2.50/kg for a 60g portion
+6ada090189b03e7af7b7dd4d,Smoked Deli Ham,68,$0.68,60,9,2.0,2,56 g,Black Forest Ham,Bulk deli ham @ $11/kg for a 60g portion
+6ada090189b03e7af7b7dd36,Smoked Deli Ham,68,$0.68,60,9,2.0,2,56 g,Black Forest Ham,Bulk deli ham @ $11/kg for a 60g portion
+6ada090189b03e7af7b7de5b,Deli Roast Beef,120,$1.20,90,11,4.0,1,72 g,Deli Roast Beef,Wholesale deli roast beef @ $16/kg for a standard 75g portion
+6ada090189b03e7af7b7de54,Deli Roast Beef,120,$1.20,90,11,4.0,1,72 g,Deli Roast Beef,Wholesale deli roast beef @ $16/kg for a standard 75g portion
+6ada090189b03e7af7b7df8c,Sliced Deli Turkey,105,$1.05,80,15,1.0,4,90 g,Smoked Turkey Breast,Wholesale smoked turkey breast @ $14/kg for a standard 75g portion
+6ada090189b03e7af7b7df73,Sliced Deli Turkey,105,$1.05,80,15,1.0,4,90 g,Smoked Turkey Breast,Wholesale smoked turkey breast @ $14/kg for a standard 75g portion
+6ada090189b03e7af7b7e104,Light Type Mayonnaise,10,$0.10,90,0.2,8.0,2,30 mL,Lite Mayonnaise,Bulk light mayonnaise @ $4/kg for a standard 25g portion
+6ada090189b03e7af7b7e15d,Light Type Mayonnaise,10,$0.10,90,0.2,8.0,2,30 mL,Lite Mayonnaise,Bulk light mayonnaise @ $4/kg for a standard 25g portion
+6ada090189b03e7af7b7e20e,Mustard,8,$0.08,10,1,0.5,1,15 mL,Yellow Mustard,Bulk yellow mustard @ $3.50/kg for a standard 20g portion
+6ada090189b03e7af7b7e1a7,Mustard,8,$0.08,10,1,0.5,1,15 mL,Yellow Mustard,Bulk yellow mustard @ $3.50/kg for a standard 20g portion
+6ada090189b03e7af7b7e2af,Chipotle Aioli,15,$0.15,90,0.3,8.0,4,30 mL,"Lite Mayonnaise, Chipotle Flavour Concentrate",Bulk chipotle aioli @ $6/kg for a standard 25g portion
+6ada090189b03e7af7b7e258,Chipotle Aioli,15,$0.15,90,0.3,8.0,4,30 mL,"Lite Mayonnaise, Chipotle Flavour Concentrate",Bulk chipotle aioli @ $6/kg for a standard 25g portion
+6ada090289b03e7af7b7e350,Hummus,35,$0.35,80,2,6.0,5,30 mL,Hummus,Wholesale bulk hummus @ $7/kg for a standard 50g portion
+6ada090189b03e7af7b7e2dd,Hummus,35,$0.35,80,2,6.0,5,30 mL,Hummus,Wholesale bulk hummus @ $7/kg for a standard 50g portion
+6ada090289b03e7af7b7e381,Chao Cheese,45,$0.45,30,0,2.5,2,1 slice,Plant Based Cheese Slices,Plant-based cheese slices @ $15/kg for a 30g single-slice portion
+6ada090289b03e7af7b7e604,Chao Cheese,45,$0.45,30,0,2.5,2,1 slice,Plant Based Cheese Slices,Plant-based cheese slices @ $15/kg for a 30g single-slice portion
+6ada090289b03e7af7b7e66b,Mozzarella Cheese Slices,30,$0.30,40,3,3.0,0,1 each,Mozzarella Cheese,Wholesale mozzarella cheese slices @ $12/kg for a 25g portion
+6ada090289b03e7af7b7e3fa,Mozzarella Cheese Slices,30,$0.30,40,3,3.0,0,1 each,Mozzarella Cheese,Wholesale mozzarella cheese slices @ $12/kg for a 25g portion
+6ada090289b03e7af7b7e6cc,"Cheddar Cheese Slices, Mild",28,$0.28,60,3,4.5,0,1 each,Cheddar Cheese,Wholesale mild cheddar slices @ $11/kg for a 25g portion
+6ada090289b03e7af7b7e46a,"Cheddar Cheese Slices, Mild",28,$0.28,60,3,4.5,0,1 each,Cheddar Cheese,Wholesale mild cheddar slices @ $11/kg for a 25g portion
+6ada090289b03e7af7b7e732,Sliced White Bread,12,$0.12,170,6,1.5,34,2 slice,White Bread,Commercial loaf white bread wholesale cost per 2-slice portion
+6ada090289b03e7af7b7e4d3,Sliced White Bread,12,$0.12,170,6,1.5,34,2 slice,White Bread,Commercial loaf white bread wholesale cost per 2-slice portion
+6ada090289b03e7af7b7e537,Homemade Whole Wheat Bread,25,$0.25,100,4,3.0,17,1 slice,"Whole Wheat Flour, Water, 2% Milk, Unsalted Butter, Yeast, Honey, Salt","Bulk flour, milk, butter, and honey for 1 slice of homemade bread"
+6ada090289b03e7af7b7e797,Homemade Whole Wheat Bread,25,$0.25,100,4,3.0,17,1 slice,"Whole Wheat Flour, Water, 2% Milk, Unsalted Butter, Yeast, Honey, Salt","Bulk flour, milk, butter, and honey for 1 slice of homemade bread"
+6ada090289b03e7af7b7e594,"Flour Tortilla Wrap, 10""",18,$0.18,220,7,5.0,38,1 each,Flour Tortilla,"Commercial wholesale 10"" flour tortilla wrap (bulk case)"
+6ada090289b03e7af7b7e803,"Flour Tortilla Wrap, 10""",18,$0.18,220,7,5.0,38,1 each,Flour Tortilla,"Commercial wholesale 10"" flour tortilla wrap (bulk case)"
+6ada090289b03e7af7b7e872,"Sourdough Bread, Pre-Sliced",22,$0.22,110,4,1.0,23,1 serving(s),Sourdough Bread,Wholesale commercial pre-sliced sourdough bread per slice
+6ada090289b03e7af7b7e5f8,"Sourdough Bread, Pre-Sliced",22,$0.22,110,4,1.0,23,1 serving(s),Sourdough Bread,Wholesale commercial pre-sliced sourdough bread per slice
+6ada090289b03e7af7b7e8d7,Egg Salad Sandwich,95,$0.95,690,20,49.0,41,1 each,"Hard Boiled Egg, White Bread, Mayonnaise, Tomatoes, Lettuce Leaf, Cucumber, Celery, Green Onions, Lemon Juice, Parsley, Lemon, Salt, Black Pepper","Wholesale eggs ($3.20/dozen), bread, mayo, and produce for 1 sandwich"
+6ada090289b03e7af7b7e658,Egg Salad Sandwich,95,$0.95,690,20,49.0,41,1 each,"Hard Boiled Egg, White Bread, Mayonnaise, Tomatoes, Lettuce Leaf, Cucumber, Celery, Green Onions, Lemon Juice, Parsley, Lemon, Salt, Black Pepper","Wholesale eggs ($3.20/dozen), bread, mayo, and produce for 1 sandwich"
+6ada090289b03e7af7b7e92d,Jerk Chicken Sandwich,160,$1.60,530,22,19.0,65,1 each,"Bread, Chicken Breast, Caribbean Sauce, Mayonnaise, Lettuce Leaf, Red Onions, Sweet Mango Chutney, Red Wine Vinegar, Water, Sugar, Salt","Bulk chicken breast ($10/kg for 100g) plus bread, sauce, and produce"
+6ada090289b03e7af7b7e6a3,Jerk Chicken Sandwich,160,$1.60,530,22,19.0,65,1 each,"Bread, Chicken Breast, Caribbean Sauce, Mayonnaise, Lettuce Leaf, Red Onions, Sweet Mango Chutney, Red Wine Vinegar, Water, Sugar, Salt","Bulk chicken breast ($10/kg for 100g) plus bread, sauce, and produce"
+6ada090289b03e7af7b7e6f7,Vegetable Cheese Sandwich,110,$1.10,410,20,6.0,69,1 each,"Hoagie Roll, Zucchini, Pizza Sauce, Yellow Onions, Mozzarella Cheese, Spinach, Tomatoes, Lettuce, Mushrooms, Peppers","Hoagie roll, mozzarella cheese, and assorted vegetables for 1 sandwich portion"
+6ada090289b03e7af7b7e985,Vegetable Cheese Sandwich,110,$1.10,410,20,6.0,69,1 each,"Hoagie Roll, Zucchini, Pizza Sauce, Yellow Onions, Mozzarella Cheese, Spinach, Tomatoes, Lettuce, Mushrooms, Peppers","Hoagie roll, mozzarella cheese, and assorted vegetables for 1 sandwich portion"
+6ada090189b03e7af7b7d7e3,Jasmine Rice,15,$0.15,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice ($2.50/kg) for a 120g cooked portion
+6ada090189b03e7af7b7d7e1,Jasmine Rice,15,$0.15,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice ($2.50/kg) for a 120g cooked portion
+6ada090189b03e7af7b7d950,Cantonese Style Chow Mein Noodles,35,$0.35,260,8,6.0,43,120 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil","Bulk Cantonese noodles, GF soy sauce, and oil for a standard buffet side portion"
+6ada090189b03e7af7b7d956,Cantonese Style Chow Mein Noodles,35,$0.35,260,8,6.0,43,120 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil","Bulk Cantonese noodles, GF soy sauce, and oil for a standard buffet side portion"
+6ada090189b03e7af7b7daf2,Diced Chicken,120,$1.20,70,12,1.0,1,90 mL,Chicken Breast,Bulk chicken breast at $10/kg for a standard 120g portion
+6ada090189b03e7af7b7dafb,Diced Chicken,120,$1.20,70,12,1.0,1,90 mL,Chicken Breast,Bulk chicken breast at $10/kg for a standard 120g portion
+6ada090189b03e7af7b7dc8b,Asian Beef Strips,180,$1.80,160,24,6.0,1,90 mL,"Fajita Beef, Canola Oil, Garlic, Ginger Root, Black Pepper",Bulk fajita beef ($14/kg) for a 120g portion plus oil and aromatics
+6ada090189b03e7af7b7dc8a,Asian Beef Strips,180,$1.80,160,24,6.0,1,90 mL,"Fajita Beef, Canola Oil, Garlic, Ginger Root, Black Pepper",Bulk fajita beef ($14/kg) for a 120g portion plus oil and aromatics
+6ada090189b03e7af7b7ddb1,Seasoned Tofu,45,$0.45,70,8,3.5,3,90 mL,"Tofu, Water, GF Soy Sauce, Water, Cornstarch, Fennel Seed",Bulk tofu wholesale @ $4.50/kg for a 100g portion
+6ada090189b03e7af7b7dd8f,Seasoned Tofu,45,$0.45,70,8,3.5,3,90 mL,"Tofu, Water, GF Soy Sauce, Water, Cornstarch, Fennel Seed",Bulk tofu wholesale @ $4.50/kg for a 100g portion
+6ada090189b03e7af7b7dedf,Sliced Yellow Onions,12,$0.12,10,0.3,0.0,3,30 g,Yellow Onions,Bulk yellow onions @ $1.50/kg for an 80g portion
+6ada090189b03e7af7b7ded6,Sliced Yellow Onions,12,$0.12,10,0.3,0.0,3,30 g,Yellow Onions,Bulk yellow onions @ $1.50/kg for an 80g portion
+6ada090189b03e7af7b7dffd,Julienne Slice Green Peppers,35,$0.35,5,0.3,0.1,1,30 g,Green Bell Peppers,Bulk green bell peppers @ $4.50/kg for an 80g portion
+6ada090189b03e7af7b7dfd4,Julienne Slice Green Peppers,35,$0.35,5,0.3,0.1,1,30 g,Green Bell Peppers,Bulk green bell peppers @ $4.50/kg for an 80g portion
+6ada090189b03e7af7b7e0d9,Julienne Slice Red Peppers,55,$0.55,10,0.3,0.1,2,30 g,Red Bell Peppers,Bulk red bell peppers @ $7.00/kg for an 80g portion
+6ada090189b03e7af7b7e07c,Julienne Slice Red Peppers,55,$0.55,10,0.3,0.1,2,30 g,Red Bell Peppers,Bulk red bell peppers @ $7.00/kg for an 80g portion
+6ada090189b03e7af7b7e19c,Fresh Julienne Sliced Carrots,15,$0.15,10,0.3,0.1,3,30 g,Carrots,Bulk carrots @ $2.00/kg for an 80g portion
+6ada090189b03e7af7b7e145,Fresh Julienne Sliced Carrots,15,$0.15,10,0.3,0.1,3,30 g,Carrots,Bulk carrots @ $2.00/kg for an 80g portion
+6ada090189b03e7af7b7e251,Sliced Fresh Mushrooms,50,$0.50,0,0.5,0.1,0,16 g,Mushrooms,Bulk mushrooms @ $6.00/kg for an 80g portion
+6ada090189b03e7af7b7e1e9,Sliced Fresh Mushrooms,50,$0.50,0,0.5,0.1,0,16 g,Mushrooms,Bulk mushrooms @ $6.00/kg for an 80g portion
+6ada090189b03e7af7b7e2f2,Sliced Fresh Green Cabbage,15,$0.15,10,0.4,0.0,2,30 g,Cabbage,Bulk green cabbage @ $2.00/kg for an 80g portion
+6ada090189b03e7af7b7e28f,Sliced Fresh Green Cabbage,15,$0.15,10,0.4,0.0,2,30 g,Cabbage,Bulk green cabbage @ $2.00/kg for an 80g portion
+6ada090289b03e7af7b7e393,Bean Sprouts,25,$0.25,5,1,0.0,1,30 g,Bean Sprouts,Bulk bean sprouts @ $3.50/kg for a 70g portion
+6ada090289b03e7af7b7e31b,Bean Sprouts,25,$0.25,5,1,0.0,1,30 g,Bean Sprouts,Bulk bean sprouts @ $3.50/kg for a 70g portion
+6ada090289b03e7af7b7e61d,Sesame Bok Choy,40,$0.40,25,1,2.0,2,60 mL,"Bok Choy, Napa Cabbage, Water, Soy Sauce, Seasoned Rice Vinegar, Sesame Oil, Ginger Root",Bulk bok choy and napa cabbage mix with soy/sesame dressing for a 100g portion
+6ada090289b03e7af7b7e3a0,Sesame Bok Choy,40,$0.40,25,1,2.0,2,60 mL,"Bok Choy, Napa Cabbage, Water, Soy Sauce, Seasoned Rice Vinegar, Sesame Oil, Ginger Root",Bulk bok choy and napa cabbage mix with soy/sesame dressing for a 100g portion
+6ada090289b03e7af7b7e416,Crispy Onion Strings,35,$0.35,70,1,4.5,7,30 g,"Spanish Onions, 2% Milk, All Purpose Flour, Salt, Paprika, Black Pepper, Cayenne Pepper","Spanish onions, flour, and milk base for crispy onion strings (60g portion)"
+6ada090289b03e7af7b7e681,Crispy Onion Strings,35,$0.35,70,1,4.5,7,30 g,"Spanish Onions, 2% Milk, All Purpose Flour, Salt, Paprika, Black Pepper, Cayenne Pepper","Spanish onions, flour, and milk base for crispy onion strings (60g portion)"
+6ada090289b03e7af7b7e6e7,Sriracha Hot Sauce,12,$0.12,0,0.1,0.0,1,15 mL,Sriracha Sauce,Bulk Sriracha sauce @ $4/L for a 30ml portion
+6ada090289b03e7af7b7e488,Sriracha Hot Sauce,12,$0.12,0,0.1,0.0,1,15 mL,Sriracha Sauce,Bulk Sriracha sauce @ $4/L for a 30ml portion
+6ada090289b03e7af7b7e74c,Fresh Chopped Cilantro,8,$0.08,0,0,0.0,0,15 g,Cilantro,Bulk cilantro @ $12/kg for a 7g portion
+6ada090289b03e7af7b7e4ef,Fresh Chopped Cilantro,8,$0.08,0,0,0.0,0,15 g,Cilantro,Bulk cilantro @ $12/kg for a 7g portion
+6ada090289b03e7af7b7e54d,Sesame Seeds,5,$0.05,35,1,3.5,1,10 mL,Sesame Seeds,Bulk sesame seeds @ $8/kg for a 5g garnish portion
+6ada090289b03e7af7b7e7b0,Sesame Seeds,5,$0.05,35,1,3.5,1,10 mL,Sesame Seeds,Bulk sesame seeds @ $8/kg for a 5g garnish portion
+6ada090289b03e7af7b7e5ac,Crispy Chickpeas,22,$0.22,60,3,2.0,9,30 mL,"Canned Chickpeas, No Salt Added, Canola Oil, Salt",Canned chickpeas & oil @ $3/kg bulk equivalent for a 60g portion
+6ada090289b03e7af7b7e81e,Crispy Chickpeas,22,$0.22,60,3,2.0,9,30 mL,"Canned Chickpeas, No Salt Added, Canola Oil, Salt",Canned chickpeas & oil @ $3/kg bulk equivalent for a 60g portion
+6ada090289b03e7af7b7e611,Teriyaki Sauce,15,$0.15,60,1,0.0,16,60 mL,Teriyaki Sauce,Bulk teriyaki sauce @ $5/L for a 30ml portion
+6ada090289b03e7af7b7e88b,Teriyaki Sauce,15,$0.15,60,1,0.0,16,60 mL,Teriyaki Sauce,Bulk teriyaki sauce @ $5/L for a 30ml portion
+6ada090289b03e7af7b7e8f5,Ultimate Honey Garlic Sauce,18,$0.18,120,0.2,0.0,32,60 mL,Honey Garlic Sauce,Bulk honey garlic sauce @ $6/L for a 30ml portion
+6ada090289b03e7af7b7e672,Ultimate Honey Garlic Sauce,18,$0.18,120,0.2,0.0,32,60 mL,Honey Garlic Sauce,Bulk honey garlic sauce @ $6/L for a 30ml portion
+6ada090289b03e7af7b7e6c0,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is free utility cost
+6ada090289b03e7af7b7e949,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is free utility cost
+6ada090189b03e7af7b7d7c3,Mongolian Beef Stir-Fry,215,$2.15,620,46,29.0,44,1 serving(s),"Beef, Broccoli, Water chestnuts (Water Chestnuts, Water), Soy Sauce, Hoisin Sauce, Water, Orange Bell Peppers, Red Bell Peppers, Canola Oil, Seasoned Rice Vinegar, Cornstarch, Brown Sugar, Gochujang Paste, Garlic, Ginger Root",Bulk beef @ $14/kg and mixed vegetables/sauce for a 200g portion
+6ada090189b03e7af7b7d7bc,Mongolian Beef Stir-Fry,215,$2.15,620,46,29.0,44,1 serving(s),"Beef, Broccoli, Water chestnuts (Water Chestnuts, Water), Soy Sauce, Hoisin Sauce, Water, Orange Bell Peppers, Red Bell Peppers, Canola Oil, Seasoned Rice Vinegar, Cornstarch, Brown Sugar, Gochujang Paste, Garlic, Ginger Root",Bulk beef @ $14/kg and mixed vegetables/sauce for a 200g portion
+6ada090189b03e7af7b7d92e,Veggie Medley Chop Suey,65,$0.65,50,2,2.5,7,120 mL,"Water, Carrots, Green Bell Peppers, Celery, Yellow Onions, Broccoli, Cauliflower, Mushrooms, GF Soy Sauce, Canola Oil, Cornstarch, Vegetable Base",Bulk mixed vegetables and sauce @ $3.50/kg for a 200g portion
+6ada090189b03e7af7b7d941,Veggie Medley Chop Suey,65,$0.65,50,2,2.5,7,120 mL,"Water, Carrots, Green Bell Peppers, Celery, Yellow Onions, Broccoli, Cauliflower, Mushrooms, GF Soy Sauce, Canola Oil, Cornstarch, Vegetable Base",Bulk mixed vegetables and sauce @ $3.50/kg for a 200g portion
+6ada090189b03e7af7b7dadb,Vegetable Fried Rice,45,$0.45,150,3,4.5,24,240 mL,"Water, Brown Rice, Yellow Onions, Green Bell Peppers, Green Peas, Red Bell Peppers, Soy Sauce, Canola Oil, Green Onions, Garlic, Ginger Root, Black Pepper","Bulk brown rice, veggies, and seasonings for a 200g portion"
+6ada090189b03e7af7b7dad0,Vegetable Fried Rice,45,$0.45,150,3,4.5,24,240 mL,"Water, Brown Rice, Yellow Onions, Green Bell Peppers, Green Peas, Red Bell Peppers, Soy Sauce, Canola Oil, Green Onions, Garlic, Ginger Root, Black Pepper","Bulk brown rice, veggies, and seasonings for a 200g portion"
+6ada090189b03e7af7b7dc6c,Jasmine Rice,12,$0.12,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $2.50/kg for a standard 100g cooked portion
+6ada090189b03e7af7b7dc69,Jasmine Rice,12,$0.12,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $2.50/kg for a standard 100g cooked portion
+6ada090189b03e7af7b7d7a2,Cooked Yellow Split Peas,10,$0.10,120,8,1.5,20,90 mL,"Water, Split Peas",Bulk dry split peas @ $2.00/kg for a standard 100g cooked portion
+6ada090189b03e7af7b7d79c,Cooked Yellow Split Peas,10,$0.10,120,8,1.5,20,90 mL,"Water, Split Peas",Bulk dry split peas @ $2.00/kg for a standard 100g cooked portion
+6ada090189b03e7af7b7d90f,Chili Con Carne,78,$0.78,180,15,7.0,15,150 mL,"Crushed Tomatoes, No Salt Added Kidney Beans, Ground Beef, Green Bell Peppers, Yellow Onions, Chili Powder, Garlic, Black Pepper, Bay Leaf",Bulk beef @ $13/kg and canned tomatoes/beans for a 150g portion
+6ada090189b03e7af7b7d92b,Chili Con Carne,78,$0.78,180,15,7.0,15,150 mL,"Crushed Tomatoes, No Salt Added Kidney Beans, Ground Beef, Green Bell Peppers, Yellow Onions, Chili Powder, Garlic, Black Pepper, Bay Leaf",Bulk beef @ $13/kg and canned tomatoes/beans for a 150g portion
+6ada090189b03e7af7b7daac,Tzatziki,35,$0.35,20,3,0.5,1,30 mL,"Greek Yogurt, Cucumber, Salt, Garlic, Dill",Bulk commercial Greek yogurt and fresh cucumber for a 50g portion
+6ada090189b03e7af7b7daaf,Tzatziki,35,$0.35,20,3,0.5,1,30 mL,"Greek Yogurt, Cucumber, Salt, Garlic, Dill",Bulk commercial Greek yogurt and fresh cucumber for a 50g portion
+6ada090189b03e7af7b7dc49,Hummus,30,$0.30,80,2,6.0,5,30 mL,Hummus,Bulk institutional hummus @ $4.00/kg for a 60g portion
+6ada090189b03e7af7b7dc45,Hummus,30,$0.30,80,2,6.0,5,30 mL,Hummus,Bulk institutional hummus @ $4.00/kg for a 60g portion
+6ada090189b03e7af7b7dd90,Baba Ganoush,40,$0.40,130,3,11.0,8,90 mL,"Eggplant, Lemon Juice, Sesame Tahini Paste, Canola Oil, Sesame Seeds, Garlic, Salt, Black Pepper","Eggplant, tahini, and oil wholesale for a 60g portion"
+6ada090189b03e7af7b7dd7b,Baba Ganoush,40,$0.40,130,3,11.0,8,90 mL,"Eggplant, Lemon Juice, Sesame Tahini Paste, Canola Oil, Sesame Seeds, Garlic, Salt, Black Pepper","Eggplant, tahini, and oil wholesale for a 60g portion"
+6ada090189b03e7af7b7dec4,"Dip, Garlic, Creamy Sauce, 44 ml, CDN",15,$0.15,230,0.3,25.0,2,1 each,"Soybean oil, water, frozen yolk (egg), vinegar, sugar, dehydrated garlic, salt, sour cream powder(sour cream[milk ingredients, bacterial culture], citric acid, BHA, BHT), garlic, citric acid, disodium phosphate, lactic acid, potassium sorbate, sodium ben",Commercial condiment packet/portion cup (44 ml) wholesale cost
+6ada090189b03e7af7b7deb7,"Dip, Garlic, Creamy Sauce, 44 ml, CDN",15,$0.15,230,0.3,25.0,2,1 each,"Soybean oil, water, frozen yolk (egg), vinegar, sugar, dehydrated garlic, salt, sour cream powder(sour cream[milk ingredients, bacterial culture], citric acid, BHA, BHT), garlic, citric acid, disodium phosphate, lactic acid, potassium sorbate, sodium ben",Commercial condiment packet/portion cup (44 ml) wholesale cost
+6ada090189b03e7af7b7dfde,Kalamata Olives,45,$0.45,45,0,4.0,1,30 mL,Kalamata Olives,Bulk imported Kalamata olives for a 30g buffet portion
+6ada090189b03e7af7b7dfb4,Kalamata Olives,45,$0.45,45,0,4.0,1,30 mL,Kalamata Olives,Bulk imported Kalamata olives for a 30g buffet portion
+6ada090189b03e7af7b7e0a8,Tomato and Cucumber Salad,28,$0.28,50,1,3.0,6,240 mL,"Tomatoes, Cucumber, Red Onions, Red Wine Vinegar, Jalapeno, Canola Oil, Dill, Salt","Bulk wholesale tomatoes, cucumbers, and onions for an 80g portion"
+6ada090189b03e7af7b7e05b,Tomato and Cucumber Salad,28,$0.28,50,1,3.0,6,240 mL,"Tomatoes, Cucumber, Red Onions, Red Wine Vinegar, Jalapeno, Canola Oil, Dill, Salt","Bulk wholesale tomatoes, cucumbers, and onions for an 80g portion"
+6ada090189b03e7af7b7e17f,Whole Wheat Pita Bread,22,$0.22,140,5,1.0,28,1 each,Whole Wheat Pita,Commercial wholesale whole wheat pita bread (1 each)
+6ada090189b03e7af7b7e124,Whole Wheat Pita Bread,22,$0.22,140,5,1.0,28,1 each,Whole Wheat Pita,Commercial wholesale whole wheat pita bread (1 each)
+6ada090189b03e7af7b7e1c9,Falafel Balls,45,$0.45,160,5,8.0,18,3 each,Falafel,Commercial frozen falafel bulk @ $6/kg for a 75g portion
+6ada090189b03e7af7b7e230,Falafel Balls,45,$0.45,160,5,8.0,18,3 each,Falafel,Commercial frozen falafel bulk @ $6/kg for a 75g portion
+6ada090189b03e7af7b7e278,Pita Chips,35,$0.35,70,3,0.3,15,56 g,Whole Wheat Pita,Bulk whole wheat pitas fried @ $3.50/kg for a 50g portion
+6ada090189b03e7af7b7e2d2,Pita Chips,35,$0.35,70,3,0.3,15,56 g,Whole Wheat Pita,Bulk whole wheat pitas fried @ $3.50/kg for a 50g portion
+6ada090289b03e7af7b7e371,Lemon Chicken,185,$1.85,170,25,3.0,8,180 mL,"Chicken Breast, Red Onions, Greek Yogurt, Lemon Juice, Garlic, Salt, Turmeric, Curry Powder, Black Pepper, Oregano",Bulk chicken breast @ $11/kg plus marinade ingredients for a 150g portion
+6ada090189b03e7af7b7e2fc,Lemon Chicken,185,$1.85,170,25,3.0,8,180 mL,"Chicken Breast, Red Onions, Greek Yogurt, Lemon Juice, Garlic, Salt, Turmeric, Curry Powder, Black Pepper, Oregano",Bulk chicken breast @ $11/kg plus marinade ingredients for a 150g portion
+6ada090189b03e7af7b7d75d,Tempura Shrimp Roll Sushi,210,$2.10,210,12,2.5,33,4 piece,"Shrimp, Water, Rice, Water, Lite Mayonnaise, Cornstarch, Seasoned Rice Vinegar, Sugar, Carrots, Cucumber, Green Onions, Egg, Rice Wine, All Purpose Flour, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Baking Powder, Black Pepper, Lime Juice","Shrimp, rice, nori, and vegetables for an 8-piece sushi roll portion"
+6ada090189b03e7af7b7d755,Tempura Shrimp Roll Sushi,210,$2.10,210,12,2.5,33,4 piece,"Shrimp, Water, Rice, Water, Lite Mayonnaise, Cornstarch, Seasoned Rice Vinegar, Sugar, Carrots, Cucumber, Green Onions, Egg, Rice Wine, All Purpose Flour, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Baking Powder, Black Pepper, Lime Juice","Shrimp, rice, nori, and vegetables for an 8-piece sushi roll portion"
+6ada090189b03e7af7b7d8d9,Tempura Sweet Potato Roll Sushi,120,$1.20,220,3,6.0,37,4 piece,"Water, Rice, Sweet Potatoes, Water, Lite Mayonnaise, Cornstarch, Seasoned Rice Vinegar, Sugar, Carrots, Cucumber, Green Onions, Egg, Rice Wine, All Purpose Flour, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Baking Powder, Black Pepper, Lime Juice","Sweet potato, rice, nori, and vegetables for an 8-piece sushi roll portion"
+6ada090189b03e7af7b7d8e9,Tempura Sweet Potato Roll Sushi,120,$1.20,220,3,6.0,37,4 piece,"Water, Rice, Sweet Potatoes, Water, Lite Mayonnaise, Cornstarch, Seasoned Rice Vinegar, Sugar, Carrots, Cucumber, Green Onions, Egg, Rice Wine, All Purpose Flour, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Baking Powder, Black Pepper, Lime Juice","Sweet potato, rice, nori, and vegetables for an 8-piece sushi roll portion"
+6ada090189b03e7af7b7da7f,Teriyaki Chicken Poke Bowl,310,$3.10,390,20,10.0,56,1 each,"Water, Halal Boneless Skinless Chicken Thigh, Brown Rice, Edamame, Sugar Snap Peas, Avocado, Mango, Carrots, Soy Sauce, Cabbage, Brown Sugar, Lettuce, Green Onions, Lite Mayonnaise, Vegetable Base, Radish, Maple Syrup, Garlic, Panko Breadcrumbs, Seasoned Rice Vinegar, Roasted Sesame Seeds, Frank's Red Hot Sriracha, Ginger, Lime Juice","Halal chicken thighs, avocado, mango, edamame, and rice for a bowl portion"
+6ada090189b03e7af7b7da89,Teriyaki Chicken Poke Bowl,310,$3.10,390,20,10.0,56,1 each,"Water, Halal Boneless Skinless Chicken Thigh, Brown Rice, Edamame, Sugar Snap Peas, Avocado, Mango, Carrots, Soy Sauce, Cabbage, Brown Sugar, Lettuce, Green Onions, Lite Mayonnaise, Vegetable Base, Radish, Maple Syrup, Garlic, Panko Breadcrumbs, Seasoned Rice Vinegar, Roasted Sesame Seeds, Frank's Red Hot Sriracha, Ginger, Lime Juice","Halal chicken thighs, avocado, mango, edamame, and rice for a bowl portion"
+6ada090189b03e7af7b7db84,Wakame Salad,75,$0.75,10,0.2,1.0,1,1/2 serving(s),"Water, Wakame, Sesame Oil, GF Soy Sauce, Seasoned Rice Vinegar, Sesame Seeds, Sugar",Bulk frozen wakame seaweed and sesame dressing for a 100g portion
+6ada090189b03e7af7b7db85,Wakame Salad,75,$0.75,10,0.2,1.0,1,1/2 serving(s),"Water, Wakame, Sesame Oil, GF Soy Sauce, Seasoned Rice Vinegar, Sesame Seeds, Sugar",Bulk frozen wakame seaweed and sesame dressing for a 100g portion
+6ada090189b03e7af7b7d6f6,Mediterranean Salad with Tuna,190,$1.90,200,10,11.0,17,1 serving(s),"Water, Tomatoes, Canned White Albacore Tuna, Wheat Bulgur, Parsley, Shallots, Red Wine Vinegar, Canola Oil, Vegetable Base, Salt, Cumin, Black Pepper","Canned albacore tuna, bulgur, tomatoes, and herbs for a 150g portion"
+6ada090189b03e7af7b7d6fc,Mediterranean Salad with Tuna,190,$1.90,200,10,11.0,17,1 serving(s),"Water, Tomatoes, Canned White Albacore Tuna, Wheat Bulgur, Parsley, Shallots, Red Wine Vinegar, Canola Oil, Vegetable Base, Salt, Cumin, Black Pepper","Canned albacore tuna, bulgur, tomatoes, and herbs for a 150g portion"
+6ada090189b03e7af7b7d888,California Cobb Salad,280,$2.80,200,15,13.0,6,1 each,"Chopped Lettuce, Chicken, Tomatoes, Bacon, Hard Boiled Egg, Guacamole, Italian Dressing","Chicken, bacon, hard-boiled egg, guacamole, and lettuce for a salad portion"
+6ada090189b03e7af7b7d88a,California Cobb Salad,280,$2.80,200,15,13.0,6,1 each,"Chopped Lettuce, Chicken, Tomatoes, Bacon, Hard Boiled Egg, Guacamole, Italian Dressing","Chicken, bacon, hard-boiled egg, guacamole, and lettuce for a salad portion"
+6ada090189b03e7af7b7d9f5,Asian Cucumber Salad,85,$0.85,50,1,0.2,12,120 mL,"Cucumber, Cabbage, Thai Sauce, Carrots, Red Bell Peppers, Green Onions, Cilantro","Cucumbers, cabbage, peppers, carrots, and Thai sauce for a 120g portion"
+6ada090189b03e7af7b7d9fe,Asian Cucumber Salad,85,$0.85,50,1,0.2,12,120 mL,"Cucumber, Cabbage, Thai Sauce, Carrots, Red Bell Peppers, Green Onions, Cilantro","Cucumbers, cabbage, peppers, carrots, and Thai sauce for a 120g portion"
+6ada090189b03e7af7b7dbac,Sweet Potato and Yukon Gold Salad,55,$0.55,140,2,4.5,23,120 mL,"Yukon Gold Potatoes, Sweet Potatoes, Green Onions, Canola Oil, Lime Juice, Cilantro, Ginger Root, Salt, Black Pepper",Bulk root veg and dressing @ $3.50/kg for a standard 150g portion
+6ada090189b03e7af7b7dba5,Sweet Potato and Yukon Gold Salad,55,$0.55,140,2,4.5,23,120 mL,"Yukon Gold Potatoes, Sweet Potatoes, Green Onions, Canola Oil, Lime Juice, Cilantro, Ginger Root, Salt, Black Pepper",Bulk root veg and dressing @ $3.50/kg for a standard 150g portion
+6ada090189b03e7af7b7dd2b,Deluxe Fruit Salad,85,$0.85,60,1,0.0,17,120 mL,Fruit Salad,Bulk mixed seasonal fruit @ $5.50/kg for a 150g portion
+6ada090189b03e7af7b7dd18,Deluxe Fruit Salad,85,$0.85,60,1,0.0,17,120 mL,Fruit Salad,Bulk mixed seasonal fruit @ $5.50/kg for a 150g portion
+6ada090189b03e7af7b7de3a,Chopped Romaine,35,$0.35,15,1,0.3,3,100 g,Chopped Lettuce,Bulk chopped romaine lettuce @ $4.00/kg for an 80g salad bar portion
+6ada090189b03e7af7b7de27,Chopped Romaine,35,$0.35,15,1,0.3,3,100 g,Chopped Lettuce,Bulk chopped romaine lettuce @ $4.00/kg for an 80g salad bar portion
+6ada090189b03e7af7b7df5f,Spring Mix Lettuce,45,$0.45,0,0.4,0.1,1,30 g,Spring Lettuce Salad Mix,Bulk spring mix greens @ $6.00/kg for a 75g salad bar portion
+6ada090189b03e7af7b7df69,Spring Mix Lettuce,45,$0.45,0,0.4,0.1,1,30 g,Spring Lettuce Salad Mix,Bulk spring mix greens @ $6.00/kg for a 75g salad bar portion
+6ada090189b03e7af7b7e07d,Baby Spinach,40,$0.40,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $6.50/kg for a 60g salad bar portion
+6ada090189b03e7af7b7e037,Baby Spinach,40,$0.40,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $6.50/kg for a 60g salad bar portion
+6ada090189b03e7af7b7e13b,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.50/kg for a 30g garnish portion
+6ada090189b03e7af7b7e0e5,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.50/kg for a 30g garnish portion
+6ada090189b03e7af7b7e1d9,Grape Tomatoes,45,$0.45,70,4,1.0,16,454 g,Tomatoes,Bulk greenhouse grape tomatoes @ $6.00/kg for a 75g portion
+6ada090189b03e7af7b7e187,Grape Tomatoes,45,$0.45,70,4,1.0,16,454 g,Tomatoes,Bulk greenhouse grape tomatoes @ $6.00/kg for a 75g portion
+6ada090189b03e7af7b7e290,Sliced Fresh Cucumbers,20,$0.20,0,0.1,0.0,0,1 slice,Cucumber,Bulk cucumbers @ $3.00/kg for a 60g portion
+6ada090189b03e7af7b7e239,Sliced Fresh Cucumbers,20,$0.20,0,0.1,0.0,0,1 slice,Cucumber,Bulk cucumbers @ $3.00/kg for a 60g portion
+6ada090289b03e7af7b7e331,Fresh Julienne Sliced Carrots,20,$0.20,190,4,1.0,43,500 g,Carrots,Bulk carrots @ $2.00/kg for a 50g julienne portion
+6ada090189b03e7af7b7e2c6,Fresh Julienne Sliced Carrots,20,$0.20,190,4,1.0,43,500 g,Carrots,Bulk carrots @ $2.00/kg for a 50g julienne portion
+6ada090289b03e7af7b7e360,Diced Fresh Celery,20,$0.20,0,0.2,0.1,1,30 g,Celery,Bulk celery @ $3.00/kg for a 50g portion
+6ada090289b03e7af7b7e5ec,Diced Fresh Celery,20,$0.20,0,0.2,0.1,1,30 g,Celery,Bulk celery @ $3.00/kg for a 50g portion
+6ada090289b03e7af7b7e650,Chopped Broccoli,35,$0.35,10,1,0.1,2,30 g,Broccoli,Bulk broccoli @ $3.50/kg for 100g portion
+6ada090289b03e7af7b7e3da,Chopped Broccoli,35,$0.35,10,1,0.1,2,30 g,Broccoli,Bulk broccoli @ $3.50/kg for 100g portion
+6ada090289b03e7af7b7e6b3,Fresh Chopped Cauliflower,40,$0.40,5,1,0.1,1,30 g,Cauliflower,Bulk cauliflower @ $4.00/kg for 100g portion
+6ada090289b03e7af7b7e44f,Fresh Chopped Cauliflower,40,$0.40,5,1,0.1,1,30 g,Cauliflower,Bulk cauliflower @ $4.00/kg for 100g portion
+6ada090289b03e7af7b7e718,Corn,25,$0.25,45,1,0.4,11,80 mL,Corn,Bulk frozen/fresh corn @ $2.50/kg for 100g portion
+6ada090289b03e7af7b7e4b9,Corn,25,$0.25,45,1,0.4,11,80 mL,Corn,Bulk frozen/fresh corn @ $2.50/kg for 100g portion
+6ada090289b03e7af7b7e520,Sliced Beets,20,$0.20,60,2,0.3,13,180 mL,Beets,Bulk beets @ $2.00/kg for 100g portion
+6ada090289b03e7af7b7e77e,Sliced Beets,20,$0.20,60,2,0.3,13,180 mL,Beets,Bulk beets @ $2.00/kg for 100g portion
+6ada090289b03e7af7b7e57b,Chopped Hard Cooked Egg,30,$0.30,70,6,5.0,1,80 mL,Hard Boiled Egg,Bulk institutional hard-boiled eggs @ $0.30 per 50g portion
+6ada090289b03e7af7b7e7e8,Chopped Hard Cooked Egg,30,$0.30,70,6,5.0,1,80 mL,Hard Boiled Egg,Bulk institutional hard-boiled eggs @ $0.30 per 50g portion
+6ada090289b03e7af7b7e854,Black Beans,22,$0.22,40,2,0.1,7,30 g,Canned Black Beans,Institutional canned black beans case lot for 100g portion
+6ada090289b03e7af7b7e5e2,Black Beans,22,$0.22,40,2,0.1,7,30 g,Canned Black Beans,Institutional canned black beans case lot for 100g portion
+6ada090289b03e7af7b7e8bd,Chickpeas,25,$0.25,50,3,1.0,9,30 mL,"Canned Chickpeas, No Salt Added",Institutional canned chickpeas case lot for 100g portion
+6ada090289b03e7af7b7e63f,Chickpeas,25,$0.25,50,3,1.0,9,30 mL,"Canned Chickpeas, No Salt Added",Institutional canned chickpeas case lot for 100g portion
+6ada090289b03e7af7b7e912,Sliced Black Olives,45,$0.45,20,0.1,2.0,1,30 mL,Black Olives,Bulk sliced black olives @ $9.00/kg for 50g portion
+6ada090289b03e7af7b7e688,Sliced Black Olives,45,$0.45,20,0.1,2.0,1,30 mL,Black Olives,Bulk sliced black olives @ $9.00/kg for 50g portion
+6ada090289b03e7af7b7e6da,Seasoned Croutons,15,$0.15,45,1,1.0,7,10 g,Croutons,Bulk salad croutons @ $5.00/kg for 30g portion
+6ada090289b03e7af7b7e965,Seasoned Croutons,15,$0.15,45,1,1.0,7,10 g,Croutons,Bulk salad croutons @ $5.00/kg for 30g portion
+6ada090289b03e7af7b7e9ba,Salted Sunflower Seeds,20,$0.20,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $8.00/kg for 25g portion
+6ada090289b03e7af7b7e727,Salted Sunflower Seeds,20,$0.20,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $8.00/kg for 25g portion
+6ada090289b03e7af7b7e746,Caesar Salad Dressing,25,$0.25,100,1,10.0,2,1 ounce,Caesar Dressing,Bulk commercial salad dressing @ $4/L for a standard 60ml portion
+6ada090289b03e7af7b7e9d3,Caesar Salad Dressing,25,$0.25,100,1,10.0,2,1 ounce,Caesar Dressing,Bulk commercial salad dressing @ $4/L for a standard 60ml portion
+6ada090289b03e7af7b7e761,CW Ranch Salad Dressing,25,$0.25,60,0.2,4.0,6,1 ounce,CW Ranch Dressing,Bulk commercial ranch dressing @ $4/L for a standard 60ml portion
+6ada090289b03e7af7b7e9f0,CW Ranch Salad Dressing,25,$0.25,60,0.2,4.0,6,1 ounce,CW Ranch Dressing,Bulk commercial ranch dressing @ $4/L for a standard 60ml portion
+6ada090289b03e7af7b7e77d,Balsamic Salad Dressing,22,$0.22,90,0.1,8.0,4,30 mL,Balsamic Vinaigrette Dressing,Bulk balsamic vinaigrette @ $3.50/L for a standard 60ml portion
+6ada090289b03e7af7b7ea0e,Balsamic Salad Dressing,22,$0.22,90,0.1,8.0,4,30 mL,Balsamic Vinaigrette Dressing,Bulk balsamic vinaigrette @ $3.50/L for a standard 60ml portion
+6ada090289b03e7af7b7e796,Golden Italian Dressing,20,$0.20,9520,10,922.0,249,3.78 L,Italian Dressing,Bulk Italian dressing @ $3.20/L for a standard 60ml portion
+6ada090289b03e7af7b7ea27,Golden Italian Dressing,20,$0.20,9520,10,922.0,249,3.78 L,Italian Dressing,Bulk Italian dressing @ $3.20/L for a standard 60ml portion
+6ada090189b03e7af7b7d6d4,Authentic Bombay Chili Cheese Toastie,115,$1.15,420,15+,17.0,53,1 each,"White Bread, Potatoes, Mozzarella Cheese, Green Bell Peppers, Red Onions, Mint, Vegan Margarine, 2% Milk, Cilantro, Lemon, Garam Masala, Ginger Root, Jalapeno, Salt, Sugar","Bread, potatoes, cheese, and produce for one toastie portion at wholesale bulk rates"
+6ada090189b03e7af7b7d6e3,Authentic Bombay Chili Cheese Toastie,115,$1.15,420,15+,17.0,53,1 each,"White Bread, Potatoes, Mozzarella Cheese, Green Bell Peppers, Red Onions, Mint, Vegan Margarine, 2% Milk, Cilantro, Lemon, Garam Masala, Ginger Root, Jalapeno, Salt, Sugar","Bread, potatoes, cheese, and produce for one toastie portion at wholesale bulk rates"
+6ada090189b03e7af7b7d84f,Sourdough Grilled Cheese Sandwich,95,$0.95,350,15,12.0,48,1 each,"Sourdough Bread, Mozzarella Cheese, Cheddar Cheese, Vegan Margarine",Sourdough bread and mixed bulk cheese (mozzarella/cheddar) for one grilled cheese
+6ada090189b03e7af7b7d84c,Sourdough Grilled Cheese Sandwich,95,$0.95,350,15,12.0,48,1 each,"Sourdough Bread, Mozzarella Cheese, Cheddar Cheese, Vegan Margarine",Sourdough bread and mixed bulk cheese (mozzarella/cheddar) for one grilled cheese
+6ada090189b03e7af7b7d9ad,Spiced Potato Wedges,45,$0.45,300,4,18.0,33,113 g,"French Fries, Chili Powder",Bulk frozen french fries @ $2.20/kg for a 150g portion plus chili powder
+6ada090189b03e7af7b7d9bd,Spiced Potato Wedges,45,$0.45,300,4,18.0,33,113 g,"French Fries, Chili Powder",Bulk frozen french fries @ $2.20/kg for a 150g portion plus chili powder
+6ada090189b03e7af7b7db5f,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk head/leaf lettuce @ $3.00/kg for a 50g portion
+6ada090189b03e7af7b7db63,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk head/leaf lettuce @ $3.00/kg for a 50g portion
+6ada090189b03e7af7b7dcf4,Side of Sliced Tomato,20,$0.20,0,0.2,0.1,1,2 slice,Tomatoes,Bulk wholesale tomatoes @ $2.50/kg for a 60g sliced portion
+6ada090189b03e7af7b7dd08,Side of Sliced Tomato,20,$0.20,0,0.2,0.1,1,2 slice,Tomatoes,Bulk wholesale tomatoes @ $2.50/kg for a 60g sliced portion
+6ada090189b03e7af7b7de06,Shaved Fresh Red Onions,10,$0.10,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.00/kg for a 30g portion
+6ada090189b03e7af7b7de18,Shaved Fresh Red Onions,10,$0.10,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.00/kg for a 30g portion
+6ada090189b03e7af7b7df47,BBQ Sauce,12,$0.12,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper",Bulk commercial ketchup and seasoning base @ $3.50/kg for a 35g portion
+6ada090189b03e7af7b7df3d,BBQ Sauce,12,$0.12,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper",Bulk commercial ketchup and seasoning base @ $3.50/kg for a 35g portion
+6ada090189b03e7af7b7e045,Sriracha Mayonnaise,18,$0.18,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice",Bulk lite mayo and hot sauce @ $4.00/kg for a 45g portion
+6ada090189b03e7af7b7e016,Sriracha Mayonnaise,18,$0.18,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice",Bulk lite mayo and hot sauce @ $4.00/kg for a 45g portion
+6ada090189b03e7af7b7e11d,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Bulk lite mayo and fresh herbs @ $4.50/kg for a 45g portion
+6ada090189b03e7af7b7e0c2,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Bulk lite mayo and fresh herbs @ $4.50/kg for a 45g portion
+6ada090189b03e7af7b7d68c,Rotini Pasta,25,$0.25,160,6,1.0,31,240 mL,Rotini,Bulk dried pasta @ $2.50/kg for a 100g dry portion
+6ada090189b03e7af7b7d6a0,Rotini Pasta,25,$0.25,160,6,1.0,31,240 mL,Rotini,Bulk dried pasta @ $2.50/kg for a 100g dry portion
+6ada090189b03e7af7b7d98e,Spaghetti,22,$0.22,210,8,1.0,40,240 mL,Spaghetti,Bulk spaghetti @ $2.20/kg for a 100g dry portion
+6ada090189b03e7af7b7d999,Spaghetti,22,$0.22,210,8,1.0,40,240 mL,Spaghetti,Bulk spaghetti @ $2.20/kg for a 100g dry portion
+6ada090189b03e7af7b7db2e,Alfredo Sauce,35,$0.35,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper","Bulk milk, flour, and parmesan base @ $3.50/kg for a 100g portion"
+6ada090189b03e7af7b7db3d,Alfredo Sauce,35,$0.35,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper","Bulk milk, flour, and parmesan base @ $3.50/kg for a 100g portion"
+6ada090189b03e7af7b7dcd3,Marinara Sauce,28,$0.28,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk canned tomatoes and paste @ $2.80/kg for a 100g portion
+6ada090189b03e7af7b7dce1,Marinara Sauce,28,$0.28,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk canned tomatoes and paste @ $2.80/kg for a 100g portion
+6ada090189b03e7af7b7dde2,Pesto,45,$0.45,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic","Bulk oil, fresh basil, and parmesan @ $9.00/kg for a 50g portion"
+6ada090189b03e7af7b7ddf7,Pesto,45,$0.45,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic","Bulk oil, fresh basil, and parmesan @ $9.00/kg for a 50g portion"
+6ada090189b03e7af7b7df24,Sliced Fresh Mushrooms,24,$0.24,0,0.5,0.1,0,16 g,Mushrooms,Bulk wholesale fresh mushrooms @ $6.00/kg for a 40g portion
+6ada090189b03e7af7b7df1c,Sliced Fresh Mushrooms,24,$0.24,0,0.5,0.1,0,16 g,Mushrooms,Bulk wholesale fresh mushrooms @ $6.00/kg for a 40g portion
+6ada090189b03e7af7b7e01f,"Vidalia Onions, Diced",10,$0.10,15,0.4,0.0,4,60 mL,Onions,Bulk wholesale diced onions @ $2.50/kg for a 40g portion
+6ada090189b03e7af7b7dff3,"Vidalia Onions, Diced",10,$0.10,15,0.4,0.0,4,60 mL,Onions,Bulk wholesale diced onions @ $2.50/kg for a 40g portion
+6ada090189b03e7af7b7e0fa,Roasted Mixed Peppers,42,$0.42,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk bell peppers @ $5.50/kg for 75g portion including oil/seasonings
+6ada090189b03e7af7b7e09e,Roasted Mixed Peppers,42,$0.42,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk bell peppers @ $5.50/kg for 75g portion including oil/seasonings
+6ada090189b03e7af7b7e1bf,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk diced tomatoes @ $3.00/kg for 80g portion
+6ada090189b03e7af7b7e166,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk diced tomatoes @ $3.00/kg for 80g portion
+6ada090189b03e7af7b7e217,Sliced Black Olives,35,$0.35,10,0.1,1.0,1,10 g,Black Olives,Bulk sliced black olives @ $7.00/kg for 50g portion
+6ada090189b03e7af7b7e26f,Sliced Black Olives,35,$0.35,10,0.1,1.0,1,10 g,Black Olives,Bulk sliced black olives @ $7.00/kg for 50g portion
+6ada090189b03e7af7b7e310,Chopped Garlic,8,$0.08,10,0.4,0.0,2,10 mL,Garlic,Bulk chopped garlic @ $4.00/kg for 20g portion
+6ada090189b03e7af7b7e2a8,Chopped Garlic,8,$0.08,10,0.4,0.0,2,10 mL,Garlic,Bulk chopped garlic @ $4.00/kg for 20g portion
+6ada090289b03e7af7b7e5d2,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk artichoke hearts @ $9.00/kg for 60g portion
+6ada090289b03e7af7b7e33c,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk artichoke hearts @ $9.00/kg for 60g portion
+6ada090289b03e7af7b7e637,Spinach,20,$0.20,30,3,0.5,4,90 mL,Spinach,Bulk spinach @ $4.00/kg for 50g portion
+6ada090289b03e7af7b7e3bb,Spinach,20,$0.20,30,3,0.5,4,90 mL,Spinach,Bulk spinach @ $4.00/kg for 50g portion
+6ada090289b03e7af7b7e698,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Bulk plant-based crumble @ $10.00/kg for 75g portion
+6ada090289b03e7af7b7e431,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Bulk plant-based crumble @ $10.00/kg for 75g portion
+6ada090289b03e7af7b7e6fe,Diced Chicken,130,$1.30,45,8,1.0,0,60 mL,Chicken Breast,Bulk raw chicken breast @ $11.00/kg for 120g portion
+6ada090289b03e7af7b7e49d,Diced Chicken,130,$1.30,45,8,1.0,0,60 mL,Chicken Breast,Bulk raw chicken breast @ $11.00/kg for 120g portion
+6ada090289b03e7af7b7e509,Breakfast Ham,85,$0.85,35,6,1.0,1,42 g,Smoked Ham,Bulk smoked breakfast ham @ $8.50/kg for 100g portion
+6ada090289b03e7af7b7e765,Breakfast Ham,85,$0.85,35,6,1.0,1,42 g,Smoked Ham,Bulk smoked breakfast ham @ $8.50/kg for 100g portion
+6ada090289b03e7af7b7e565,Shredded Cheddar Cheese,90,$0.90,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk shredded cheddar cheese @ $12.00/kg for 75g portion
+6ada090289b03e7af7b7e7cc,Shredded Cheddar Cheese,90,$0.90,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk shredded cheddar cheese @ $12.00/kg for 75g portion
+6ada090289b03e7af7b7e838,Shredded Mozzarella Cheese,45,$0.45,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk mozzarella @ $8.50/kg for a 50g garnish portion
+6ada090289b03e7af7b7e5c6,Shredded Mozzarella Cheese,45,$0.45,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk mozzarella @ $8.50/kg for a 50g garnish portion
+6ada090289b03e7af7b7e8a5,Parmesan Cheese,60,$0.60,40,3,3.0,1,10 g,Parmesan Cheese,Bulk parmesan @ $15.00/kg for a 40g portion
+6ada090289b03e7af7b7e627,Parmesan Cheese,60,$0.60,40,3,3.0,1,10 g,Parmesan Cheese,Bulk parmesan @ $15.00/kg for a 40g portion
+6ada090189b03e7af7b7d6ad,Butter Chicken Flat Bread,115,$1.15,580,28,21.0,70,1 each,"Flatbread, Butter Chicken Sauce, Halal Boneless Skinless Chicken Thigh, Zucchini, Mozzarella Cheese, Tomatoes, Canola Oil, Cilantro, Salt, Black Pepper","Flatbread, halal chicken thigh, cheese, and sauce wholesale ingredients per 200g portion"
+6ada090189b03e7af7b7d6bf,Butter Chicken Flat Bread,115,$1.15,580,28,21.0,70,1 each,"Flatbread, Butter Chicken Sauce, Halal Boneless Skinless Chicken Thigh, Zucchini, Mozzarella Cheese, Tomatoes, Canola Oil, Cilantro, Salt, Black Pepper","Flatbread, halal chicken thigh, cheese, and sauce wholesale ingredients per 200g portion"
+6ada090189b03e7af7b7d86b,Bacon Pizza,95,$0.95,240,13,7.0,30,1 slice,"Pizza Crust, Bacon, Mozzarella Cheese, Pizza Sauce","Pizza crust, bacon, mozzarella, and sauce wholesale components per 150g slice"
+6ada090189b03e7af7b7d86a,Bacon Pizza,95,$0.95,240,13,7.0,30,1 slice,"Pizza Crust, Bacon, Mozzarella Cheese, Pizza Sauce","Pizza crust, bacon, mozzarella, and sauce wholesale components per 150g slice"
+6ada090189b03e7af7b7d9d6,Margherita Pizza,85,$0.85,200,10,5.0,29,1 slice,"Pizza Crust, Canned Tomatoes, Mozzarella Cheese, Bocconcini Cheese, Basil, Canola Oil, Sugar, Salt, Garlic, Red Pepper","Pizza crust, bocconcini, mozzarella, canned tomatoes, and basil wholesale per slice"
+6ada090189b03e7af7b7d9db,Margherita Pizza,85,$0.85,200,10,5.0,29,1 slice,"Pizza Crust, Canned Tomatoes, Mozzarella Cheese, Bocconcini Cheese, Basil, Canola Oil, Sugar, Salt, Garlic, Red Pepper","Pizza crust, bocconcini, mozzarella, canned tomatoes, and basil wholesale per slice"
+6ada090189b03e7af7b7d652,Ice Cream Scoop,35,$0.35,120,1,6.0,16,120 mL,Vanilla Ice Cream,Bulk commercial vanilla ice cream tub @ $3.50/L for a 100ml scoop
+6ada090189b03e7af7b7d651,Ice Cream Scoop,35,$0.35,120,1,6.0,16,120 mL,Vanilla Ice Cream,Bulk commercial vanilla ice cream tub @ $3.50/L for a 100ml scoop
+6ada090189b03e7af7b7d804,Small Croissant,30,$0.30,180,4,11.0,19,1 each,Croissant,Frozen unbaked commercial wholesale croissant @ $0.30 each
+6ada090189b03e7af7b7d80f,Small Croissant,30,$0.30,180,4,11.0,19,1 each,Croissant,Frozen unbaked commercial wholesale croissant @ $0.30 each
+6ada090189b03e7af7b7d979,Blueberry Danish,42,$0.42,330,5,9.0,56,1 each,"Danish, Blueberry Pie Filling, Powdered Sugar, Water, Corn Syrup",Commercial frozen danish pastry with filling wholesale @ $0.42 each
+6ada090189b03e7af7b7d971,Blueberry Danish,42,$0.42,330,5,9.0,56,1 each,"Danish, Blueberry Pie Filling, Powdered Sugar, Water, Corn Syrup",Commercial frozen danish pastry with filling wholesale @ $0.42 each
+6ada090189b03e7af7b7db12,Double Chocolate Chip Gourmet Cookie,25,$0.25,240,3,12.0,34,1 each,Chocolate Cookie,Bulk frozen gourmet cookie dough puck @ $0.25 each
+6ada090189b03e7af7b7db1d,Double Chocolate Chip Gourmet Cookie,25,$0.25,240,3,12.0,34,1 each,Chocolate Cookie,Bulk frozen gourmet cookie dough puck @ $0.25 each
+6ada090189b03e7af7b7dcb0,Tiramisu Layered Cake,125,$1.25,460,7,29.0,43,1 piece,"Sponge Cake, Whipping Cream, Mascarpone, Powdered Sugar, Water, Baking Cocoa, Coffee","Mascarpone, whipping cream, sponge cake, and coffee wholesale for a 100g slice"
+6ada090189b03e7af7b7dcc0,Tiramisu Layered Cake,125,$1.25,460,7,29.0,43,1 piece,"Sponge Cake, Whipping Cream, Mascarpone, Powdered Sugar, Water, Baking Cocoa, Coffee","Mascarpone, whipping cream, sponge cake, and coffee wholesale for a 100g slice"
+6ada090189b03e7af7b7ddc0,Fruit Jelly (Grape) with Whipped Topping,18,$0.18,180,3,1.0,41,1 each,"Water, Water, Grape Gelatin Mix, Whipped Topping",Bulk gelatin mix and whipped topping for 120g portion
+6ada090189b03e7af7b7ddd4,Fruit Jelly (Grape) with Whipped Topping,18,$0.18,180,3,1.0,41,1 each,"Water, Water, Grape Gelatin Mix, Whipped Topping",Bulk gelatin mix and whipped topping for 120g portion
+6ada090189b03e7af7b7df01,Oreo Cookie Cupcake (Mix),35,$0.35,280,2,13.0,38,1 each,"Water, Chocolate Icing, Chocolate Cake Mix, Oreo Cookie, Canola Oil, Oreo Crumbs","Bulk cake mix, icing, and whole Oreo for 1 cupcake portion"
+6ada090189b03e7af7b7defa,Oreo Cookie Cupcake (Mix),35,$0.35,280,2,13.0,38,1 each,"Water, Chocolate Icing, Chocolate Cake Mix, Oreo Cookie, Canola Oil, Oreo Crumbs","Bulk cake mix, icing, and whole Oreo for 1 cupcake portion"
+6ada090289b03e7af7b7edca,Biryani Rice Mix,42,$0.42,310,6,3.5,64,1 serving(s),"Water, Basmati Rice, Mixed Vegetables, Raisins, Canola Oil, Salt, Cayenne Pepper, Cinnamon, Turmeric, Cloves, Black Pepper, Cumin, Bay Leaf","Bulk basmati rice, vegetables, and raisins for 150g portion"
+6ada090289b03e7af7b7ec2a,Biryani Rice Mix,42,$0.42,310,6,3.5,64,1 serving(s),"Water, Basmati Rice, Mixed Vegetables, Raisins, Canola Oil, Salt, Cayenne Pepper, Cinnamon, Turmeric, Cloves, Black Pepper, Cumin, Bay Leaf","Bulk basmati rice, vegetables, and raisins for 150g portion"
+6ada090289b03e7af7b7ee9f,Goan Fish Curry,125,$1.25,400,25+,32.0,8,180 mL,"Cape Hake Fillet, Coconut Milk, Tomato Puree, Canola Oil, Lemon Juice, Chili Peppers, Salt, Garlic, Ginger Root, Water, Cornstarch, Jalapeno, Mustard, Garam Masala, Turmeric, Cumin, Cayenne Pepper",Bulk hake fillet and coconut milk for 160g portion
+6ada090289b03e7af7b7ecfc,Goan Fish Curry,125,$1.25,400,25+,32.0,8,180 mL,"Cape Hake Fillet, Coconut Milk, Tomato Puree, Canola Oil, Lemon Juice, Chili Peppers, Salt, Garlic, Ginger Root, Water, Cornstarch, Jalapeno, Mustard, Garam Masala, Turmeric, Cumin, Cayenne Pepper",Bulk hake fillet and coconut milk for 160g portion
+6ada090289b03e7af7b7f046,Vegetable Biryani,38,$0.38,180,2,11.0,19,85 g,"Sweet Potatoes, Yellow Onions, Water, Carrots, Green Beans, Canola Oil, Salt, Cloves, Chili Powder, Turmeric, Vegetable Base, Curry Powder, Cumin, Coriander, Cinnamon",Bulk root vegetables and spices for 150g portion
+6ada090289b03e7af7b7ee89,Vegetable Biryani,38,$0.38,180,2,11.0,19,85 g,"Sweet Potatoes, Yellow Onions, Water, Carrots, Green Beans, Canola Oil, Salt, Cloves, Chili Powder, Turmeric, Vegetable Base, Curry Powder, Cumin, Coriander, Cinnamon",Bulk root vegetables and spices for 150g portion
+6ada090289b03e7af7b7f0c9,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water only (Chef's Special)
+6ada090289b03e7af7b7ef11,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water only (Chef's Special)
+6ada090289b03e7af7b7f16d,Tandoori Root Vegetables,45,$0.45,170,2,9.0,22,113 g,"Carrots, Parsnips, Sweet Potatoes, Canola Oil, Garlic, Ginger Root, Garlic, Cinnamon, Cumin, Ginger Root, Coriander, Paprika, Salt, Black Pepper, Red Pepper",Bulk root vegetables and oil/spices for 130g portion
+6ada090289b03e7af7b7efb6,Tandoori Root Vegetables,45,$0.45,170,2,9.0,22,113 g,"Carrots, Parsnips, Sweet Potatoes, Canola Oil, Garlic, Ginger Root, Garlic, Cinnamon, Cumin, Ginger Root, Coriander, Paprika, Salt, Black Pepper, Red Pepper",Bulk root vegetables and oil/spices for 130g portion
+6ada090389b03e7af7b7f212,Naan Bread,28,$0.28,330,10,9.0,52,1 each,Naan Bread,Wholesale commercial naan bread per piece
+6ada090289b03e7af7b7f064,Naan Bread,28,$0.28,330,10,9.0,52,1 each,Naan Bread,Wholesale commercial naan bread per piece
+6ada090389b03e7af7b7f29e,Steamed Broccoli,32,$0.32,30,2,0.3,6,90 mL,Broccoli,Bulk frozen broccoli for 90g portion
+6ada090289b03e7af7b7f0f3,Steamed Broccoli,32,$0.32,30,2,0.3,6,90 mL,Broccoli,Bulk frozen broccoli for 90g portion
+6ada090389b03e7af7b7f340,Spicy Sautéed Corn,40,$0.40,60,1,3.0,8,60 mL,"Corn, Mushrooms, Yellow Onions, Green Bell Peppers, Red Bell Peppers, Canola Oil, Jalapeno, Cilantro, Black Pepper","Bulk corn, peppers, and mushrooms for 100g portion"
+6ada090289b03e7af7b7f1a1,Spicy Sautéed Corn,40,$0.40,60,1,3.0,8,60 mL,"Corn, Mushrooms, Yellow Onions, Green Bell Peppers, Red Bell Peppers, Canola Oil, Jalapeno, Cilantro, Black Pepper","Bulk corn, peppers, and mushrooms for 100g portion"
+6ada090289b03e7af7b7eda9,Paneer Makhani,145,$1.45,340,13+,28.0,11,120 mL,"Cheese Paneer, Crushed Tomatoes, Water, Whipping Cream, Canola Oil, Honey, Unsalted Butter, Garlic, Ginger Root, Kasuri Methi, Jalapeno, Salt, Paprika, Garam Masala, Ginger Root, Curry Powder, Cayenne Pepper, Mint",Bulk paneer and cream @ $12/kg for 150g portion
+6ada090289b03e7af7b7ec01,Paneer Makhani,145,$1.45,340,13+,28.0,11,120 mL,"Cheese Paneer, Crushed Tomatoes, Water, Whipping Cream, Canola Oil, Honey, Unsalted Butter, Garlic, Ginger Root, Kasuri Methi, Jalapeno, Salt, Paprika, Garam Masala, Ginger Root, Curry Powder, Cayenne Pepper, Mint",Bulk paneer and cream @ $12/kg for 150g portion
+6ada090289b03e7af7b7ee7c,Chana Masala,55,$0.55,930,44+,26.0,139,128 g,"Canned Chickpeas, No Salt Added, Tomatoes, Yellow Onions, Canola Oil, Tomato Paste, Garlic, Ginger Root, Garam Masala, Cumin, Turmeric, Coriander, Cilantro, Chili Powder, Salt",Canned chickpeas and aromatics @ $3/kg for 180g portion
+6ada090289b03e7af7b7ecdc,Chana Masala,55,$0.55,930,44+,26.0,139,128 g,"Canned Chickpeas, No Salt Added, Tomatoes, Yellow Onions, Canola Oil, Tomato Paste, Garlic, Ginger Root, Garam Masala, Cumin, Turmeric, Coriander, Cilantro, Chili Powder, Salt",Canned chickpeas and aromatics @ $3/kg for 180g portion
+6ada090289b03e7af7b7ef55,Aloo Matar,45,$0.45,200,6+,5.0,36,170 g,"Potatoes, Green Peas, Tomato Puree, Yellow Onions, Chili Peppers, Garlic, Canola Oil, Ginger Root, Salt, Mustard, Cumin, Turmeric, Coriander, Garam Masala, Chili Powder, Cumin",Bulk potatoes and peas @ $2.50/kg for 180g portion
+6ada090289b03e7af7b7edab,Aloo Matar,45,$0.45,200,6+,5.0,36,170 g,"Potatoes, Green Peas, Tomato Puree, Yellow Onions, Chili Peppers, Garlic, Canola Oil, Ginger Root, Salt, Mustard, Cumin, Turmeric, Coriander, Garam Masala, Chili Powder, Cumin",Bulk potatoes and peas @ $2.50/kg for 180g portion
+6ada090289b03e7af7b7f035,Turmeric Roasted Cauliflower,60,$0.60,50,2,3.5,5,90 mL,"Cauliflower, Canola Oil, Turmeric, Salt",Bulk cauliflower and oil @ $4/kg for 150g portion
+6ada090289b03e7af7b7ee77,Turmeric Roasted Cauliflower,60,$0.60,50,2,3.5,5,90 mL,"Cauliflower, Canola Oil, Turmeric, Salt",Bulk cauliflower and oil @ $4/kg for 150g portion
+6ada090289b03e7af7b7f185,Cumin Roasted Eggplant,65,$0.65,40,1,3.0,4,120 mL,"Eggplant, Canola Oil, Lemon Juice, Parsley, Salt, Cumin, Garlic, Black Pepper, Paprika",Bulk eggplant and seasonings @ $4.50/kg for 140g portion
+6ada090289b03e7af7b7efcd,Cumin Roasted Eggplant,65,$0.65,40,1,3.0,4,120 mL,"Eggplant, Canola Oil, Lemon Juice, Parsley, Salt, Cumin, Garlic, Black Pepper, Paprika",Bulk eggplant and seasonings @ $4.50/kg for 140g portion
+6ada090289b03e7af7b7eb90,Split Pea and Ham Soup,75,$0.75,160,9,3.0,23+,180 mL,"Water, Water, Split Peas, Smoked Ham, Celery, Onions, Carrots, Chicken Soup Base, Lite, Vegan Margarine, Black Pepper",Split peas and bulk smoked ham @ $5/kg for 250ml portion
+6ada090289b03e7af7b7ed3e,Split Pea and Ham Soup,75,$0.75,160,9,3.0,23+,180 mL,"Water, Water, Split Peas, Smoked Ham, Celery, Onions, Carrots, Chicken Soup Base, Lite, Vegan Margarine, Black Pepper",Split peas and bulk smoked ham @ $5/kg for 250ml portion
+6ada090289b03e7af7b7ee24,Cream of Carrot and Ginger Soup,40,$0.40,90,3,3.0,13,180 mL,"Water, 2% Milk, Carrots, Onions, Cornstarch, Vegetable Base, Vegan Margarine, Black Pepper, Ginger, Nutmeg","Carrots, milk, and vegetable base @ $2.50/kg for 250ml portion"
+6ada090289b03e7af7b7ec84,Cream of Carrot and Ginger Soup,40,$0.40,90,3,3.0,13,180 mL,"Water, 2% Milk, Carrots, Onions, Cornstarch, Vegetable Base, Vegan Margarine, Black Pepper, Ginger, Nutmeg","Carrots, milk, and vegetable base @ $2.50/kg for 250ml portion"
+6ada090289b03e7af7b7ed94,Side of Sliced Tomato,35,$0.35,0,0.2,0.1,1,2 slice,Tomatoes,Bulk fresh tomatoes @ $3.50/kg for 100g portion
+6ada090289b03e7af7b7ebef,Side of Sliced Tomato,35,$0.35,0,0.2,0.1,1,2 slice,Tomatoes,Bulk fresh tomatoes @ $3.50/kg for 100g portion
+6ada090289b03e7af7b7ee6c,Leaf Lettuce,25,$0.25,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4/kg for 60g portion
+6ada090289b03e7af7b7ecc9,Leaf Lettuce,25,$0.25,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4/kg for 60g portion
+6ada090289b03e7af7b7ef40,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2/kg for 50g portion
+6ada090289b03e7af7b7ed93,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2/kg for 50g portion
+6ada090289b03e7af7b7f024,Sliced Fresh Cucumbers,18,$0.18,0,0.2,0.0,1,30 g,Cucumber,Bulk cucumbers @ $2.50/kg for a 75g portion
+6ada090289b03e7af7b7ee66,Sliced Fresh Cucumbers,18,$0.18,0,0.2,0.0,1,30 g,Cucumber,Bulk cucumbers @ $2.50/kg for a 75g portion
+6ada090289b03e7af7b7f0b8,Smoked Deli Ham,75,$0.75,60,9,2.0,2,56 g,Black Forest Ham,Bulk deli ham @ $12/kg for a 60g portion
+6ada090289b03e7af7b7eef9,Smoked Deli Ham,75,$0.75,60,9,2.0,2,56 g,Black Forest Ham,Bulk deli ham @ $12/kg for a 60g portion
+6ada090289b03e7af7b7f154,Deli Roast Beef,90,$0.90,90,11,4.0,1,72 g,Deli Roast Beef,Bulk roast beef @ $15/kg for a 60g portion
+6ada090289b03e7af7b7efa2,Deli Roast Beef,90,$0.90,90,11,4.0,1,72 g,Deli Roast Beef,Bulk roast beef @ $15/kg for a 60g portion
+6ada090389b03e7af7b7f1fe,Sliced Deli Turkey,80,$0.80,80,15,1.0,4,90 g,Smoked Turkey Breast,Bulk smoked turkey @ $13/kg for a 60g portion
+6ada090289b03e7af7b7f04e,Sliced Deli Turkey,80,$0.80,80,15,1.0,4,90 g,Smoked Turkey Breast,Bulk smoked turkey @ $13/kg for a 60g portion
+6ada090389b03e7af7b7f32b,Light Type Mayonnaise,12,$0.12,90,0.2,8.0,2,30 mL,Lite Mayonnaise,Bulk lite mayo @ $4/kg for a 30g portion
+6ada090289b03e7af7b7f18e,Light Type Mayonnaise,12,$0.12,90,0.2,8.0,2,30 mL,Lite Mayonnaise,Bulk lite mayo @ $4/kg for a 30g portion
+6ada090389b03e7af7b7f3c6,Mustard,8,$0.08,10,1,0.5,1,15 mL,Yellow Mustard,Bulk yellow mustard @ $3.50/kg for a 20g portion
+6ada090389b03e7af7b7f22d,Mustard,8,$0.08,10,1,0.5,1,15 mL,Yellow Mustard,Bulk yellow mustard @ $3.50/kg for a 20g portion
+6ada090389b03e7af7b7f441,Chipotle Aioli,16,$0.16,90,0.3,8.0,4,30 mL,"Lite Mayonnaise, Chipotle Flavour Concentrate",Bulk chipotle aioli base @ $5/kg for a 30g portion
+6ada090389b03e7af7b7f2a3,Chipotle Aioli,16,$0.16,90,0.3,8.0,4,30 mL,"Lite Mayonnaise, Chipotle Flavour Concentrate",Bulk chipotle aioli base @ $5/kg for a 30g portion
+6ada090389b03e7af7b7f31d,Hummus,35,$0.35,80,2,6.0,5,30 mL,Hummus,Bulk hummus @ $7/kg for a 50g portion
+6ada090389b03e7af7b7f4b5,Hummus,35,$0.35,80,2,6.0,5,30 mL,Hummus,Bulk hummus @ $7/kg for a 50g portion
+6ada090389b03e7af7b7f528,Chao Cheese,55,$0.55,30,0,2.5,2,1 slice,Plant Based Cheese Slices,Plant-based cheese slices @ $0.27/slice for 2 slices
+6ada090389b03e7af7b7f396,Chao Cheese,55,$0.55,30,0,2.5,2,1 slice,Plant Based Cheese Slices,Plant-based cheese slices @ $0.27/slice for 2 slices
+6ada090389b03e7af7b7f57b,Mozzarella Cheese Slices,45,$0.45,40,3,3.0,0,1 each,Mozzarella Cheese,Bulk mozzarella slices @ $0.22/slice for 2 slices
+6ada090389b03e7af7b7f3e6,Mozzarella Cheese Slices,45,$0.45,40,3,3.0,0,1 each,Mozzarella Cheese,Bulk mozzarella slices @ $0.22/slice for 2 slices
+6ada090389b03e7af7b7f5ce,"Cheddar Cheese Slices, Mild",25,$0.25,60,3,4.5,0,1 each,Cheddar Cheese,Wholesale mild cheddar bulk block @ $11/kg for 1 slice (22g)
+6ada090389b03e7af7b7f434,"Cheddar Cheese Slices, Mild",25,$0.25,60,3,4.5,0,1 each,Cheddar Cheese,Wholesale mild cheddar bulk block @ $11/kg for 1 slice (22g)
+6ada090389b03e7af7b7f61e,Sliced White Bread,8,$0.08,170,6,1.5,34,2 slice,White Bread,Commercial white bread loaf bulk @ $2.50/loaf (24 slices)
+6ada090389b03e7af7b7f48a,Sliced White Bread,8,$0.08,170,6,1.5,34,2 slice,White Bread,Commercial white bread loaf bulk @ $2.50/loaf (24 slices)
+6ada090389b03e7af7b7f670,Homemade Whole Wheat Bread,14,$0.14,100,4,3.0,17,1 slice,"Whole Wheat Flour, Water, 2% Milk, Unsalted Butter, Yeast, Honey, Salt","In-house whole wheat bread ingredient cost per slice (flour, butter, milk, honey)"
+6ada090389b03e7af7b7f4d7,Homemade Whole Wheat Bread,14,$0.14,100,4,3.0,17,1 slice,"Whole Wheat Flour, Water, 2% Milk, Unsalted Butter, Yeast, Honey, Salt","In-house whole wheat bread ingredient cost per slice (flour, butter, milk, honey)"
+6ada090389b03e7af7b7f6bc,"Flour Tortilla Wrap, 10""",15,$0.15,220,7,5.0,38,1 each,Flour Tortilla,Bulk foodservice 10-inch flour tortillas @ $3.00 per pack of 20
+6ada090389b03e7af7b7f523,"Flour Tortilla Wrap, 10""",15,$0.15,220,7,5.0,38,1 each,Flour Tortilla,Bulk foodservice 10-inch flour tortillas @ $3.00 per pack of 20
+6ada090389b03e7af7b7f577,"Sourdough Bread, Pre-Sliced",18,$0.18,110,4,1.0,23,1 serving(s),Sourdough Bread,Commercial pre-sliced sourdough loaf bulk @ $4.50/loaf (25 slices)
+6ada090389b03e7af7b7f70b,"Sourdough Bread, Pre-Sliced",18,$0.18,110,4,1.0,23,1 serving(s),Sourdough Bread,Commercial pre-sliced sourdough loaf bulk @ $4.50/loaf (25 slices)
+6ada090389b03e7af7b7f759,Egg Salad Sandwich,85,$0.85,690,20,49.0,41,1 each,"Hard Boiled Egg, White Bread, Mayonnaise, Tomatoes, Lettuce Leaf, Cucumber, Celery, Green Onions, Lemon Juice, Parsley, Lemon, Salt, Black Pepper","Eggs (2), bread, mayo, and produce garnish wholesale ingredient cost"
+6ada090389b03e7af7b7f5cd,Egg Salad Sandwich,85,$0.85,690,20,49.0,41,1 each,"Hard Boiled Egg, White Bread, Mayonnaise, Tomatoes, Lettuce Leaf, Cucumber, Celery, Green Onions, Lemon Juice, Parsley, Lemon, Salt, Black Pepper","Eggs (2), bread, mayo, and produce garnish wholesale ingredient cost"
+6ada090389b03e7af7b7f60a,Jerk Chicken Sandwich,145,$1.45,530,22,19.0,65,1 each,"Bread, Chicken Breast, Caribbean Sauce, Mayonnaise, Lettuce Leaf, Red Onions, Sweet Mango Chutney, Red Wine Vinegar, Water, Sugar, Salt","Chicken breast (100g @ $9/kg), bread, mango chutney, and sauce wholesale cost"
+6ada090389b03e7af7b7f790,Jerk Chicken Sandwich,145,$1.45,530,22,19.0,65,1 each,"Bread, Chicken Breast, Caribbean Sauce, Mayonnaise, Lettuce Leaf, Red Onions, Sweet Mango Chutney, Red Wine Vinegar, Water, Sugar, Salt","Chicken breast (100g @ $9/kg), bread, mango chutney, and sauce wholesale cost"
+6ada090389b03e7af7b7f648,Vegetable Cheese Sandwich,95,$0.95,410,20,6.0,69,1 each,"Hoagie Roll, Zucchini, Pizza Sauce, Yellow Onions, Mozzarella Cheese, Spinach, Tomatoes, Lettuce, Mushrooms, Peppers","Hoagie roll, mozzarella cheese, and mixed grilled vegetables bulk cost"
+6ada090389b03e7af7b7f7d0,Vegetable Cheese Sandwich,95,$0.95,410,20,6.0,69,1 each,"Hoagie Roll, Zucchini, Pizza Sauce, Yellow Onions, Mozzarella Cheese, Spinach, Tomatoes, Lettuce, Mushrooms, Peppers","Hoagie roll, mozzarella cheese, and mixed grilled vegetables bulk cost"
+6ada090289b03e7af7b7edff,Jasmine Rice,22,$0.22,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $3.50/kg for a standard cooked 150g portion
+6ada090289b03e7af7b7ec5e,Jasmine Rice,22,$0.22,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $3.50/kg for a standard cooked 150g portion
+6ada090289b03e7af7b7eeda,Cantonese Style Chow Mein Noodles,35,$0.35,260,8,6.0,43,120 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil",Cantonese noodles (120g dry) plus bulk soy sauce and oil for 1 portion
+6ada090289b03e7af7b7ed33,Cantonese Style Chow Mein Noodles,35,$0.35,260,8,6.0,43,120 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil",Cantonese noodles (120g dry) plus bulk soy sauce and oil for 1 portion
+6ada090289b03e7af7b7efa6,Diced Chicken,140,$1.40,70,12,1.0,1,90 mL,Chicken Breast,Bulk chicken breast @ $11/kg for 125g portion
+6ada090289b03e7af7b7edf2,Diced Chicken,140,$1.40,70,12,1.0,1,90 mL,Chicken Breast,Bulk chicken breast @ $11/kg for 125g portion
+6ada090289b03e7af7b7f071,Asian Beef Strips,180,$1.80,160,24,6.0,1,90 mL,"Fajita Beef, Canola Oil, Garlic, Ginger Root, Black Pepper",Bulk fajita beef and aromatics @ $14/kg for 125g portion
+6ada090289b03e7af7b7eeac,Asian Beef Strips,180,$1.80,160,24,6.0,1,90 mL,"Fajita Beef, Canola Oil, Garlic, Ginger Root, Black Pepper",Bulk fajita beef and aromatics @ $14/kg for 125g portion
+6ada090289b03e7af7b7ef53,Seasoned Tofu,60,$0.60,70,8,3.5,3,90 mL,"Tofu, Water, GF Soy Sauce, Water, Cornstarch, Fennel Seed",Bulk tofu and marinade ingredients for 125g portion
+6ada090289b03e7af7b7f102,Seasoned Tofu,60,$0.60,70,8,3.5,3,90 mL,"Tofu, Water, GF Soy Sauce, Water, Cornstarch, Fennel Seed",Bulk tofu and marinade ingredients for 125g portion
+6ada090289b03e7af7b7eff9,Sliced Yellow Onions,15,$0.15,10,0.3,0.0,3,30 g,Yellow Onions,Bulk yellow onions @ $2/kg for 75g portion
+6ada090289b03e7af7b7f1af,Sliced Yellow Onions,15,$0.15,10,0.3,0.0,3,30 g,Yellow Onions,Bulk yellow onions @ $2/kg for 75g portion
+6ada090389b03e7af7b7f23d,Julienne Slice Green Peppers,35,$0.35,5,0.3,0.1,1,30 g,Green Bell Peppers,Bulk green bell peppers @ $4.50/kg for 75g portion
+6ada090289b03e7af7b7f08e,Julienne Slice Green Peppers,35,$0.35,5,0.3,0.1,1,30 g,Green Bell Peppers,Bulk green bell peppers @ $4.50/kg for 75g portion
+6ada090389b03e7af7b7f2c4,Julienne Slice Red Peppers,45,$0.45,10,0.3,0.1,2,30 g,Red Bell Peppers,Bulk red bell peppers @ $6/kg for 75g portion
+6ada090289b03e7af7b7f121,Julienne Slice Red Peppers,45,$0.45,10,0.3,0.1,2,30 g,Red Bell Peppers,Bulk red bell peppers @ $6/kg for 75g portion
+6ada090289b03e7af7b7f1c7,Fresh Julienne Sliced Carrots,20,$0.20,10,0.3,0.1,3,30 g,Carrots,Bulk carrots @ $2.50/kg for 75g portion
+6ada090389b03e7af7b7f365,Fresh Julienne Sliced Carrots,20,$0.20,10,0.3,0.1,3,30 g,Carrots,Bulk carrots @ $2.50/kg for 75g portion
+6ada090389b03e7af7b7f3ee,Sliced Fresh Mushrooms,50,$0.50,0,0.5,0.1,0,16 g,Mushrooms,Bulk fresh mushrooms @ $7/kg for 70g portion
+6ada090389b03e7af7b7f253,Sliced Fresh Mushrooms,50,$0.50,0,0.5,0.1,0,16 g,Mushrooms,Bulk fresh mushrooms @ $7/kg for 70g portion
+6ada090389b03e7af7b7f46a,Sliced Fresh Green Cabbage,15,$0.15,10,0.4,0.0,2,30 g,Cabbage,Bulk green cabbage @ $2/kg for 75g portion
+6ada090389b03e7af7b7f2c8,Sliced Fresh Green Cabbage,15,$0.15,10,0.4,0.0,2,30 g,Cabbage,Bulk green cabbage @ $2/kg for 75g portion
+6ada090389b03e7af7b7f345,Bean Sprouts,25,$0.25,5,1,0.0,1,30 g,Bean Sprouts,Bulk bean sprouts @ $3.50/kg for 70g portion
+6ada090389b03e7af7b7f4da,Bean Sprouts,25,$0.25,5,1,0.0,1,30 g,Bean Sprouts,Bulk bean sprouts @ $3.50/kg for 70g portion
+6ada090389b03e7af7b7f53b,Sesame Bok Choy,65,$0.65,25,1,2.0,2,60 mL,"Bok Choy, Napa Cabbage, Water, Soy Sauce, Seasoned Rice Vinegar, Sesame Oil, Ginger Root",Wholesale bok choy and napa cabbage @ $3/kg for a 150g vegetable side portion with bulk dressings
+6ada090389b03e7af7b7f3ac,Sesame Bok Choy,65,$0.65,25,1,2.0,2,60 mL,"Bok Choy, Napa Cabbage, Water, Soy Sauce, Seasoned Rice Vinegar, Sesame Oil, Ginger Root",Wholesale bok choy and napa cabbage @ $3/kg for a 150g vegetable side portion with bulk dressings
+6ada090389b03e7af7b7f3f9,Crispy Onion Strings,35,$0.35,70,1,4.5,7,30 g,"Spanish Onions, 2% Milk, All Purpose Flour, Salt, Paprika, Black Pepper, Cayenne Pepper",Bulk onions and flour @ $2/kg for a 60g crispy topping portion
+6ada090389b03e7af7b7f590,Crispy Onion Strings,35,$0.35,70,1,4.5,7,30 g,"Spanish Onions, 2% Milk, All Purpose Flour, Salt, Paprika, Black Pepper, Cayenne Pepper",Bulk onions and flour @ $2/kg for a 60g crispy topping portion
+6ada090389b03e7af7b7f5e4,Sriracha Hot Sauce,15,$0.15,0,0.1,0.0,1,15 mL,Sriracha Sauce,Bulk sriracha institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f44d,Sriracha Hot Sauce,15,$0.15,0,0.1,0.0,1,15 mL,Sriracha Sauce,Bulk sriracha institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f633,Fresh Chopped Cilantro,10,$0.10,0,0,0.0,0,15 g,Cilantro,Bulk fresh cilantro bunch cost for a 10g garnish portion
+6ada090389b03e7af7b7f49c,Fresh Chopped Cilantro,10,$0.10,0,0,0.0,0,15 g,Cilantro,Bulk fresh cilantro bunch cost for a 10g garnish portion
+6ada090389b03e7af7b7f68a,Sesame Seeds,12,$0.12,35,1,3.5,1,10 mL,Sesame Seeds,Bulk sesame seeds @ $8/kg for a 15g garnish portion
+6ada090389b03e7af7b7f4ea,Sesame Seeds,12,$0.12,35,1,3.5,1,10 mL,Sesame Seeds,Bulk sesame seeds @ $8/kg for a 15g garnish portion
+6ada090389b03e7af7b7f53a,Crispy Chickpeas,30,$0.30,60,3,2.0,9,30 mL,"Canned Chickpeas, No Salt Added, Canola Oil, Salt",Bulk canned chickpeas @ $2.50/kg for a 80g crunchy snack portion
+6ada090389b03e7af7b7f6d0,Crispy Chickpeas,30,$0.30,60,3,2.0,9,30 mL,"Canned Chickpeas, No Salt Added, Canola Oil, Salt",Bulk canned chickpeas @ $2.50/kg for a 80g crunchy snack portion
+6ada090389b03e7af7b7f722,Teriyaki Sauce,20,$0.20,60,1,0.0,16,60 mL,Teriyaki Sauce,Bulk teriyaki sauce institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f58e,Teriyaki Sauce,20,$0.20,60,1,0.0,16,60 mL,Teriyaki Sauce,Bulk teriyaki sauce institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f76c,Ultimate Honey Garlic Sauce,25,$0.25,120,0.2,0.0,32,60 mL,Honey Garlic Sauce,Bulk honey garlic sauce institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f5df,Ultimate Honey Garlic Sauce,25,$0.25,120,0.2,0.0,32,60 mL,Honey Garlic Sauce,Bulk honey garlic sauce institutional jug cost for a 30ml serving portion
+6ada090389b03e7af7b7f61d,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is considered a zero-cost utility ingredient
+6ada090389b03e7af7b7f7a2,Chef's Special,0,$0.00,0,0,0.0,0,1 serving(s),Water,Water is considered a zero-cost utility ingredient
+6ada090289b03e7af7b7edee,Shrimp and Vegetable Stir-Fry,185,$1.85,50,7,0.2,5,180 mL,"Shrimp, Bok Choy, Cauliflower, Water, Green Bell Peppers, Mushrooms, Carrots, Yellow Onions, Soy Sauce, Brown Sugar, Cornstarch, Chicken Soup Base, Lite, Garlic, Ginger Root",Bulk shrimp @ $16/kg (50g) plus mixed stir-fry vegetables (120g) for a buffet main portion
+6ada090289b03e7af7b7ec4f,Shrimp and Vegetable Stir-Fry,185,$1.85,50,7,0.2,5,180 mL,"Shrimp, Bok Choy, Cauliflower, Water, Green Bell Peppers, Mushrooms, Carrots, Yellow Onions, Soy Sauce, Brown Sugar, Cornstarch, Chicken Soup Base, Lite, Garlic, Ginger Root",Bulk shrimp @ $16/kg (50g) plus mixed stir-fry vegetables (120g) for a buffet main portion
+6ada090289b03e7af7b7eec3,Sweet and Sour Tofu,85,$0.85,100,5,3.0,16,180 mL,"Tofu, Green Bell Peppers, Red Bell Peppers, Pineapple, Sweet & Sour Sauce, Yellow Onions, Green Onions, Canola Oil, Sesame Seeds",Bulk tofu and mixed vegetables @ $4.50/kg for a standard 180g portion
+6ada090289b03e7af7b7ed21,Sweet and Sour Tofu,85,$0.85,100,5,3.0,16,180 mL,"Tofu, Green Bell Peppers, Red Bell Peppers, Pineapple, Sweet & Sour Sauce, Yellow Onions, Green Onions, Canola Oil, Sesame Seeds",Bulk tofu and mixed vegetables @ $4.50/kg for a standard 180g portion
+6ada090289b03e7af7b7ef95,Cantonese Style Chow Mein Noodles,42,$0.42,690,21,15.0,115,320 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil",Bulk Asian noodles and oil @ $2.50/kg for a 150g portion
+6ada090289b03e7af7b7edde,Cantonese Style Chow Mein Noodles,42,$0.42,690,21,15.0,115,320 mL,"Cantonese Noodles, GF Soy Sauce, Canola Oil",Bulk Asian noodles and oil @ $2.50/kg for a 150g portion
+6ada090289b03e7af7b7f0ed,Jasmine Rice,22,$0.22,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $2.00/kg for a 150g cooked portion
+6ada090289b03e7af7b7ef3d,Jasmine Rice,22,$0.22,170,3,0.3,38,120 mL,"Water, Jasmine Rice",Bulk jasmine rice @ $2.00/kg for a 150g cooked portion
+6ada090289b03e7af7b7eddc,Cooked Yellow Split Peas,25,$0.25,120,8,1.5,20,90 mL,"Water, Split Peas",Bulk dry yellow split peas @ $2.20/kg for a 120g cooked portion
+6ada090289b03e7af7b7ec3c,Cooked Yellow Split Peas,25,$0.25,120,8,1.5,20,90 mL,"Water, Split Peas",Bulk dry yellow split peas @ $2.20/kg for a 120g cooked portion
+6ada090289b03e7af7b7eeb3,Chili Con Carne,145,$1.45,180,15,7.0,15,150 mL,"Crushed Tomatoes, No Salt Added Kidney Beans, Ground Beef, Green Bell Peppers, Yellow Onions, Chili Powder, Garlic, Black Pepper, Bay Leaf",Bulk ground beef and canned tomatoes @ $9.00/kg blended cost for a 180g portion
+6ada090289b03e7af7b7ed0d,Chili Con Carne,145,$1.45,180,15,7.0,15,150 mL,"Crushed Tomatoes, No Salt Added Kidney Beans, Ground Beef, Green Bell Peppers, Yellow Onions, Chili Powder, Garlic, Black Pepper, Bay Leaf",Bulk ground beef and canned tomatoes @ $9.00/kg blended cost for a 180g portion
+6ada090289b03e7af7b7ef7c,Tzatziki,55,$0.55,20,3,0.5,1,30 mL,"Greek Yogurt, Cucumber, Salt, Garlic, Dill",Bulk Greek yogurt and produce @ $5.00/kg for a 60g portion
+6ada090289b03e7af7b7edcf,Tzatziki,55,$0.55,20,3,0.5,1,30 mL,"Greek Yogurt, Cucumber, Salt, Garlic, Dill",Bulk Greek yogurt and produce @ $5.00/kg for a 60g portion
+6ada090289b03e7af7b7f05b,Hummus,45,$0.45,80,2,6.0,5,30 mL,Hummus,Commercial bulk foodservice hummus @ $4.00/kg for a 60g portion
+6ada090289b03e7af7b7ee9b,Hummus,45,$0.45,80,2,6.0,5,30 mL,Hummus,Commercial bulk foodservice hummus @ $4.00/kg for a 60g portion
+6ada090289b03e7af7b7f0da,Baba Ganoush,65,$0.65,130,3,11.0,8,90 mL,"Eggplant, Lemon Juice, Sesame Tahini Paste, Canola Oil, Sesame Seeds, Garlic, Salt, Black Pepper",Eggplant and tahini paste @ $6.50/kg for a 60g portion
+6ada090289b03e7af7b7ef25,Baba Ganoush,65,$0.65,130,3,11.0,8,90 mL,"Eggplant, Lemon Juice, Sesame Tahini Paste, Canola Oil, Sesame Seeds, Garlic, Salt, Black Pepper",Eggplant and tahini paste @ $6.50/kg for a 60g portion
+6ada090289b03e7af7b7f19a,"Dip, Garlic, Creamy Sauce, 44 ml, CDN",28,$0.28,230,0.3,25.0,2,1 each,"Soybean oil, water, frozen yolk (egg), vinegar, sugar, dehydrated garlic, salt, sour cream powder(sour cream[milk ingredients, bacterial culture], citric acid, BHA, BHT), garlic, citric acid, disodium phosphate, lactic acid, potassium sorbate, sodium ben",Commercial bulk 44ml portion cup of garlic sauce
+6ada090289b03e7af7b7efe3,"Dip, Garlic, Creamy Sauce, 44 ml, CDN",28,$0.28,230,0.3,25.0,2,1 each,"Soybean oil, water, frozen yolk (egg), vinegar, sugar, dehydrated garlic, salt, sour cream powder(sour cream[milk ingredients, bacterial culture], citric acid, BHA, BHT), garlic, citric acid, disodium phosphate, lactic acid, potassium sorbate, sodium ben",Commercial bulk 44ml portion cup of garlic sauce
+6ada090389b03e7af7b7f228,Kalamata Olives,40,$0.40,45,0,4.0,1,30 mL,Kalamata Olives,Bulk Kalamata olives @ $8.00/kg for a 50g portion
+6ada090289b03e7af7b7f07c,Kalamata Olives,40,$0.40,45,0,4.0,1,30 mL,Kalamata Olives,Bulk Kalamata olives @ $8.00/kg for a 50g portion
+6ada090389b03e7af7b7f2b3,Tomato and Cucumber Salad,55,$0.55,50,1,3.0,6,240 mL,"Tomatoes, Cucumber, Red Onions, Red Wine Vinegar, Jalapeno, Canola Oil, Dill, Salt","Bulk produce cost for 120g portion of fresh tomatoes, cucumber, and dressing"
+6ada090289b03e7af7b7f10c,Tomato and Cucumber Salad,55,$0.55,50,1,3.0,6,240 mL,"Tomatoes, Cucumber, Red Onions, Red Wine Vinegar, Jalapeno, Canola Oil, Dill, Salt","Bulk produce cost for 120g portion of fresh tomatoes, cucumber, and dressing"
+6ada090389b03e7af7b7f353,Whole Wheat Pita Bread,25,$0.25,140,5,1.0,28,1 each,Whole Wheat Pita,"Wholesale commercial bakery whole wheat pita, 1 piece"
+6ada090289b03e7af7b7f1b1,Whole Wheat Pita Bread,25,$0.25,140,5,1.0,28,1 each,Whole Wheat Pita,"Wholesale commercial bakery whole wheat pita, 1 piece"
+6ada090389b03e7af7b7f3da,Falafel Balls,60,$0.60,160,5,8.0,18,3 each,Falafel,"Bulk frozen/pre-made falafel, 3 pieces (approx 90g)"
+6ada090389b03e7af7b7f23f,Falafel Balls,60,$0.60,160,5,8.0,18,3 each,Falafel,"Bulk frozen/pre-made falafel, 3 pieces (approx 90g)"
+6ada090389b03e7af7b7f457,Pita Chips,20,$0.20,70,3,0.3,15,56 g,Whole Wheat Pita,"Upcycled whole wheat pita chips from scrap pita, 50g portion"
+6ada090389b03e7af7b7f2b5,Pita Chips,20,$0.20,70,3,0.3,15,56 g,Whole Wheat Pita,"Upcycled whole wheat pita chips from scrap pita, 50g portion"
+6ada090389b03e7af7b7f4c9,Lemon Chicken,140,$1.40,170,25,3.0,8,180 mL,"Chicken Breast, Red Onions, Greek Yogurt, Lemon Juice, Garlic, Salt, Turmeric, Curry Powder, Black Pepper, Oregano",Bulk chicken breast ($9/kg) for 120g plus yogurt marinade
+6ada090389b03e7af7b7f331,Lemon Chicken,140,$1.40,170,25,3.0,8,180 mL,"Chicken Breast, Red Onions, Greek Yogurt, Lemon Juice, Garlic, Salt, Turmeric, Curry Powder, Black Pepper, Oregano",Bulk chicken breast ($9/kg) for 120g plus yogurt marinade
+6ada090289b03e7af7b7edb9,Sushi Roll Smoked Salmon,110,$1.10,160,5,3.0,27,5 each,"Water, Rice, Smoked Salmon, Lite Mayonnaise, Seasoned Rice Vinegar, Sugar, Cucumbers, Green Onions, Red Peppers, Rice Wine, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Lime Juice",Smoked salmon and sushi rice wholesale ingredients for 1 roll (8 pcs)
+6ada090289b03e7af7b7ec14,Sushi Roll Smoked Salmon,110,$1.10,160,5,3.0,27,5 each,"Water, Rice, Smoked Salmon, Lite Mayonnaise, Seasoned Rice Vinegar, Sugar, Cucumbers, Green Onions, Red Peppers, Rice Wine, Dried Nori Seaweed, Salt, Frank's Red Hot Sriracha, Lime Juice",Smoked salmon and sushi rice wholesale ingredients for 1 roll (8 pcs)
+6ada090289b03e7af7b7ee8c,Quinoa Avocado Cucumber Rolls,75,$0.75,240,8,7.0,37,1 each,"Water, Cucumber, Quinoa, Avocado, Seasoned Rice Vinegar, Spinach, Dried Nori Seaweed, Maple Syrup, Salt","Quinoa, avocado, and cucumber wholesale cost for 1 roll"
+6ada090289b03e7af7b7ecee,Quinoa Avocado Cucumber Rolls,75,$0.75,240,8,7.0,37,1 each,"Water, Cucumber, Quinoa, Avocado, Seasoned Rice Vinegar, Spinach, Dried Nori Seaweed, Maple Syrup, Salt","Quinoa, avocado, and cucumber wholesale cost for 1 roll"
+6ada090289b03e7af7b7ef69,Japanese Inspired Cucumber Salad,40,$0.40,40,1,1.0,6,60 mL,"Cucumber, Rice Wine, Soy Sauce, Sugar, Sesame Seeds, Salt, Sesame Oil",Bulk cucumbers and seasonings for 100g salad portion
+6ada090289b03e7af7b7edbd,Japanese Inspired Cucumber Salad,40,$0.40,40,1,1.0,6,60 mL,"Cucumber, Rice Wine, Soy Sauce, Sugar, Sesame Seeds, Salt, Sesame Oil",Bulk cucumbers and seasonings for 100g salad portion
+6ada090289b03e7af7b7effa,Wakame Salad,65,$0.65,20,0.3,1.5,1,1 serving(s),"Water, Wakame, Sesame Oil, GF Soy Sauce, Seasoned Rice Vinegar, Sesame Seeds, Sugar",Wholesale rehydrated wakame seaweed and dressing ingredients for 80g portion
+6ada090289b03e7af7b7ee40,Wakame Salad,65,$0.65,20,0.3,1.5,1,1 serving(s),"Water, Wakame, Sesame Oil, GF Soy Sauce, Seasoned Rice Vinegar, Sesame Seeds, Sugar",Wholesale rehydrated wakame seaweed and dressing ingredients for 80g portion
+6ada090289b03e7af7b7ed84,Roasted Red Beet and Orange Salad,50,$0.50,35,1,0.1,8,120 mL,"Red Beets, Red Onions, Orange, Orange Juice, Parsley, Salt, Black Pepper",Bulk beets and oranges for 100g salad portion
+6ada090289b03e7af7b7ebd9,Roasted Red Beet and Orange Salad,50,$0.50,35,1,0.1,8,120 mL,"Red Beets, Red Onions, Orange, Orange Juice, Parsley, Salt, Black Pepper",Bulk beets and oranges for 100g salad portion
+6ada090289b03e7af7b7ee5b,High Protein Salad ,65,$0.65,120,6,2.5,19,120 mL,"Canned Chickpeas, No Salt Added, Canned Black Beans, Celery, Cucumber, Red Onions, Balsamic Vinaigrette Dressing",Bulk canned beans and veggies @ $3/kg for 120g portion
+6ada090289b03e7af7b7ecb8,High Protein Salad ,65,$0.65,120,6,2.5,19,120 mL,"Canned Chickpeas, No Salt Added, Canned Black Beans, Celery, Cucumber, Red Onions, Balsamic Vinaigrette Dressing",Bulk canned beans and veggies @ $3/kg for 120g portion
+6ada090289b03e7af7b7ef2c,Mediterranean Salad with Tuna,95,$0.95,200,10,11.0,17,1 serving(s),"Water, Tomatoes, Canned White Albacore Tuna, Wheat Bulgur, Parsley, Shallots, Red Wine Vinegar, Canola Oil, Vegetable Base, Salt, Cumin, Black Pepper",Bulk canned tuna and bulgur @ $7/kg for 120g portion
+6ada090289b03e7af7b7ed81,Mediterranean Salad with Tuna,95,$0.95,200,10,11.0,17,1 serving(s),"Water, Tomatoes, Canned White Albacore Tuna, Wheat Bulgur, Parsley, Shallots, Red Wine Vinegar, Canola Oil, Vegetable Base, Salt, Cumin, Black Pepper",Bulk canned tuna and bulgur @ $7/kg for 120g portion
+6ada090289b03e7af7b7ee51,Pesto Penne with Peas and Tomato Salad,75,$0.75,320,8,18.0,29,120 mL,"Water, Penne, Lite Mayonnaise, Pesto, Tomatoes, Green Peas, Snow Peas, Spinach, Lemon Juice, Parmesan Cheese, Canola Oil, Salt, Black Pepper","Bulk pasta, pesto, and peas @ $5/kg for 130g portion"
+6ada090289b03e7af7b7f00e,Pesto Penne with Peas and Tomato Salad,75,$0.75,320,8,18.0,29,120 mL,"Water, Penne, Lite Mayonnaise, Pesto, Tomatoes, Green Peas, Snow Peas, Spinach, Lemon Juice, Parmesan Cheese, Canola Oil, Salt, Black Pepper","Bulk pasta, pesto, and peas @ $5/kg for 130g portion"
+6ada090289b03e7af7b7f0a5,Deluxe Fruit Salad,85,$0.85,60,1,0.0,17,120 mL,Fruit Salad,Bulk mixed fruit wholesale @ $4/kg for 120g portion
+6ada090289b03e7af7b7eee5,Deluxe Fruit Salad,85,$0.85,60,1,0.0,17,120 mL,Fruit Salad,Bulk mixed fruit wholesale @ $4/kg for 120g portion
+6ada090289b03e7af7b7f143,Chopped Romaine,35,$0.35,15,1,0.3,3,100 g,Chopped Lettuce,Bulk romaine lettuce @ $3.50/kg for 60g portion
+6ada090289b03e7af7b7ef90,Chopped Romaine,35,$0.35,15,1,0.3,3,100 g,Chopped Lettuce,Bulk romaine lettuce @ $3.50/kg for 60g portion
+6ada090389b03e7af7b7f1ea,Spring Mix Lettuce,45,$0.45,0,0.4,0.1,1,30 g,Spring Lettuce Salad Mix,Bulk spring mix @ $6/kg for 60g portion
+6ada090289b03e7af7b7f038,Spring Mix Lettuce,45,$0.45,0,0.4,0.1,1,30 g,Spring Lettuce Salad Mix,Bulk spring mix @ $6/kg for 60g portion
+6ada090389b03e7af7b7f28b,Baby Spinach,50,$0.50,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $7/kg for 60g portion
+6ada090289b03e7af7b7f0e1,Baby Spinach,50,$0.50,0,0.4,0.1,1,15 g,Spinach,Bulk baby spinach @ $7/kg for 60g portion
+6ada090389b03e7af7b7f31a,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.50/kg for 30g portion
+6ada090289b03e7af7b7f179,Sliced Red Onions,15,$0.15,10,0.3,0.0,3,30 g,Red Onions,Bulk red onions @ $2.50/kg for 30g portion
+6ada090389b03e7af7b7f3b1,Grape Tomatoes,55,$0.55,70,4,1.0,16,454 g,Tomatoes,Bulk grape tomatoes @ $6/kg for 60g portion
+6ada090389b03e7af7b7f21a,Grape Tomatoes,55,$0.55,70,4,1.0,16,454 g,Tomatoes,Bulk grape tomatoes @ $6/kg for 60g portion
+6ada090389b03e7af7b7f42d,Sliced Fresh Cucumbers,20,$0.20,0,0.1,0.0,0,1 slice,Cucumber,Bulk cucumbers @ $3/kg for 50g portion
+6ada090389b03e7af7b7f290,Sliced Fresh Cucumbers,20,$0.20,0,0.1,0.0,0,1 slice,Cucumber,Bulk cucumbers @ $3/kg for 50g portion
+6ada090389b03e7af7b7f4a4,Fresh Julienne Sliced Carrots,25,$0.25,190,4,1.0,43,500 g,Carrots,Bulk carrots @ $1.50/kg for 80g salad bar portion
+6ada090389b03e7af7b7f30a,Fresh Julienne Sliced Carrots,25,$0.25,190,4,1.0,43,500 g,Carrots,Bulk carrots @ $1.50/kg for 80g salad bar portion
+6ada090389b03e7af7b7f514,Diced Fresh Celery,35,$0.35,0,0.2,0.1,1,30 g,Celery,Bulk celery @ $2.50/kg for 75g portion
+6ada090389b03e7af7b7f386,Diced Fresh Celery,35,$0.35,0,0.2,0.1,1,30 g,Celery,Bulk celery @ $2.50/kg for 75g portion
+6ada090389b03e7af7b7f566,Chopped Broccoli,40,$0.40,10,1,0.1,2,30 g,Broccoli,Bulk broccoli @ $3.00/kg for 75g portion
+6ada090389b03e7af7b7f3d4,Chopped Broccoli,40,$0.40,10,1,0.1,2,30 g,Broccoli,Bulk broccoli @ $3.00/kg for 75g portion
+6ada090389b03e7af7b7f5ba,Fresh Chopped Cauliflower,45,$0.45,5,1,0.1,1,30 g,Cauliflower,Bulk cauliflower @ $3.50/kg for 75g portion
+6ada090389b03e7af7b7f422,Fresh Chopped Cauliflower,45,$0.45,5,1,0.1,1,30 g,Cauliflower,Bulk cauliflower @ $3.50/kg for 75g portion
+6ada090389b03e7af7b7f60b,Corn,30,$0.30,45,1,0.4,11,80 mL,Corn,Bulk frozen corn @ $2.00/kg for 75g portion
+6ada090389b03e7af7b7f476,Corn,30,$0.30,45,1,0.4,11,80 mL,Corn,Bulk frozen corn @ $2.00/kg for 75g portion
+6ada090389b03e7af7b7f65a,Sliced Beets,30,$0.30,60,2,0.3,13,180 mL,Beets,Bulk beets @ $2.00/kg for 75g portion
+6ada090389b03e7af7b7f4c1,Sliced Beets,30,$0.30,60,2,0.3,13,180 mL,Beets,Bulk beets @ $2.00/kg for 75g portion
+6ada090389b03e7af7b7f6a9,Chopped Hard Cooked Egg,35,$0.35,70,6,5.0,1,80 mL,Hard Boiled Egg,Institutional bulk hard cooked eggs @ $0.35/egg (1 portion)
+6ada090389b03e7af7b7f512,Chopped Hard Cooked Egg,35,$0.35,70,6,5.0,1,80 mL,Hard Boiled Egg,Institutional bulk hard cooked eggs @ $0.35/egg (1 portion)
+6ada090389b03e7af7b7f6f8,Black Beans,35,$0.35,40,2,0.1,7,30 g,Canned Black Beans,Canned black beans institutional case @ $1.40/can (approx 75g portion)
+6ada090389b03e7af7b7f562,Black Beans,35,$0.35,40,2,0.1,7,30 g,Canned Black Beans,Canned black beans institutional case @ $1.40/can (approx 75g portion)
+6ada090389b03e7af7b7f748,Chickpeas,35,$0.35,50,3,1.0,9,30 mL,"Canned Chickpeas, No Salt Added",Canned chickpeas institutional case @ $1.40/can (approx 75g portion)
+6ada090389b03e7af7b7f5b8,Chickpeas,35,$0.35,50,3,1.0,9,30 mL,"Canned Chickpeas, No Salt Added",Canned chickpeas institutional case @ $1.40/can (approx 75g portion)
+6ada090389b03e7af7b7f77f,Sliced Black Olives,40,$0.40,20,0.1,2.0,1,30 mL,Black Olives,Institutional sliced black olives @ $4.00/kg for 50g portion
+6ada090389b03e7af7b7f5f5,Sliced Black Olives,40,$0.40,20,0.1,2.0,1,30 mL,Black Olives,Institutional sliced black olives @ $4.00/kg for 50g portion
+6ada090389b03e7af7b7f631,Seasoned Croutons,12,$0.12,45,1,1.0,7,10 g,Croutons,Bulk commercial croutons @ $4/kg for a standard 30g portion
+6ada090389b03e7af7b7f7bb,Seasoned Croutons,12,$0.12,45,1,1.0,7,10 g,Croutons,Bulk commercial croutons @ $4/kg for a standard 30g portion
+6ada090389b03e7af7b7f66e,Salted Sunflower Seeds,18,$0.18,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $12/kg for a 15g salad bar sprinkle portion
+6ada090389b03e7af7b7f7f5,Salted Sunflower Seeds,18,$0.18,45,2,4.0,2,15 mL,Sunflower Seeds,Bulk sunflower seeds @ $12/kg for a 15g salad bar sprinkle portion
+6ada090389b03e7af7b7f689,Caesar Salad Dressing,22,$0.22,100,1,10.0,2,1 ounce,Caesar Dressing,Bulk Caesar dressing jug @ $5.50/L for a 40ml portion
+6ada090389b03e7af7b7f805,Caesar Salad Dressing,22,$0.22,100,1,10.0,2,1 ounce,Caesar Dressing,Bulk Caesar dressing jug @ $5.50/L for a 40ml portion
+6ada090389b03e7af7b7f69b,CW Ranch Salad Dressing,20,$0.20,60,0.2,4.0,6,1 ounce,CW Ranch Dressing,Bulk Ranch dressing jug @ $5.00/L for a 40ml portion
+6ada090389b03e7af7b7f819,CW Ranch Salad Dressing,20,$0.20,60,0.2,4.0,6,1 ounce,CW Ranch Dressing,Bulk Ranch dressing jug @ $5.00/L for a 40ml portion
+6ada090389b03e7af7b7f6ae,Balsamic Salad Dressing,18,$0.18,90,0.1,8.0,4,30 mL,Balsamic Vinaigrette Dressing,Bulk balsamic vinaigrette @ $4.50/L for a 40ml portion
+6ada090389b03e7af7b7f82c,Balsamic Salad Dressing,18,$0.18,90,0.1,8.0,4,30 mL,Balsamic Vinaigrette Dressing,Bulk balsamic vinaigrette @ $4.50/L for a 40ml portion
+6ada090389b03e7af7b7f840,Golden Italian Dressing,16,$0.16,9520,10,922.0,249,3.78 L,Italian Dressing,Bulk Italian dressing @ $4.00/L for a 40ml portion
+6ada090389b03e7af7b7f6c3,Golden Italian Dressing,16,$0.16,9520,10,922.0,249,3.78 L,Italian Dressing,Bulk Italian dressing @ $4.00/L for a 40ml portion
+6ada090289b03e7af7b7ed73,Beef Burger on WW Bun,165,$1.65,390,18,21.0,32,1 each,"Beef Patty, Whole Wheat Hamburger Bun, Lettuce Leaf, Tomatoes, Pickles",Beef patty (113g @ $11/kg) + WW bun ($0.30) + produce ($0.10)
+6ada090289b03e7af7b7ebc7,Beef Burger on WW Bun,165,$1.65,390,18,21.0,32,1 each,"Beef Patty, Whole Wheat Hamburger Bun, Lettuce Leaf, Tomatoes, Pickles",Beef patty (113g @ $11/kg) + WW bun ($0.30) + produce ($0.10)
+6ada090289b03e7af7b7efe4,Golden Fried Onion Rings,45,$0.45,240,2,17.0,20,70 g,Onion Rings,Bulk frozen onion rings @ $6/kg for a standard 75g side portion
+6ada090289b03e7af7b7ee2d,Golden Fried Onion Rings,45,$0.45,240,2,17.0,20,70 g,Onion Rings,Bulk frozen onion rings @ $6/kg for a standard 75g side portion
+6ada090289b03e7af7b7ee35,Chicken Tender Strips,185,$1.85,350,22,20.0,22,3 each,Halal Chicken Breast Strips Breaded,Halal breaded chicken breast strips @ $13/kg for a 140g portion (3 tenders)
+6ada090289b03e7af7b7ec95,Chicken Tender Strips,185,$1.85,350,22,20.0,22,3 each,Halal Chicken Breast Strips Breaded,Halal breaded chicken breast strips @ $13/kg for a 140g portion (3 tenders)
+6ada090289b03e7af7b7f12d,Leaf Lettuce,8,$0.08,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce wholesale @ $4/kg for a single garnish/salad leaf portion (20g)
+6ada090289b03e7af7b7ef7a,Leaf Lettuce,8,$0.08,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce wholesale @ $4/kg for a single garnish/salad leaf portion (20g)
+6ada090389b03e7af7b7f1d7,Side of Sliced Tomato,18,$0.18,0,0.2,0.1,1,2 slice,Tomatoes,Bulk wholesale tomatoes @ $3.50/kg for a 50g slice portion
+6ada090289b03e7af7b7f023,Side of Sliced Tomato,18,$0.18,0,0.2,0.1,1,2 slice,Tomatoes,Bulk wholesale tomatoes @ $3.50/kg for a 50g slice portion
+6ada090389b03e7af7b7f274,Shaved Fresh Red Onions,8,$0.08,20,1,0.1,5,50 g,Red Onions,Bulk red onions @ $2.00/kg for a 40g portion
+6ada090289b03e7af7b7f0c6,Shaved Fresh Red Onions,8,$0.08,20,1,0.1,5,50 g,Red Onions,Bulk red onions @ $2.00/kg for a 40g portion
+6ada090389b03e7af7b7f2ff,Cucumber Pickles,12,$0.12,20,0.3,0.1,4,30 mL,"Cucumber, White Vinegar, Water, Sugar, Garlic, Salt, Mustard, Dill, Bay Leaf",Bulk cucumbers and pickling brine ingredients for a 40g portion
+6ada090289b03e7af7b7f160,Cucumber Pickles,12,$0.12,20,0.3,0.1,4,30 mL,"Cucumber, White Vinegar, Water, Sugar, Garlic, Salt, Mustard, Dill, Bay Leaf",Bulk cucumbers and pickling brine ingredients for a 40g portion
+6ada090389b03e7af7b7f3a1,BBQ Sauce,15,$0.15,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper","Bulk condiment ingredients (ketchup base, spices) for a 30ml portion"
+6ada090389b03e7af7b7f204,BBQ Sauce,15,$0.15,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper","Bulk condiment ingredients (ketchup base, spices) for a 30ml portion"
+6ada090389b03e7af7b7f416,Sriracha Mayonnaise,22,$0.22,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice","Bulk lite mayo, sriracha, and lime juice for a 30ml portion"
+6ada090389b03e7af7b7f27d,Sriracha Mayonnaise,22,$0.22,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice","Bulk lite mayo, sriracha, and lime juice for a 30ml portion"
+6ada090389b03e7af7b7f492,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Bulk lite mayo and fresh herbs/garlic for a 30ml portion
+6ada090389b03e7af7b7f2f3,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Bulk lite mayo and fresh herbs/garlic for a 30ml portion
+6ada090389b03e7af7b7f4ff,Kimchi-Style Coleslaw,25,$0.25,30,1,0.2,7,120 mL,"Cabbage, Seasoned Rice Vinegar, Green Bell Peppers, Carrots, Green Onions, Spanish Onions, Sugar, Garlic, Ginger Root, Salt, Paprika, Cayenne Pepper","Bulk cabbage, carrots, and kimchi seasoning for an 80g portion"
+6ada090389b03e7af7b7f36f,Kimchi-Style Coleslaw,25,$0.25,30,1,0.2,7,120 mL,"Cabbage, Seasoned Rice Vinegar, Green Bell Peppers, Carrots, Green Onions, Spanish Onions, Sugar, Garlic, Ginger Root, Salt, Paprika, Cayenne Pepper","Bulk cabbage, carrots, and kimchi seasoning for an 80g portion"
+6ada090289b03e7af7b7ed4f,Rotini Pasta,15,$0.15,160,6,1.0,31,240 mL,Rotini,Bulk dry pasta @ $2.50/kg for a 60g dry weight portion
+6ada090289b03e7af7b7eba3,Rotini Pasta,15,$0.15,160,6,1.0,31,240 mL,Rotini,Bulk dry pasta @ $2.50/kg for a 60g dry weight portion
+6ada090289b03e7af7b7eeff,Spaghetti,15,$0.15,210,8,1.0,40,240 mL,Spaghetti,Bulk dry spaghetti @ $2.50/kg for a 60g dry weight portion
+6ada090289b03e7af7b7ed59,Spaghetti,15,$0.15,210,8,1.0,40,240 mL,Spaghetti,Bulk dry spaghetti @ $2.50/kg for a 60g dry weight portion
+6ada090289b03e7af7b7efd2,Alfredo Sauce,35,$0.35,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper","Bulk milk, margarine, flour, and parmesan cheese for an 80ml portion"
+6ada090289b03e7af7b7ee18,Alfredo Sauce,35,$0.35,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper","Bulk milk, margarine, flour, and parmesan cheese for an 80ml portion"
+6ada090289b03e7af7b7f084,Marinara Sauce,28,$0.28,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk institutional marinara sauce @ $2.50/kg for a 120g buffet portion
+6ada090289b03e7af7b7eebf,Marinara Sauce,28,$0.28,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk institutional marinara sauce @ $2.50/kg for a 120g buffet portion
+6ada090289b03e7af7b7f11a,Pesto,65,$0.65,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic",Bulk oil/herb-based pesto with parmesan @ $11/kg for a 60g portion
+6ada090289b03e7af7b7ef66,Pesto,65,$0.65,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic",Bulk oil/herb-based pesto with parmesan @ $11/kg for a 60g portion
+6ada090289b03e7af7b7f1c0,Sliced Fresh Mushrooms,22,$0.22,0,0.5,0.1,0,16 g,Mushrooms,Bulk fresh sliced mushrooms @ $5.50/kg for a 40g salad bar portion
+6ada090289b03e7af7b7f00f,Sliced Fresh Mushrooms,22,$0.22,0,0.5,0.1,0,16 g,Mushrooms,Bulk fresh sliced mushrooms @ $5.50/kg for a 40g salad bar portion
+6ada090389b03e7af7b7f262,"Vidalia Onions, Diced",10,$0.10,15,0.4,0.0,4,60 mL,Onions,Bulk diced onions @ $3.00/kg for a 30g portion
+6ada090289b03e7af7b7f0b6,"Vidalia Onions, Diced",10,$0.10,15,0.4,0.0,4,60 mL,Onions,Bulk diced onions @ $3.00/kg for a 30g portion
+6ada090389b03e7af7b7f2ed,Roasted Mixed Peppers,45,$0.45,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk roasted bell peppers in oil @ $9/kg for a 50g buffet portion
+6ada090289b03e7af7b7f14c,Roasted Mixed Peppers,45,$0.45,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk roasted bell peppers in oil @ $9/kg for a 50g buffet portion
+6ada090389b03e7af7b7f38e,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk foodservice diced tomatoes @ $4/kg for a 60g portion
+6ada090389b03e7af7b7f1ec,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk foodservice diced tomatoes @ $4/kg for a 60g portion
+6ada090389b03e7af7b7f403,Sliced Black Olives,30,$0.30,10,0.1,1.0,1,10 g,Black Olives,Bulk sliced black olives @ $7.50/kg for a 40g buffet portion
+6ada090389b03e7af7b7f26a,Sliced Black Olives,30,$0.30,10,0.1,1.0,1,10 g,Black Olives,Bulk sliced black olives @ $7.50/kg for a 40g buffet portion
+6ada090389b03e7af7b7f47d,Chopped Garlic,5,$0.05,10,0.4,0.0,2,10 mL,Garlic,Bulk chopped garlic @ $5/kg for a 10g portion
+6ada090389b03e7af7b7f2df,Chopped Garlic,5,$0.05,10,0.4,0.0,2,10 mL,Garlic,Bulk chopped garlic @ $5/kg for a 10g portion
+6ada090389b03e7af7b7f4eb,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk canned artichoke hearts @ $11/kg for a 50g portion
+6ada090389b03e7af7b7f359,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk canned artichoke hearts @ $11/kg for a 50g portion
+6ada090389b03e7af7b7f54f,Spinach,18,$0.18,30,3,0.5,4,90 mL,Spinach,Bulk fresh spinach @ $6/kg for a 30g portion
+6ada090389b03e7af7b7f3be,Spinach,18,$0.18,30,3,0.5,4,90 mL,Spinach,Bulk fresh spinach @ $6/kg for a 30g portion
+6ada090389b03e7af7b7f5a4,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Bulk plant-based crumble @ $9/kg for 80g portion plus canola oil
+6ada090389b03e7af7b7f40f,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Bulk plant-based crumble @ $9/kg for 80g portion plus canola oil
+6ada090389b03e7af7b7f5f8,Diced Chicken,120,$1.20,45,8,1.0,0,60 mL,Chicken Breast,Bulk raw chicken breast @ $10/kg for 120g portion
+6ada090389b03e7af7b7f462,Diced Chicken,120,$1.20,45,8,1.0,0,60 mL,Chicken Breast,Bulk raw chicken breast @ $10/kg for 120g portion
+6ada090389b03e7af7b7f64a,Breakfast Ham,60,$0.60,35,6,1.0,1,42 g,Smoked Ham,Bulk breakfast ham/smoked ham @ $8/kg for 75g portion
+6ada090389b03e7af7b7f4ae,Breakfast Ham,60,$0.60,35,6,1.0,1,42 g,Smoked Ham,Bulk breakfast ham/smoked ham @ $8/kg for 75g portion
+6ada090389b03e7af7b7f69a,Shredded Cheddar Cheese,70,$0.70,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk wholesale cheddar cheese @ $10/kg for 70g portion
+6ada090389b03e7af7b7f4fd,Shredded Cheddar Cheese,70,$0.70,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk wholesale cheddar cheese @ $10/kg for 70g portion
+6ada090389b03e7af7b7f6e7,Shredded Mozzarella Cheese,70,$0.70,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk wholesale mozzarella cheese @ $10/kg for 70g portion
+6ada090389b03e7af7b7f550,Shredded Mozzarella Cheese,70,$0.70,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk wholesale mozzarella cheese @ $10/kg for 70g portion
+6ada090389b03e7af7b7f735,Parmesan Cheese,45,$0.45,40,3,3.0,1,10 g,Parmesan Cheese,Bulk wholesale parmesan cheese @ $15/kg for 30g portion
+6ada090389b03e7af7b7f5a5,Parmesan Cheese,45,$0.45,40,3,3.0,1,10 g,Parmesan Cheese,Bulk wholesale parmesan cheese @ $15/kg for 30g portion
+6ada090289b03e7af7b7ed61,BBQ Chicken Pizza,180,$1.80,210,11,4.0,33,1 slice,"Pizza Crust, Mozzarella Cheese, Chicken Breast, Pizza Sauce, Barbeque Sauce, Mushrooms, Red Bell Peppers","Commercial pizza slice cost with crust, cheese, chicken, and toppings"
+6ada090289b03e7af7b7ebb5,BBQ Chicken Pizza,180,$1.80,210,11,4.0,33,1 slice,"Pizza Crust, Mozzarella Cheese, Chicken Breast, Pizza Sauce, Barbeque Sauce, Mushrooms, Red Bell Peppers","Commercial pizza slice cost with crust, cheese, chicken, and toppings"
+6ada090289b03e7af7b7ee47,The Great Canadian Pizza,160,$1.60,460,24,14.0,61,1 slice,"Pizza Crust, Pizza Sauce, Mozzarella Cheese, Bacon, Mushrooms, Pepperoni","Commercial pizza slice cost with crust, cheese, bacon, pepperoni, and mushrooms"
+6ada090289b03e7af7b7eca8,The Great Canadian Pizza,160,$1.60,460,24,14.0,61,1 slice,"Pizza Crust, Pizza Sauce, Mozzarella Cheese, Bacon, Mushrooms, Pepperoni","Commercial pizza slice cost with crust, cheese, bacon, pepperoni, and mushrooms"
+6ada090289b03e7af7b7ef15,Grilled Pesto and Chicken Pizza,190,$1.90,790,33,45.0,67,1 each,"Pizza Crist, Mozzarella Cheese, Seasoned Chicken Strips, Canola Oil, Red Bell Peppers, Pesto, Garlic Seasoning, Greek Seasoning, Italian Seasoning","Commercial pizza slice cost with pesto, chicken strips, cheese, and vegetables"
+6ada090289b03e7af7b7ed6d,Grilled Pesto and Chicken Pizza,190,$1.90,790,33,45.0,67,1 each,"Pizza Crist, Mozzarella Cheese, Seasoned Chicken Strips, Canola Oil, Red Bell Peppers, Pesto, Garlic Seasoning, Greek Seasoning, Italian Seasoning","Commercial pizza slice cost with pesto, chicken strips, cheese, and vegetables"
+6ada090289b03e7af7b7ed2d,Ice Cream Scoop,35,$0.35,120,1,6.0,16,120 mL,Vanilla Ice Cream,Bulk institutional vanilla ice cream @ $3.50/L for 100ml scoop
+6ada090289b03e7af7b7eb7c,Ice Cream Scoop,35,$0.35,120,1,6.0,16,120 mL,Vanilla Ice Cream,Bulk institutional vanilla ice cream @ $3.50/L for 100ml scoop
+6ada090289b03e7af7b7ee12,Morning Glory Muffins,45,$0.45,220,3,8.0,32,1 each,Morning Glory Muffin Batter,Bulk commercial muffin batter @ $4.50/kg for a standard 100g muffin portion
+6ada090289b03e7af7b7ec6f,Morning Glory Muffins,45,$0.45,220,3,8.0,32,1 each,Morning Glory Muffin Batter,Bulk commercial muffin batter @ $4.50/kg for a standard 100g muffin portion
+6ada090289b03e7af7b7eeeb,Raisin Scone,35,$0.35,230,5,7.0,37,1 each,"Scone Mix, Water, Raisins",Bulk scone mix and dried raisins @ $3.00/kg for an 85g scone portion
+6ada090289b03e7af7b7ed43,Raisin Scone,35,$0.35,230,5,7.0,37,1 each,"Scone Mix, Water, Raisins",Bulk scone mix and dried raisins @ $3.00/kg for an 85g scone portion
+6ada090289b03e7af7b7efbb,Cinnamon Sugared Donut Holes,25,$0.25,340,3,15.0,51,5 each,"Donut Hole, Sugar, Cinnamon",Commercial frozen donut holes with sugar/cinnamon coating @ $2.50/kg for a 60g portion (3 holes)
+6ada090289b03e7af7b7ee05,Cinnamon Sugared Donut Holes,25,$0.25,340,3,15.0,51,5 each,"Donut Hole, Sugar, Cinnamon",Commercial frozen donut holes with sugar/cinnamon coating @ $2.50/kg for a 60g portion (3 holes)
+6ada090389b03e7af7b7f24f,Two Bite Iced Vanilla Cupcake,12,$0.12,110,0.4,5.0,14,1 each,Vanilla Cupcake,Bulk commercial two-bite cupcake wholesale @ $0.12 per unit
+6ada090289b03e7af7b7f0a4,Two Bite Iced Vanilla Cupcake,30,$0.30,110,0.4,5.0,14,1 each,Vanilla Cupcake,Bulk mini frozen cupcakes with icing @ $3.50/kg for a 40g two-bite portion
+6ada090389b03e7af7b7f2d6,Cherry Tarts,40,$0.40,150,1,5.0,26,1 each,"Cherry Pie Filling, Sweet Tart Shells",Commercial tart shells and bulk cherry pie filling @ $4.00/kg for a 70g tart
+6ada090289b03e7af7b7f138,Cherry Tarts,40,$0.40,150,1,5.0,26,1 each,"Cherry Pie Filling, Sweet Tart Shells",Commercial tart shells and bulk cherry pie filling @ $4.00/kg for a 70g tart
+6ada090389b03e7af7b7f376,Vanilla Cupcake,50,$0.50,140,2,7.0,18,1 each,"All Purpose Flour, Egg, Sugar, Unsalted Butter, Baking Powder, Vanilla Extract","Scratch/bulk ingredients (flour, butter, eggs, sugar) @ $5.00/kg for an 80g standard cupcake"
+6ada090389b03e7af7b7f1db,Vanilla Cupcake,50,$0.50,140,2,7.0,18,1 each,"All Purpose Flour, Egg, Sugar, Unsalted Butter, Baking Powder, Vanilla Extract","Scratch/bulk ingredients (flour, butter, eggs, sugar) @ $5.00/kg for an 80g standard cupcake"
+6ada090389b03e7af7b7f887,BBQ Chicken Pizza,135,$1.35,210,11,4.0,33,1 slice,"Pizza Crust, Mozzarella Cheese, Chicken Breast, Pizza Sauce, Barbeque Sauce, Mushrooms, Red Bell Peppers","Bulk pizza crust, mozzarella, and chicken breast toppings @ $9.00/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f706,BBQ Chicken Pizza,135,$1.35,210,11,4.0,33,1 slice,"Pizza Crust, Mozzarella Cheese, Chicken Breast, Pizza Sauce, Barbeque Sauce, Mushrooms, Red Bell Peppers","Bulk pizza crust, mozzarella, and chicken breast toppings @ $9.00/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f73d,The Great Canadian Pizza,120,$1.20,460,24,14.0,61,1 slice,"Pizza Crust, Pizza Sauce, Mozzarella Cheese, Bacon, Mushrooms, Pepperoni","Bulk crust, mozzarella, pepperoni, and bacon @ $8.00/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f8b3,The Great Canadian Pizza,120,$1.20,460,24,14.0,61,1 slice,"Pizza Crust, Pizza Sauce, Mozzarella Cheese, Bacon, Mushrooms, Pepperoni","Bulk crust, mozzarella, pepperoni, and bacon @ $8.00/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f8fd,Grilled Pesto and Chicken Pizza,140,$1.40,790,33,45.0,67,1 each,"Pizza Crist, Mozzarella Cheese, Seasoned Chicken Strips, Canola Oil, Red Bell Peppers, Pesto, Garlic Seasoning, Greek Seasoning, Italian Seasoning","Bulk crust, mozzarella, chicken strips, and pesto @ $9.50/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f78b,Grilled Pesto and Chicken Pizza,140,$1.40,790,33,45.0,67,1 each,"Pizza Crist, Mozzarella Cheese, Seasoned Chicken Strips, Canola Oil, Red Bell Peppers, Pesto, Garlic Seasoning, Greek Seasoning, Italian Seasoning","Bulk crust, mozzarella, chicken strips, and pesto @ $9.50/kg for a 150g pizza slice"
+6ada090389b03e7af7b7f877,Rotini Pasta,20,$0.20,160,6,1.0,31,240 mL,Rotini,Bulk dry rotini pasta @ $2.00/kg for a standard 80g dry (approx 200g cooked) portion
+6ada090389b03e7af7b7f6f6,Rotini Pasta,20,$0.20,160,6,1.0,31,240 mL,Rotini,Bulk dry rotini pasta @ $2.00/kg for a standard 80g dry (approx 200g cooked) portion
+6ada090389b03e7af7b7f8ea,Spaghetti,25,$0.25,210,8,1.0,40,240 mL,Spaghetti,Bulk dry spaghetti @ $2.50/kg for an 100g dry portion
+6ada090389b03e7af7b7f778,Spaghetti,25,$0.25,210,8,1.0,40,240 mL,Spaghetti,Bulk dry spaghetti @ $2.50/kg for an 100g dry portion
+6ada090389b03e7af7b7f7c3,Alfredo Sauce,65,$0.65,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper",Bulk dairy/parmesan/margarine sauce components for a 120ml portion
+6ada090389b03e7af7b7f92d,Alfredo Sauce,65,$0.65,40,1,2.5,3,30 mL,"2% Milk, All Purpose Flour, Vegan Margarine, Parmesan Cheese, Garlic, Salt, Oregano, Basil, Black Pepper",Bulk dairy/parmesan/margarine sauce components for a 120ml portion
+6ada090389b03e7af7b7f7f4,Marinara Sauce,35,$0.35,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk tomato and vegetable components for a 120ml portion
+6ada090389b03e7af7b7f965,Marinara Sauce,35,$0.35,35,1,1.0,6,120 mL,"Tomatoes, Water, Tomato Paste, Yellow Onions, Garlic, Basil, Canola Oil, Thyme, Salt, Black Pepper, Oregano, Red Pepper",Bulk tomato and vegetable components for a 120ml portion
+6ada090389b03e7af7b7f998,Pesto,85,$0.85,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic","Bulk basil, oil, and parmesan components for a 45g portion"
+6ada090389b03e7af7b7f825,Pesto,85,$0.85,100,1,11.0,1,30 mL,"Canola Oil, Basil, Cilantro, Parmesan Cheese, Salt, Garlic","Bulk basil, oil, and parmesan components for a 45g portion"
+6ada090389b03e7af7b7f9d1,Sliced Fresh Mushrooms,30,$0.30,0,0.5,0.1,0,16 g,Mushrooms,Bulk whole mushrooms @ $4.00/kg for a 75g portion
+6ada090389b03e7af7b7f85c,Sliced Fresh Mushrooms,30,$0.30,0,0.5,0.1,0,16 g,Mushrooms,Bulk whole mushrooms @ $4.00/kg for a 75g portion
+6ada090389b03e7af7b7f88d,"Vidalia Onions, Diced",15,$0.15,15,0.4,0.0,4,60 mL,Onions,Bulk wholesale onions @ $2.00/kg for a 75g portion
+6ada090389b03e7af7b7fa16,"Vidalia Onions, Diced",15,$0.15,15,0.4,0.0,4,60 mL,Onions,Bulk wholesale onions @ $2.00/kg for a 75g portion
+6ada090389b03e7af7b7f8c4,Roasted Mixed Peppers,55,$0.55,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk bell peppers @ $6.00/kg for a 75g portion including oil and seasoning
+6ada090389b03e7af7b7fa68,Roasted Mixed Peppers,55,$0.55,25,1,1.0,4,56 g,"Red Bell Peppers, Yellow Bell Peppers, Canola Oil, Salt, Black Pepper, Basil",Bulk bell peppers @ $6.00/kg for a 75g portion including oil and seasoning
+6ada090389b03e7af7b7f8fb,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk foodservice diced tomatoes @ $3.00/kg for an 80g portion
+6ada090389b03e7af7b7fac2,Diced Tomatoes,25,$0.25,0,0.2,0.1,1,30 mL,Tomatoes,Bulk foodservice diced tomatoes @ $3.00/kg for an 80g portion
+6ada090389b03e7af7b7f92f,Sliced Black Olives,30,$0.30,10,0.1,1.0,1,10 g,Black Olives,Bulk canned sliced black olives for a 40g portion
+6ada090389b03e7af7b7fb1a,Sliced Black Olives,30,$0.30,10,0.1,1.0,1,10 g,Black Olives,Bulk canned sliced black olives for a 40g portion
+6ada090389b03e7af7b7f966,Chopped Garlic,10,$0.10,10,0.4,0.0,2,10 mL,Garlic,Bulk peeled garlic @ $5.00/kg for a 20g portion
+6ada090389b03e7af7b7fb71,Chopped Garlic,10,$0.10,10,0.4,0.0,2,10 mL,Garlic,Bulk peeled garlic @ $5.00/kg for a 20g portion
+6ada090389b03e7af7b7f99c,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk frozen artichoke hearts wholesale @ $6.50/kg for an 80g portion
+6ada090389b03e7af7b7fbc8,Artichokes,55,$0.55,15,1,0.1,3,30 g,Artichoke Hearts,Bulk frozen artichoke hearts wholesale @ $6.50/kg for an 80g portion
+6ada090389b03e7af7b7fc16,Spinach,35,$0.35,30,3,0.5,4,90 mL,Spinach,Bulk washed spinach wholesale @ $4.00/kg for an 80g portion
+6ada090389b03e7af7b7f9d9,Spinach,35,$0.35,30,3,0.5,4,90 mL,Spinach,Bulk washed spinach wholesale @ $4.00/kg for an 80g portion
+6ada090389b03e7af7b7fc50,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Plant-based protein crumble wholesale @ $9.00/kg for an 80g portion
+6ada090389b03e7af7b7fa05,Ground Veggie Mexican Chipotle Crumble,75,$0.75,130,13,7.0,5,60 mL,"Plant Based Mexican Chipotle Crumble, Canola Oil",Plant-based protein crumble wholesale @ $9.00/kg for an 80g portion
+6ada090389b03e7af7b7fc87,Diced Chicken,110,$1.10,45,8,1.0,0,60 mL,Chicken Breast,Bulk frozen diced chicken breast wholesale @ $11.00/kg for a 100g portion
+6ada090389b03e7af7b7fa3b,Diced Chicken,110,$1.10,45,8,1.0,0,60 mL,Chicken Breast,Bulk frozen diced chicken breast wholesale @ $11.00/kg for a 100g portion
+6ada090389b03e7af7b7fcbd,Breakfast Ham,60,$0.60,35,6,1.0,1,42 g,Smoked Ham,Commercial wholesale deli ham @ $7.50/kg for an 80g portion
+6ada090389b03e7af7b7fa6d,Breakfast Ham,60,$0.60,35,6,1.0,1,42 g,Smoked Ham,Commercial wholesale deli ham @ $7.50/kg for an 80g portion
+6ada090389b03e7af7b7fd10,Shredded Cheddar Cheese,65,$0.65,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk institutional cheddar cheese block wholesale @ $11.00/kg for a 60g portion
+6ada090389b03e7af7b7fac6,Shredded Cheddar Cheese,65,$0.65,60,3,4.5,0,30 mL,Cheddar Cheese,Bulk institutional cheddar cheese block wholesale @ $11.00/kg for a 60g portion
+6ada090389b03e7af7b7fb01,Shredded Mozzarella Cheese,70,$0.70,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk institutional mozzarella cheese block wholesale @ $11.50/kg for a 60g portion
+6ada090389b03e7af7b7fd4c,Shredded Mozzarella Cheese,70,$0.70,35,3,2.0,0,30 mL,Mozzarella Cheese,Bulk institutional mozzarella cheese block wholesale @ $11.50/kg for a 60g portion
+6ada090389b03e7af7b7fd82,Parmesan Cheese,45,$0.45,40,3,3.0,1,10 g,Parmesan Cheese,Bulk institutional grated parmesan @ $15.00/kg for a 30g portion
+6ada090389b03e7af7b7fb36,Parmesan Cheese,45,$0.45,40,3,3.0,1,10 g,Parmesan Cheese,Bulk institutional grated parmesan @ $15.00/kg for a 30g portion
+6ada090389b03e7af7b7f6d5,Beef Burger on WW Bun,185,$1.85,390,18,21.0,32,1 each,"Beef Patty, Whole Wheat Hamburger Bun, Lettuce Leaf, Tomatoes, Pickles",Beef patty ($1.20) + WW bun ($0.45) + produce ($0.20)
+6ada090389b03e7af7b7f850,Beef Burger on WW Bun,185,$1.85,390,18,21.0,32,1 each,"Beef Patty, Whole Wheat Hamburger Bun, Lettuce Leaf, Tomatoes, Pickles",Beef patty ($1.20) + WW bun ($0.45) + produce ($0.20)
+6ada090389b03e7af7b7f897,Sourdough Grilled Cheese Sandwich,140,$1.40,350,15,12.0,48,1 each,"Sourdough Bread, Mozzarella Cheese, Cheddar Cheese, Vegan Margarine",Sourdough bread ($0.50) + mixed cheese blend 80g ($0.85) + margarine ($0.05)
+6ada090389b03e7af7b7f716,Sourdough Grilled Cheese Sandwich,140,$1.40,350,15,12.0,48,1 each,"Sourdough Bread, Mozzarella Cheese, Cheddar Cheese, Vegan Margarine",Sourdough bread ($0.50) + mixed cheese blend 80g ($0.85) + margarine ($0.05)
+6ada090389b03e7af7b7f8c9,Golden Fried Onion Rings,45,$0.45,240,2,17.0,20,70 g,Onion Rings,Frozen bulk onion rings @ $3.50/kg for a 120g portion
+6ada090389b03e7af7b7f74f,Golden Fried Onion Rings,45,$0.45,240,2,17.0,20,70 g,Onion Rings,Frozen bulk onion rings @ $3.50/kg for a 120g portion
+6ada090389b03e7af7b7f7a0,Chicken Tender Strips,120,$1.20,350,22,20.0,22,3 each,Halal Chicken Breast Strips Breaded,Halal breaded chicken strips wholesale @ $10.00/kg for a 120g portion
+6ada090389b03e7af7b7f90d,Chicken Tender Strips,120,$1.20,350,22,20.0,22,3 each,Halal Chicken Breast Strips Breaded,Halal breaded chicken strips wholesale @ $10.00/kg for a 120g portion
+6ada090389b03e7af7b7f7d4,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4.00/kg for a 35g portion
+6ada090389b03e7af7b7f940,Leaf Lettuce,15,$0.15,0,0.2,0.0,0,12 g,Lettuce Leaf,Bulk leaf lettuce @ $4.00/kg for a 35g portion
+6ada090389b03e7af7b7f976,Shaved Fresh Red Onions,10,$0.10,20,1,0.1,5,50 g,Red Onions,Bulk red onions @ $2.50/kg for a 30g portion
+6ada090389b03e7af7b7f806,Shaved Fresh Red Onions,10,$0.10,20,1,0.1,5,50 g,Red Onions,Bulk red onions @ $2.50/kg for a 30g portion
+6ada090389b03e7af7b7f836,Side of Sliced Tomato,25,$0.25,0,0.2,0.1,1,2 slice,Tomatoes,Bulk tomatoes @ $3.50/kg for a 60g portion
+6ada090389b03e7af7b7f9aa,Side of Sliced Tomato,25,$0.25,0,0.2,0.1,1,2 slice,Tomatoes,Bulk tomatoes @ $3.50/kg for a 60g portion
+6ada090389b03e7af7b7f86c,Cucumber Pickles,15,$0.15,20,0.3,0.1,4,30 mL,"Cucumber, White Vinegar, Water, Sugar, Garlic, Salt, Mustard, Dill, Bay Leaf",Bulk pickles @ $3.00/kg for a 45g portion
+6ada090389b03e7af7b7f9e8,Cucumber Pickles,15,$0.15,20,0.3,0.1,4,30 mL,"Cucumber, White Vinegar, Water, Sugar, Garlic, Salt, Mustard, Dill, Bay Leaf",Bulk pickles @ $3.00/kg for a 45g portion
+6ada090389b03e7af7b7fa32,Sliced Pickled Jalapeno Peppers,20,$0.20,10,0.3,0.3,1,30 mL,Jalapeno Peppers,Bulk pickled jalapenos @ $4.00/kg for a 40g portion
+6ada090389b03e7af7b7f89f,Sliced Pickled Jalapeno Peppers,20,$0.20,10,0.3,0.3,1,30 mL,Jalapeno Peppers,Bulk pickled jalapenos @ $4.00/kg for a 40g portion
+6ada090389b03e7af7b7f8d6,BBQ Sauce,15,$0.15,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper",Housemade BBQ sauce bulk ingredients @ $3.00/kg for a 30ml portion
+6ada090389b03e7af7b7fa85,BBQ Sauce,15,$0.15,45,0.5,0.1,12,30 mL,"Ketchup, Brown Sugar, Worcestershire Sauce, Soy Sauce, Cider Vinegar, Garlic, Onion, Mustard, Red Pepper",Housemade BBQ sauce bulk ingredients @ $3.00/kg for a 30ml portion
+6ada090389b03e7af7b7f90b,Sriracha Mayonnaise,20,$0.20,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice",Sriracha mayo bulk ingredients @ $5.00/kg for a 30ml portion
+6ada090389b03e7af7b7fadd,Sriracha Mayonnaise,20,$0.20,45,0.1,4.0,1,15 mL,"Lite Mayonnaise, Frank's Red Hot Sriracha, Lime Juice",Sriracha mayo bulk ingredients @ $5.00/kg for a 30ml portion
+6ada090389b03e7af7b7fb35,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Herb aioli bulk ingredients @ $5.00/kg for a 30ml portion
+6ada090389b03e7af7b7f943,Herb Aioli,20,$0.20,100,0.3,8.0,2,30 mL,"Lite Mayonnaise, Garlic, Rosemary, Thyme, Black Pepper",Herb aioli bulk ingredients @ $5.00/kg for a 30ml portion
+6ada090389b03e7af7b7f975,Kimchi-Style Coleslaw,35,$0.35,30,1,0.2,7,120 mL,"Cabbage, Seasoned Rice Vinegar, Green Bell Peppers, Carrots, Green Onions, Spanish Onions, Sugar, Garlic, Ginger Root, Salt, Paprika, Cayenne Pepper",Bulk cabbage and vinegar dressing for an 80g side portion
+6ada090389b03e7af7b7fb8f,Kimchi-Style Coleslaw,35,$0.35,30,1,0.2,7,120 mL,"Cabbage, Seasoned Rice Vinegar, Green Bell Peppers, Carrots, Green Onions, Spanish Onions, Sugar, Garlic, Ginger Root, Salt, Paprika, Cayenne Pepper",Bulk cabbage and vinegar dressing for an 80g side portion
+6ada090389b03e7af7b7fbe1,Vegetable Fried Rice,40,$0.40,110,2,3.5,18,180 mL,"Water, Brown Rice, Yellow Onions, Green Bell Peppers, Green Peas, Red Bell Peppers, Soy Sauce, Canola Oil, Green Onions, Garlic, Ginger Root, Black Pepper","Bulk brown rice, vegetables, and soy sauce for a 120g portion"
+6ada090389b03e7af7b7f9ad,Vegetable Fried Rice,40,$0.40,110,2,3.5,18,180 mL,"Water, Brown Rice, Yellow Onions, Green Bell Peppers, Green Peas, Red Bell Peppers, Soy Sauce, Canola Oil, Green Onions, Garlic, Ginger Root, Black Pepper","Bulk brown rice, vegetables, and soy sauce for a 120g portion"
+6ada090389b03e7af7b7f6e6,Waffle Bar,125,$1.25,570,5,22.0,91,1 each,"Belgian Waffle, Pancake Syrup, Blueberries, Sugar, Whipping Cream, Chocolate, Strawberries, Water, Whipped Topping, Unsalted Butter, Corn Syrup, Salt","Waffle base, fruit toppings, syrup, and cream for 1 serving"
+6ada090389b03e7af7b7f865,Waffle Bar,125,$1.25,570,5,22.0,91,1 each,"Belgian Waffle, Pancake Syrup, Blueberries, Sugar, Whipping Cream, Chocolate, Strawberries, Water, Whipped Topping, Unsalted Butter, Corn Syrup, Salt","Waffle base, fruit toppings, syrup, and cream for 1 serving"
+6ada090389b03e7af7b7f8a5,Fresh Cooked Eggs,45,$0.45,60,5,3.5,0,1 each,Egg,Wholesale eggs (2 eggs) for standard breakfast portion
+6ada090389b03e7af7b7f727,Fresh Cooked Eggs,45,$0.45,60,5,3.5,0,1 each,Egg,Wholesale eggs (2 eggs) for standard breakfast portion
+6ada090389b03e7af7b7f8d8,Omelette Station,95,$0.95,230,15,17.0,6,1 each,"Egg, 2% Milk, Cheddar Cheese, Green Bell Peppers, Mushrooms, Spanish Onions, Tomatoes, Smoked Ham, Canola Oil, Salt, Black Pepper","Eggs, cheese, ham, and vegetables for a custom omelette"
+6ada090389b03e7af7b7f766,Omelette Station,95,$0.95,230,15,17.0,6,1 each,"Egg, 2% Milk, Cheddar Cheese, Green Bell Peppers, Mushrooms, Spanish Onions, Tomatoes, Smoked Ham, Canola Oil, Salt, Black Pepper","Eggs, cheese, ham, and vegetables for a custom omelette"
+6ada090389b03e7af7b7f91d,Rotini Pasta,25,$0.25,80,3,0.5,16,120 mL,Rotini,Bulk dry rotini pasta for a 100g dry weight portion
+6ada090389b03e7af7b7f7b2,Rotini Pasta,25,$0.25,80,3,0.5,16,120 mL,Rotini,Bulk dry rotini pasta for a 100g dry weight portion
+6ada090389b03e7af7b7f7e4,Fusilli Pasta,25,$0.25,90,3,0.5,18,120 mL,Fusilli,Bulk dry fusilli pasta for a 100g dry weight portion
+6ada090389b03e7af7b7f952,Fusilli Pasta,25,$0.25,90,3,0.5,18,120 mL,Fusilli,Bulk dry fusilli pasta for a 100g dry weight portion
+6ada090389b03e7af7b7f987,Herbed Tomato Sauce,30,$0.30,10,1,0.0,2,30 mL,"Tomato Sauce, Yellow Onions, Italian Seasoning, Black Pepper, Garlic",Bulk tomato sauce and seasonings for a standard 80ml ladle portion
+6ada090389b03e7af7b7f815,Herbed Tomato Sauce,30,$0.30,10,1,0.0,2,30 mL,"Tomato Sauce, Yellow Onions, Italian Seasoning, Black Pepper, Garlic",Bulk tomato sauce and seasonings for a standard 80ml ladle portion
+6ada090389b03e7af7b7f84a,Home Made Alfredo Sauce,75,$0.75,180,4,17.0,3,30 mL,"Whipping Cream, Parmesan Cheese, Vegan Margarine, Garlic, Italian Blend Seasoning, White Pepper",Heavy cream and parmesan cheese for an 80ml alfredo portion
+6ada090389b03e7af7b7f9bc,Home Made Alfredo Sauce,75,$0.75,180,4,17.0,3,30 mL,"Whipping Cream, Parmesan Cheese, Vegan Margarine, Garlic, Italian Blend Seasoning, White Pepper",Heavy cream and parmesan cheese for an 80ml alfredo portion
+6ada090389b03e7af7b7f87d,Diced Chicken,110,$1.10,45,8,1.0,0,60 mL,Chicken Breast,Bulk chicken breast @ $10/kg for a 100g protein portion
+6ada090389b03e7af7b7f9fd,Diced Chicken,110,$1.10,45,8,1.0,0,60 mL,Chicken Breast,Bulk chicken breast @ $10/kg for a 100g protein portion
+6ada090389b03e7af7b7fa4e,Breakfast Ham,65,$0.65,35,6,1.0,1,42 g,Smoked Ham,Bulk wholesale smoked ham @ $9.00/kg for a 75g breakfast portion
+6ada090389b03e7af7b7f8b1,Breakfast Ham,65,$0.65,35,6,1.0,1,42 g,Smoked Ham,Bulk wholesale smoked ham @ $9.00/kg for a 75g breakfast portion
+6ada090389b03e7af7b7f8e9,Canola Oil,3,$0.03,120,0,13.0,0,15 mL,Canola Oil,Bulk 16L canola oil jug @ $3.20/L for a 10ml usage portion
+6ada090389b03e7af7b7faa4,Canola Oil,3,$0.03,120,0,13.0,0,15 mL,Canola Oil,Bulk 16L canola oil jug @ $3.20/L for a 10ml usage portion
+6ada090389b03e7af7b7f91e,Fresh Apple,35,$0.35,80,0.4,0.2,20,1 each,Red Delicious Apple,Case of bulk apples @ $2.80/kg for an average 125g apple
+6ada090389b03e7af7b7fafc,Fresh Apple,35,$0.35,80,0.4,0.2,20,1 each,Red Delicious Apple,Case of bulk apples @ $2.80/kg for an average 125g apple
+6ada090389b03e7af7b7fb50,Fresh Banana,30,$0.30,110,1,0.4,27,1 each,Banana,Case of bulk bananas @ $2.10/kg for an average 140g banana
+6ada090389b03e7af7b7f953,Fresh Banana,30,$0.30,110,1,0.4,27,1 each,Banana,Case of bulk bananas @ $2.10/kg for an average 140g banana
+6ada090389b03e7af7b7f989,Fresh Orange,40,$0.40,60,1,0.1,14,1 each,Orange,Case of bulk oranges @ $3.00/kg for an average 135g orange
+6ada090389b03e7af7b7fbac,Fresh Orange,40,$0.40,60,1,0.1,14,1 each,Orange,Case of bulk oranges @ $3.00/kg for an average 135g orange
+6ada090389b03e7af7b7fbf8,Fresh Cubed Pineapple,55,$0.55,15,0.2,0.0,4,45 mL,Pineapple,Bulk foodservice pineapple @ $5.50/kg for a 100g portion
+6ada090389b03e7af7b7f9c2,Fresh Cubed Pineapple,55,$0.55,15,0.2,0.0,4,45 mL,Pineapple,Bulk foodservice pineapple @ $5.50/kg for a 100g portion
+6ada090389b03e7af7b7fc31,Fresh Cubed Watermelon,30,$0.30,10,0.2,0.0,2,45 mL,Watermelon,Bulk foodservice watermelon @ $2.50/kg for a 120g portion
+6ada090389b03e7af7b7f9ee,Fresh Cubed Watermelon,30,$0.30,10,0.2,0.0,2,45 mL,Watermelon,Bulk foodservice watermelon @ $2.50/kg for a 120g portion
+6ada090389b03e7af7b7fa20,Fresh Cubed Cantaloupe,45,$0.45,10,0.3,0.1,2,45 mL,Cantaloupe,Bulk foodservice cantaloupe @ $4.00/kg for a 110g portion
+6ada090389b03e7af7b7fc6a,Fresh Cubed Cantaloupe,45,$0.45,10,0.3,0.1,2,45 mL,Cantaloupe,Bulk foodservice cantaloupe @ $4.00/kg for a 110g portion
+6ada090389b03e7af7b7fca0,Vanilla Yogurt,40,$0.40,90,5,1.5,14,100 g,Creamy Vanilla Yogurt,Bulk 4L vanilla yogurt tub @ $4.00/kg for a 100g portion
+6ada090389b03e7af7b7fa54,Vanilla Yogurt,40,$0.40,90,5,1.5,14,100 g,Creamy Vanilla Yogurt,Bulk 4L vanilla yogurt tub @ $4.00/kg for a 100g portion
+6ada090389b03e7af7b7fa8b,Strawberry Yogurt,42,$0.42,80,3,0.0,16,100 g,Strawberry Yogurt,Bulk 4L strawberry yogurt tub @ $4.20/kg for a 100g portion
+6ada090389b03e7af7b7fced,Avocado,75,$0.75,45,1,4.0,2,28 g,Avocado,Bulk institutional wholesale avocados @ $1.50 each for a 1 each portion
+6ada090389b03e7af7b7fcd8,Strawberry Yogurt,45,$0.45,80,3,0.0,16,100 g,Strawberry Yogurt,Bulk commercial strawberry yogurt @ $3.50/kg for a 125g portion
+6ada090389b03e7af7b7faa8,Avocado,60,$0.60,45,1,4.0,2,28 g,Avocado,Bulk wholesale avocado case @ $1.20/each for 1 portion
+6ada090389b03e7af7b7fae4,Chia Seeds,15,$0.15,70,3,4.5,6,15 mL,Chia Seeds,Bulk chia seeds @ $8.00/kg for a 20g portion
+6ada090389b03e7af7b7fd30,Chia Seeds,15,$0.15,70,3,4.5,6,15 mL,Chia Seeds,Bulk chia seeds @ $8.00/kg for a 20g portion
+6ada090389b03e7af7b7fd66,Vegan Margarine,12,$0.12,110,0,12.0,0,15 mL,Vegan Margarine,Bulk vegan margarine @ $4.00/kg for a 30g portion
+6ada090389b03e7af7b7fb1b,Vegan Margarine,12,$0.12,110,0,12.0,0,15 mL,Vegan Margarine,Bulk vegan margarine @ $4.00/kg for a 30g portion
+6ada090389b03e7af7b7fda5,Showtime Smoothie Station with Yogurt,110,$1.10,80,2,0.5,18,120 mL,"Apple Juice, Vanilla Yogurt, Mango, Blueberries, Honey","Blend of juice, yogurt, frozen fruit, and honey for a 350ml portion"
+6ada090389b03e7af7b7fb54,Showtime Smoothie Station with Yogurt,110,$1.10,80,2,0.5,18,120 mL,"Apple Juice, Vanilla Yogurt, Mango, Blueberries, Honey","Blend of juice, yogurt, frozen fruit, and honey for a 350ml portion"
+6ada090389b03e7af7b7fb70,Assorted Dry Spices,8,$0.08,0,0.2,0.1,1,3 mL,"Garlic, Chili Powder, Onion, Cumin, Thyme",Bulk dry spices blend @ $12.00/kg for a 7g portion
+6ada090389b03e7af7b7fdc1,Assorted Dry Spices,8,$0.08,0,0.2,0.1,1,3 mL,"Garlic, Chili Powder, Onion, Cumin, Thyme",Bulk dry spices blend @ $12.00/kg for a 7g portion
